@@ -1,0 +1,929 @@
+team_name,date,event,opponent,map,result,opponent_rank,opponent_points
+3dmax,2025-04-23,IEM Melbourne 2025,Faze,Dust2,1 - 13,9,209
+3dmax,2025-04-23,IEM Melbourne 2025,Faze,Nuke,7 - 13,9,209
+3dmax,2025-04-22,IEM Melbourne 2025,Big,Ancient,13 - 5,20,57
+3dmax,2025-04-22,IEM Melbourne 2025,Big,Dust2,19 - 16,20,57
+3dmax,2025-04-21,IEM Melbourne 2025,Gamerlegion,Ancient,4 - 13,11,161
+3dmax,2025-04-21,IEM Melbourne 2025,Gamerlegion,Inferno,8 - 13,11,161
+3dmax,2025-04-11,PGL Bucharest 2025,Faze,Anubis,0 - 13,9,209
+3dmax,2025-04-11,PGL Bucharest 2025,Faze,Nuke,5 - 13,9,209
+3dmax,2025-04-08,PGL Bucharest 2025,Aurora,Anubis,5 - 13,5,351
+3dmax,2025-04-08,PGL Bucharest 2025,Aurora,Dust2,16 - 14,5,351
+3dmax,2025-04-08,PGL Bucharest 2025,Aurora,Inferno,13 - 9,5,351
+3dmax,2025-04-07,PGL Bucharest 2025,Astralis,Ancient,7 - 13,15,88
+3dmax,2025-04-07,PGL Bucharest 2025,Astralis,Dust2,13 - 7,15,88
+3dmax,2025-04-07,PGL Bucharest 2025,Astralis,Inferno,13 - 7,15,88
+3dmax,2025-04-06,PGL Bucharest 2025,The Mongolz,Ancient,11 - 13,7,343
+3dmax,2025-04-06,PGL Bucharest 2025,The Mongolz,Anubis,13 - 10,7,343
+3dmax,2025-04-06,PGL Bucharest 2025,The Mongolz,Inferno,13 - 10,7,343
+astralis,2025-05-13,PGL Astana 2025,Virtus.Pro,Ancient,13 - 9,12,157
+astralis,2025-05-13,PGL Astana 2025,Virtus.Pro,Dust2,19 - 17,12,157
+astralis,2025-05-13,PGL Astana 2025,Virtus.Pro,Inferno,9 - 13,12,157
+astralis,2025-05-12,PGL Astana 2025,Spirit,Ancient,5 - 13,3,555
+astralis,2025-05-12,PGL Astana 2025,Spirit,Dust2,7 - 13,3,555
+astralis,2025-05-11,PGL Astana 2025,Pain,Inferno,13 - 9,16,69
+astralis,2025-05-11,PGL Astana 2025,Pain,Nuke,13 - 4,16,69
+astralis,2025-05-10,PGL Astana 2025,Oddik,Ancient,2 - 13,31,29
+astralis,2025-05-10,PGL Astana 2025,Oddik,Dust2,13 - 9,31,29
+astralis,2025-05-10,PGL Astana 2025,Oddik,Inferno,13 - 7,31,29
+astralis,2025-04-17,BLAST.tv Austin Major 2025 Europe Regional Qualifier,B8,Ancient,14 - 16,23,51
+astralis,2025-04-17,BLAST.tv Austin Major 2025 Europe Regional Qualifier,B8,Inferno,13 - 7,23,51
+astralis,2025-04-17,BLAST.tv Austin Major 2025 Europe Regional Qualifier,B8,Mirage,10 - 13,23,51
+astralis,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Big,Ancient,13 - 7,20,57
+astralis,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Big,Inferno,13 - 9,20,57
+astralis,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Big,Mirage,11 - 13,20,57
+astralis,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Metizport,Ancient,9 - 13,43,20
+astralis,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Metizport,Inferno,9 - 13,43,20
+astralis,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Metizport,Mirage,13 - 7,43,20
+astralis,2025-04-10,PGL Bucharest 2025,Virtus.Pro,Dust2,10 - 13,12,157
+astralis,2025-04-10,PGL Bucharest 2025,Virtus.Pro,Train,6 - 13,12,157
+astralis,2025-04-09,PGL Bucharest 2025,Legacy,Ancient,13 - 7,29,31
+astralis,2025-04-09,PGL Bucharest 2025,Legacy,Dust2,7 - 13,29,31
+astralis,2025-04-09,PGL Bucharest 2025,Legacy,Nuke,19 - 16,29,31
+astralis,2025-04-08,PGL Bucharest 2025,Betclic,Ancient,9 - 13,28,32
+astralis,2025-04-08,PGL Bucharest 2025,Betclic,Mirage,8 - 13,28,32
+astralis,2025-04-07,PGL Bucharest 2025,3Dmax,Ancient,13 - 7,13,141
+astralis,2025-04-07,PGL Bucharest 2025,3Dmax,Dust2,7 - 13,13,141
+astralis,2025-04-07,PGL Bucharest 2025,3Dmax,Inferno,7 - 13,13,141
+astralis,2025-04-06,PGL Bucharest 2025,Faze,Ancient,13 - 4,9,209
+astralis,2025-04-06,PGL Bucharest 2025,Faze,Dust2,13 - 16,9,209
+astralis,2025-04-06,PGL Bucharest 2025,Faze,Train,13 - 8,9,209
+astralis,2025-03-21,BLAST Open Lisbon 2025,Faze,Nuke,6 - 13,9,209
+astralis,2025-03-21,BLAST Open Lisbon 2025,Faze,Train,7 - 13,9,209
+astralis,2025-03-19,BLAST Open Lisbon 2025,Vitality,Dust2,6 - 13,1,1000
+astralis,2025-03-19,BLAST Open Lisbon 2025,Vitality,Inferno,4 - 13,1,1000
+aurora,2025-05-13,PGL Astana 2025,Natus Vincere,Inferno,10 - 13,6,347
+aurora,2025-05-13,PGL Astana 2025,Natus Vincere,Train,11 - 13,6,347
+aurora,2025-05-12,PGL Astana 2025,Ninjas In Pyjamas,Anubis,13 - 10,30,30
+aurora,2025-05-12,PGL Astana 2025,Ninjas In Pyjamas,Inferno,13 - 8,30,30
+aurora,2025-05-12,PGL Astana 2025,Ninjas In Pyjamas,Train,9 - 13,30,30
+aurora,2025-05-11,PGL Astana 2025,Hotu,Anubis,13 - 16,36,25
+aurora,2025-05-11,PGL Astana 2025,Hotu,Mirage,13 - 9,36,25
+aurora,2025-05-11,PGL Astana 2025,Hotu,Nuke,13 - 11,36,25
+aurora,2025-05-10,PGL Astana 2025,Big,Dust2,8 - 13,20,57
+aurora,2025-05-10,PGL Astana 2025,Big,Inferno,11 - 13,20,57
+aurora,2025-05-10,PGL Astana 2025,Big,Mirage,13 - 11,20,57
+aurora,2025-04-11,PGL Bucharest 2025,Complexity,Anubis,13 - 9,14,127
+aurora,2025-04-11,PGL Bucharest 2025,Complexity,Nuke,9 - 13,14,127
+aurora,2025-04-11,PGL Bucharest 2025,Complexity,Train,9 - 13,14,127
+aurora,2025-04-09,PGL Bucharest 2025,Betclic,Anubis,16 - 12,28,32
+aurora,2025-04-09,PGL Bucharest 2025,Betclic,Mirage,13 - 6,28,32
+aurora,2025-04-08,PGL Bucharest 2025,3Dmax,Anubis,13 - 5,13,141
+aurora,2025-04-08,PGL Bucharest 2025,3Dmax,Dust2,14 - 16,13,141
+aurora,2025-04-08,PGL Bucharest 2025,3Dmax,Inferno,9 - 13,13,141
+aurora,2025-04-07,PGL Bucharest 2025,Legacy,Anubis,13 - 7,29,31
+aurora,2025-04-07,PGL Bucharest 2025,Legacy,Mirage,13 - 10,29,31
+aurora,2025-04-06,PGL Bucharest 2025,Pain,Dust2,19 - 17,16,69
+aurora,2025-04-06,PGL Bucharest 2025,Pain,Inferno,14 - 16,16,69
+aurora,2025-04-06,PGL Bucharest 2025,Pain,Nuke,13 - 8,16,69
+b8,2025-05-11,ESL Challenger League Season 49 Europe,Parivision,Ancient,13 - 11,48,18
+b8,2025-05-11,ESL Challenger League Season 49 Europe,Parivision,Dust2,5 - 13,48,18
+b8,2025-05-11,ESL Challenger League Season 49 Europe,Parivision,Inferno,13 - 3,48,18
+b8,2025-05-11,ESL Challenger League Season 49 Europe,Parivision,Mirage,9 - 13,48,18
+b8,2025-05-08,ESL Challenger League Season 49 Europe,Sinners,Inferno,13 - 10,61,12
+b8,2025-05-08,ESL Challenger League Season 49 Europe,Sinners,Mirage,13 - 11,61,12
+b8,2025-05-04,MESA Nomadic Masters Spring 2025,Chinggis Warriors,Dust2,13 - 8,37,25
+b8,2025-05-04,MESA Nomadic Masters Spring 2025,Chinggis Warriors,Inferno,13 - 6,37,25
+b8,2025-05-03,MESA Nomadic Masters Spring 2025,Big,Dust2,9 - 13,20,57
+b8,2025-05-03,MESA Nomadic Masters Spring 2025,Big,Inferno,13 - 3,20,57
+b8,2025-05-03,MESA Nomadic Masters Spring 2025,Big,Mirage,8 - 13,20,57
+b8,2025-05-02,MESA Nomadic Masters Spring 2025,Jijiehao,Ancient,13 - 10,45,19
+b8,2025-05-02,MESA Nomadic Masters Spring 2025,Jijiehao,Inferno,13 - 7,45,19
+b8,2025-05-01,MESA Nomadic Masters Spring 2025,Big,Inferno,7 - 13,20,57
+b8,2025-05-01,MESA Nomadic Masters Spring 2025,Big,Mirage,4 - 13,20,57
+b8,2025-04-30,MESA Nomadic Masters Spring 2025,The Huns,Dust2,13 - 6,46,19
+b8,2025-04-30,MESA Nomadic Masters Spring 2025,The Huns,Inferno,13 - 10,46,19
+b8,2025-04-30,MESA Nomadic Masters Spring 2025,The Huns,Mirage,9 - 13,46,19
+b8,2025-04-27,CCT Global Finals 2025,Heroic,Dust2,7 - 13,17,68
+b8,2025-04-27,CCT Global Finals 2025,Heroic,Mirage,4 - 13,17,68
+b8,2025-04-26,CCT Global Finals 2025,Betboom,Ancient,25 - 22,26,34
+b8,2025-04-26,CCT Global Finals 2025,Betboom,Mirage,13 - 10,26,34
+b8,2025-04-26,CCT Global Finals 2025,Betboom,Train,12 - 16,26,34
+b8,2025-04-25,CCT Global Finals 2025,Heroic,Ancient,8 - 13,17,68
+b8,2025-04-25,CCT Global Finals 2025,Heroic,Anubis,13 - 11,17,68
+b8,2025-04-25,CCT Global Finals 2025,Heroic,Mirage,13 - 3,17,68
+b8,2025-04-17,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Astralis,Ancient,16 - 14,15,88
+b8,2025-04-17,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Astralis,Inferno,7 - 13,15,88
+b8,2025-04-17,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Astralis,Mirage,13 - 10,15,88
+b8,2025-04-17,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Ence,Ancient,13 - 7,35,26
+b8,2025-04-17,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Ence,Anubis,9 - 13,35,26
+b8,2025-04-17,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Ence,Mirage,13 - 11,35,26
+b8,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,9-Pandas,Dust2,13 - 7,265,0
+b8,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,9-Pandas,Mirage,13 - 10,265,0
+b8,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Bc.Game,Mirage,13 - 5,75,9
+b8,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Bc.Game,Train,13 - 10,75,9
+b8,2025-04-15,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Parivision,Ancient,16 - 13,48,18
+b8,2025-04-15,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Parivision,Dust2,11 - 13,48,18
+b8,2025-04-15,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Parivision,Mirage,13 - 7,48,18
+b8,2025-03-31,PGL Astana 2025 Europe Closed Qualifier,Ninjas In Pyjamas,Inferno,9 - 13,30,30
+b8,2025-03-31,PGL Astana 2025 Europe Closed Qualifier,Ninjas In Pyjamas,Train,10 - 13,30,30
+b8,2025-03-30,PGL Astana 2025 Europe Closed Qualifier,Cybershoke,Mirage,13 - 6,78,9
+b8,2025-03-30,PGL Astana 2025 Europe Closed Qualifier,Cybershoke,Train,13 - 8,78,9
+b8,2025-03-29,PGL Astana 2025 Europe Closed Qualifier,Parivision,Mirage,13 - 10,48,18
+b8,2025-03-29,PGL Astana 2025 Europe Closed Qualifier,Parivision,Train,13 - 10,48,18
+b8,2025-03-29,PGL Astana 2025 Europe Closed Qualifier,Ence,Ancient,13 - 8,35,26
+b8,2025-03-29,PGL Astana 2025 Europe Closed Qualifier,Ence,Mirage,13 - 8,35,26
+b8,2025-03-29,PGL Astana 2025 Europe Closed Qualifier,Ence,Nuke,7 - 13,35,26
+b8,2025-03-28,PGL Astana 2025 Europe Closed Qualifier,Cybershoke,Ancient,11 - 13,78,9
+b8,2025-03-28,PGL Astana 2025 Europe Closed Qualifier,Cybershoke,Mirage,13 - 5,78,9
+b8,2025-03-28,PGL Astana 2025 Europe Closed Qualifier,Cybershoke,Train,16 - 19,78,9
+b8,2025-03-25,ESL Challenger League Season 49 Europe,Nemiga,Dust2,7 - 13,40,22
+b8,2025-03-25,ESL Challenger League Season 49 Europe,Nemiga,Inferno,13 - 6,40,22
+b8,2025-03-25,ESL Challenger League Season 49 Europe,Nemiga,Mirage,13 - 5,40,22
+b8,2025-03-18,ESL Challenger League Season 49 Europe,Zero Tenacity,Mirage,9 - 13,69,11
+b8,2025-03-18,ESL Challenger League Season 49 Europe,Zero Tenacity,Nuke,7 - 13,69,11
+betboom,2025-05-10,A1 Gaming League Season 10,Ecstatic,Dust2,7 - 13,39,23
+betboom,2025-05-10,A1 Gaming League Season 10,Ecstatic,Nuke,13 - 7,39,23
+betboom,2025-05-10,A1 Gaming League Season 10,Ecstatic,Train,7 - 13,39,23
+betboom,2025-04-27,CCT Global Finals 2025,Heroic,Ancient,13 - 8,17,68
+betboom,2025-04-27,CCT Global Finals 2025,Heroic,Anubis,8 - 13,17,68
+betboom,2025-04-27,CCT Global Finals 2025,Heroic,Train,23 - 25,17,68
+betboom,2025-04-26,CCT Global Finals 2025,B8,Ancient,22 - 25,23,51
+betboom,2025-04-26,CCT Global Finals 2025,B8,Mirage,10 - 13,23,51
+betboom,2025-04-26,CCT Global Finals 2025,B8,Train,16 - 12,23,51
+betboom,2025-04-25,CCT Global Finals 2025,Imperial,Dust2,16 - 12,34,28
+betboom,2025-04-25,CCT Global Finals 2025,Imperial,Train,13 - 11,34,28
+betboom,2025-04-24,CCT Global Finals 2025,Wildcard,Anubis,13 - 10,22,54
+betboom,2025-04-24,CCT Global Finals 2025,Wildcard,Dust2,13 - 0,22,54
+betboom,2025-04-20,YaLLa Compass Spring 2025,Ence,Anubis,20 - 22,35,26
+betboom,2025-04-20,YaLLa Compass Spring 2025,Ence,Mirage,4 - 13,35,26
+betboom,2025-04-20,YaLLa Compass Spring 2025,Ence,Nuke,19 - 17,35,26
+betboom,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,9-Pandas,Anubis,13 - 3,265,0
+betboom,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,9-Pandas,Dust2,5 - 13,265,0
+betboom,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,9-Pandas,Nuke,13 - 7,265,0
+betboom,2025-04-12,A1 Gaming League Season 10,Bc.Game,Anubis,13 - 4,75,9
+betboom,2025-04-12,A1 Gaming League Season 10,Bc.Game,Dust2,8 - 13,75,9
+betboom,2025-04-12,A1 Gaming League Season 10,Bc.Game,Mirage,13 - 3,75,9
+betboom,2025-03-30,PGL Astana 2025 Europe Closed Qualifier,Metizport,Anubis,13 - 11,43,20
+betboom,2025-03-30,PGL Astana 2025 Europe Closed Qualifier,Metizport,Mirage,8 - 13,43,20
+betboom,2025-03-30,PGL Astana 2025 Europe Closed Qualifier,Metizport,Nuke,11 - 13,43,20
+betboom,2025-03-30,PGL Astana 2025 Europe Closed Qualifier,Tnl,Dust2,5 - 13,47,19
+betboom,2025-03-30,PGL Astana 2025 Europe Closed Qualifier,Tnl,Mirage,13 - 4,47,19
+betboom,2025-03-30,PGL Astana 2025 Europe Closed Qualifier,Tnl,Nuke,13 - 9,47,19
+betboom,2025-03-29,PGL Astana 2025 Europe Closed Qualifier,Monte,Ancient,8 - 13,73,10
+betboom,2025-03-29,PGL Astana 2025 Europe Closed Qualifier,Monte,Anubis,13 - 10,73,10
+betboom,2025-03-29,PGL Astana 2025 Europe Closed Qualifier,Monte,Train,13 - 11,73,10
+betboom,2025-03-29,PGL Astana 2025 Europe Closed Qualifier,9-Pandas,Ancient,13 - 11,265,0
+betboom,2025-03-29,PGL Astana 2025 Europe Closed Qualifier,9-Pandas,Dust2,16 - 19,265,0
+betboom,2025-03-29,PGL Astana 2025 Europe Closed Qualifier,9-Pandas,Mirage,13 - 8,265,0
+betboom,2025-03-28,PGL Astana 2025 Europe Closed Qualifier,Og,Ancient,13 - 5,42,21
+betboom,2025-03-28,PGL Astana 2025 Europe Closed Qualifier,Og,Dust2,13 - 11,42,21
+betboom,2025-03-28,PGL Astana 2025 Europe Closed Qualifier,Og,Nuke,4 - 13,42,21
+betclic,2025-04-10,PGL Bucharest 2025,Faze,Ancient,8 - 13,9,209
+betclic,2025-04-10,PGL Bucharest 2025,Faze,Dust2,5 - 13,9,209
+betclic,2025-04-09,PGL Bucharest 2025,Aurora,Anubis,12 - 16,5,351
+betclic,2025-04-09,PGL Bucharest 2025,Aurora,Mirage,6 - 13,5,351
+betclic,2025-04-08,PGL Bucharest 2025,Astralis,Ancient,13 - 9,15,88
+betclic,2025-04-08,PGL Bucharest 2025,Astralis,Mirage,13 - 8,15,88
+betclic,2025-04-07,PGL Bucharest 2025,The Mongolz,Ancient,13 - 8,7,343
+betclic,2025-04-07,PGL Bucharest 2025,The Mongolz,Nuke,13 - 11,7,343
+betclic,2025-04-06,PGL Bucharest 2025,Furia,Dust2,6 - 13,19,62
+betclic,2025-04-06,PGL Bucharest 2025,Furia,Mirage,7 - 13,19,62
+betclic,2025-03-22,Galaxy Battle 2025 STARTER,Aurora,Ancient,13 - 9,262,0
+betclic,2025-03-22,Galaxy Battle 2025 STARTER,Aurora,Mirage,11 - 13,262,0
+betclic,2025-03-22,Galaxy Battle 2025 STARTER,Aurora,Train,7 - 13,262,0
+betclic,2025-03-19,Galaxy Battle 2025 STARTER,Ecstatic,Anubis,9 - 13,39,23
+betclic,2025-03-19,Galaxy Battle 2025 STARTER,Ecstatic,Train,8 - 13,39,23
+betclic,2025-03-15,CCT Season 2 Europe Series 20,Og,Ancient,9 - 13,42,21
+betclic,2025-03-15,CCT Season 2 Europe Series 20,Og,Anubis,5 - 13,42,21
+big,2025-05-13,PGL Astana 2025,G2,Dust2,7 - 13,8,309
+big,2025-05-13,PGL Astana 2025,G2,Mirage,4 - 13,8,309
+big,2025-05-12,PGL Astana 2025,Virtus.Pro,Ancient,3 - 13,12,157
+big,2025-05-12,PGL Astana 2025,Virtus.Pro,Dust2,9 - 13,12,157
+big,2025-05-11,PGL Astana 2025,Natus Vincere,Inferno,8 - 13,6,347
+big,2025-05-11,PGL Astana 2025,Natus Vincere,Mirage,10 - 13,6,347
+big,2025-05-10,PGL Astana 2025,Aurora,Dust2,13 - 8,5,351
+big,2025-05-10,PGL Astana 2025,Aurora,Inferno,13 - 11,5,351
+big,2025-05-10,PGL Astana 2025,Aurora,Mirage,11 - 13,5,351
+big,2025-05-04,MESA Nomadic Masters Spring 2025,Heroic,Ancient,8 - 13,17,68
+big,2025-05-04,MESA Nomadic Masters Spring 2025,Heroic,Dust2,9 - 13,17,68
+big,2025-05-04,MESA Nomadic Masters Spring 2025,Heroic,Mirage,13 - 3,17,68
+big,2025-05-04,MESA Nomadic Masters Spring 2025,Heroic,Train,6 - 13,17,68
+big,2025-05-03,MESA Nomadic Masters Spring 2025,B8,Dust2,13 - 9,23,51
+big,2025-05-03,MESA Nomadic Masters Spring 2025,B8,Inferno,3 - 13,23,51
+big,2025-05-03,MESA Nomadic Masters Spring 2025,B8,Mirage,13 - 8,23,51
+big,2025-05-01,MESA Nomadic Masters Spring 2025,B8,Inferno,13 - 7,23,51
+big,2025-05-01,MESA Nomadic Masters Spring 2025,B8,Mirage,13 - 4,23,51
+big,2025-04-22,IEM Melbourne 2025,3Dmax,Ancient,5 - 13,13,141
+big,2025-04-22,IEM Melbourne 2025,3Dmax,Dust2,16 - 19,13,141
+big,2025-04-21,IEM Melbourne 2025,Mouz,Ancient,8 - 13,2,568
+big,2025-04-21,IEM Melbourne 2025,Mouz,Inferno,13 - 6,2,568
+big,2025-04-21,IEM Melbourne 2025,Mouz,Mirage,9 - 13,2,568
+big,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Astralis,Ancient,7 - 13,15,88
+big,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Astralis,Inferno,9 - 13,15,88
+big,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Astralis,Mirage,13 - 11,15,88
+big,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Nemiga,Dust2,3 - 13,40,22
+big,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Nemiga,Inferno,11 - 13,40,22
+complexity,2025-04-23,IEM Melbourne 2025,Gamerlegion,Ancient,13 - 5,11,161
+complexity,2025-04-23,IEM Melbourne 2025,Gamerlegion,Nuke,4 - 13,11,161
+complexity,2025-04-23,IEM Melbourne 2025,Gamerlegion,Train,9 - 13,11,161
+complexity,2025-04-22,IEM Melbourne 2025,Pain,Anubis,13 - 6,16,69
+complexity,2025-04-22,IEM Melbourne 2025,Pain,Train,13 - 2,16,69
+complexity,2025-04-21,IEM Melbourne 2025,The Mongolz,Ancient,13 - 16,7,343
+complexity,2025-04-21,IEM Melbourne 2025,The Mongolz,Anubis,13 - 11,7,343
+complexity,2025-04-21,IEM Melbourne 2025,The Mongolz,Inferno,10 - 13,7,343
+complexity,2025-04-16,BLAST.tv Austin Major 2025 North America Regional Qualifier,Bluejays,Ancient,16 - 12,52,15
+complexity,2025-04-16,BLAST.tv Austin Major 2025 North America Regional Qualifier,Bluejays,Train,13 - 7,52,15
+complexity,2025-04-15,BLAST.tv Austin Major 2025 North America Regional Qualifier,Getting-Info,Ancient,13 - 11,265,0
+complexity,2025-04-15,BLAST.tv Austin Major 2025 North America Regional Qualifier,Getting-Info,Anubis,19 - 17,265,0
+complexity,2025-04-13,PGL Bucharest 2025,Faze,Dust2,10 - 13,9,209
+complexity,2025-04-13,PGL Bucharest 2025,Faze,Inferno,11 - 13,9,209
+complexity,2025-04-12,PGL Bucharest 2025,G2,Anubis,8 - 13,8,309
+complexity,2025-04-12,PGL Bucharest 2025,G2,Dust2,9 - 13,8,309
+complexity,2025-04-11,PGL Bucharest 2025,Aurora,Anubis,9 - 13,5,351
+complexity,2025-04-11,PGL Bucharest 2025,Aurora,Nuke,13 - 9,5,351
+complexity,2025-04-11,PGL Bucharest 2025,Aurora,Train,13 - 9,5,351
+complexity,2025-04-09,PGL Bucharest 2025,Faze,Anubis,13 - 10,9,209
+complexity,2025-04-09,PGL Bucharest 2025,Faze,Dust2,13 - 7,9,209
+complexity,2025-04-08,PGL Bucharest 2025,G2,Ancient,10 - 13,8,309
+complexity,2025-04-08,PGL Bucharest 2025,G2,Anubis,13 - 10,8,309
+complexity,2025-04-08,PGL Bucharest 2025,G2,Dust2,12 - 16,8,309
+complexity,2025-04-07,PGL Bucharest 2025,Furia,Dust2,8 - 13,19,62
+complexity,2025-04-07,PGL Bucharest 2025,Furia,Inferno,13 - 4,19,62
+complexity,2025-04-07,PGL Bucharest 2025,Furia,Train,13 - 1,19,62
+complexity,2025-04-06,PGL Bucharest 2025,Falcons,Dust2,13 - 5,4,451
+complexity,2025-04-06,PGL Bucharest 2025,Falcons,Train,13 - 6,4,451
+falcons,2025-05-04,BLAST Rivals 2025 Season 1,Vitality,Dust2,6 - 13,1,1000
+falcons,2025-05-04,BLAST Rivals 2025 Season 1,Vitality,Inferno,13 - 9,1,1000
+falcons,2025-05-04,BLAST Rivals 2025 Season 1,Vitality,Mirage,16 - 14,1,1000
+falcons,2025-05-04,BLAST Rivals 2025 Season 1,Vitality,Nuke,8 - 13,1,1000
+falcons,2025-05-04,BLAST Rivals 2025 Season 1,Vitality,Train,6 - 13,1,1000
+falcons,2025-05-03,BLAST Rivals 2025 Season 1,Mouz,Dust2,13 - 6,2,568
+falcons,2025-05-03,BLAST Rivals 2025 Season 1,Mouz,Nuke,16 - 14,2,568
+falcons,2025-05-01,BLAST Rivals 2025 Season 1,Spirit,Ancient,13 - 6,3,555
+falcons,2025-05-01,BLAST Rivals 2025 Season 1,Spirit,Dust2,16 - 12,3,555
+falcons,2025-05-01,BLAST Rivals 2025 Season 1,Spirit,Mirage,4 - 13,3,555
+falcons,2025-04-30,BLAST Rivals 2025 Season 1,Faze,Ancient,13 - 10,9,209
+falcons,2025-04-30,BLAST Rivals 2025 Season 1,Faze,Dust2,13 - 6,9,209
+falcons,2025-04-27,IEM Melbourne 2025,Vitality,Dust2,16 - 12,1,1000
+falcons,2025-04-27,IEM Melbourne 2025,Vitality,Inferno,2 - 13,1,1000
+falcons,2025-04-27,IEM Melbourne 2025,Vitality,Mirage,13 - 10,1,1000
+falcons,2025-04-27,IEM Melbourne 2025,Vitality,Nuke,20 - 22,1,1000
+falcons,2025-04-27,IEM Melbourne 2025,Vitality,Train,9 - 13,1,1000
+falcons,2025-04-26,IEM Melbourne 2025,Mouz,Dust2,13 - 3,2,568
+falcons,2025-04-26,IEM Melbourne 2025,Mouz,Nuke,13 - 6,2,568
+falcons,2025-04-25,IEM Melbourne 2025,Gamerlegion,Nuke,13 - 4,11,161
+falcons,2025-04-25,IEM Melbourne 2025,Gamerlegion,Train,13 - 3,11,161
+falcons,2025-04-23,IEM Melbourne 2025,Vitality,Inferno,8 - 13,1,1000
+falcons,2025-04-23,IEM Melbourne 2025,Vitality,Mirage,13 - 16,1,1000
+falcons,2025-04-22,IEM Melbourne 2025,Natus Vincere,Dust2,13 - 4,6,347
+falcons,2025-04-22,IEM Melbourne 2025,Natus Vincere,Inferno,9 - 13,6,347
+falcons,2025-04-22,IEM Melbourne 2025,Natus Vincere,Mirage,13 - 11,6,347
+falcons,2025-04-21,IEM Melbourne 2025,Saw,Dust2,13 - 9,25,46
+falcons,2025-04-21,IEM Melbourne 2025,Saw,Nuke,13 - 8,25,46
+falcons,2025-04-13,PGL Bucharest 2025,G2,Ancient,13 - 8,8,309
+falcons,2025-04-13,PGL Bucharest 2025,G2,Mirage,13 - 5,8,309
+falcons,2025-04-13,PGL Bucharest 2025,G2,Nuke,13 - 7,8,309
+falcons,2025-04-12,PGL Bucharest 2025,Faze,Ancient,14 - 16,9,209
+falcons,2025-04-12,PGL Bucharest 2025,Faze,Mirage,13 - 10,9,209
+falcons,2025-04-12,PGL Bucharest 2025,Faze,Nuke,13 - 4,9,209
+falcons,2025-04-11,PGL Bucharest 2025,Gamerlegion,Ancient,13 - 7,11,161
+falcons,2025-04-11,PGL Bucharest 2025,Gamerlegion,Inferno,13 - 7,11,161
+falcons,2025-04-11,PGL Bucharest 2025,Gamerlegion,Train,7 - 13,11,161
+falcons,2025-04-10,PGL Bucharest 2025,The Mongolz,Ancient,16 - 14,7,343
+falcons,2025-04-10,PGL Bucharest 2025,The Mongolz,Dust2,13 - 6,7,343
+falcons,2025-04-10,PGL Bucharest 2025,The Mongolz,Mirage,9 - 13,7,343
+falcons,2025-04-09,PGL Bucharest 2025,Rare Atom,Inferno,13 - 6,32,29
+falcons,2025-04-09,PGL Bucharest 2025,Rare Atom,Train,13 - 2,32,29
+falcons,2025-04-08,PGL Bucharest 2025,Pain,Inferno,13 - 9,16,69
+falcons,2025-04-08,PGL Bucharest 2025,Pain,Nuke,6 - 13,16,69
+falcons,2025-04-08,PGL Bucharest 2025,Pain,Train,13 - 8,16,69
+falcons,2025-04-07,PGL Bucharest 2025,Gamerlegion,Inferno,2 - 13,11,161
+falcons,2025-04-07,PGL Bucharest 2025,Gamerlegion,Mirage,1 - 13,11,161
+falcons,2025-04-06,PGL Bucharest 2025,Complexity,Dust2,5 - 13,14,127
+falcons,2025-04-06,PGL Bucharest 2025,Complexity,Train,6 - 13,14,127
+falcons,2025-03-23,BLAST Open Lisbon 2025,Virtus.Pro,Ancient,16 - 19,12,157
+falcons,2025-03-23,BLAST Open Lisbon 2025,Virtus.Pro,Inferno,20 - 22,12,157
+falcons,2025-03-23,BLAST Open Lisbon 2025,Virtus.Pro,Mirage,13 - 11,12,157
+falcons,2025-03-21,BLAST Open Lisbon 2025,The Huns,Ancient,13 - 6,46,19
+falcons,2025-03-21,BLAST Open Lisbon 2025,The Huns,Inferno,16 - 13,46,19
+falcons,2025-03-19,BLAST Open Lisbon 2025,Mouz,Ancient,10 - 13,2,568
+falcons,2025-03-19,BLAST Open Lisbon 2025,Mouz,Train,11 - 13,2,568
+faze,2025-05-02,BLAST Rivals 2025 Season 1,Mouz,Dust2,11 - 13,2,568
+faze,2025-05-02,BLAST Rivals 2025 Season 1,Mouz,Mirage,2 - 13,2,568
+faze,2025-05-01,BLAST Rivals 2025 Season 1,Flyquest,Inferno,13 - 11,24,49
+faze,2025-05-01,BLAST Rivals 2025 Season 1,Flyquest,Nuke,22 - 18,24,49
+faze,2025-04-30,BLAST Rivals 2025 Season 1,Falcons,Ancient,10 - 13,4,451
+faze,2025-04-30,BLAST Rivals 2025 Season 1,Falcons,Dust2,6 - 13,4,451
+faze,2025-04-23,IEM Melbourne 2025,Gamerlegion,Mirage,16 - 19,11,161
+faze,2025-04-23,IEM Melbourne 2025,Gamerlegion,Nuke,11 - 13,11,161
+faze,2025-04-23,IEM Melbourne 2025,3Dmax,Dust2,13 - 1,13,141
+faze,2025-04-23,IEM Melbourne 2025,3Dmax,Nuke,13 - 7,13,141
+faze,2025-04-22,IEM Melbourne 2025,The Mongolz,Ancient,13 - 16,7,343
+faze,2025-04-22,IEM Melbourne 2025,The Mongolz,Dust2,8 - 13,7,343
+faze,2025-04-21,IEM Melbourne 2025,Pain,Anubis,13 - 11,16,69
+faze,2025-04-21,IEM Melbourne 2025,Pain,Inferno,13 - 11,16,69
+faze,2025-04-13,PGL Bucharest 2025,Complexity,Dust2,13 - 10,14,127
+faze,2025-04-13,PGL Bucharest 2025,Complexity,Inferno,13 - 11,14,127
+faze,2025-04-12,PGL Bucharest 2025,Falcons,Ancient,16 - 14,4,451
+faze,2025-04-12,PGL Bucharest 2025,Falcons,Mirage,10 - 13,4,451
+faze,2025-04-12,PGL Bucharest 2025,Falcons,Nuke,4 - 13,4,451
+faze,2025-04-11,PGL Bucharest 2025,3Dmax,Anubis,13 - 0,13,141
+faze,2025-04-11,PGL Bucharest 2025,3Dmax,Nuke,13 - 5,13,141
+faze,2025-04-10,PGL Bucharest 2025,Betclic,Ancient,13 - 8,28,32
+faze,2025-04-10,PGL Bucharest 2025,Betclic,Dust2,13 - 5,28,32
+faze,2025-04-09,PGL Bucharest 2025,Complexity,Anubis,10 - 13,14,127
+faze,2025-04-09,PGL Bucharest 2025,Complexity,Dust2,7 - 13,14,127
+faze,2025-04-08,PGL Bucharest 2025,Rare Atom,Ancient,13 - 10,32,29
+faze,2025-04-08,PGL Bucharest 2025,Rare Atom,Dust2,13 - 3,32,29
+faze,2025-04-07,PGL Bucharest 2025,Pain,Dust2,13 - 7,16,69
+faze,2025-04-07,PGL Bucharest 2025,Pain,Inferno,13 - 11,16,69
+faze,2025-04-06,PGL Bucharest 2025,Astralis,Ancient,4 - 13,15,88
+faze,2025-04-06,PGL Bucharest 2025,Astralis,Dust2,16 - 13,15,88
+faze,2025-04-06,PGL Bucharest 2025,Astralis,Train,8 - 13,15,88
+faze,2025-03-23,BLAST Open Lisbon 2025,Spirit,Anubis,8 - 13,3,555
+faze,2025-03-23,BLAST Open Lisbon 2025,Spirit,Nuke,9 - 13,3,555
+faze,2025-03-21,BLAST Open Lisbon 2025,Astralis,Nuke,13 - 6,15,88
+faze,2025-03-21,BLAST Open Lisbon 2025,Astralis,Train,13 - 7,15,88
+faze,2025-03-19,BLAST Open Lisbon 2025,Virtus.Pro,Ancient,13 - 16,12,157
+faze,2025-03-19,BLAST Open Lisbon 2025,Virtus.Pro,Anubis,16 - 12,12,157
+faze,2025-03-19,BLAST Open Lisbon 2025,Virtus.Pro,Dust2,0 - 13,12,157
+flyquest,2025-05-11,Hero Esports Asian Champions League 2025,Tyloo,Ancient,10 - 13,27,33
+flyquest,2025-05-11,Hero Esports Asian Champions League 2025,Tyloo,Inferno,7 - 13,27,33
+flyquest,2025-05-10,Hero Esports Asian Champions League 2025,Rare Atom,Ancient,11 - 13,32,29
+flyquest,2025-05-10,Hero Esports Asian Champions League 2025,Rare Atom,Dust2,13 - 4,32,29
+flyquest,2025-05-10,Hero Esports Asian Champions League 2025,Rare Atom,Inferno,13 - 8,32,29
+flyquest,2025-05-09,Hero Esports Asian Champions League 2025,Tyloo,Ancient,13 - 8,27,33
+flyquest,2025-05-09,Hero Esports Asian Champions League 2025,Tyloo,Inferno,11 - 13,27,33
+flyquest,2025-05-09,Hero Esports Asian Champions League 2025,Tyloo,Mirage,11 - 13,27,33
+flyquest,2025-05-01,BLAST Rivals 2025 Season 1,Faze,Inferno,11 - 13,9,209
+flyquest,2025-05-01,BLAST Rivals 2025 Season 1,Faze,Nuke,18 - 22,9,209
+flyquest,2025-04-30,BLAST Rivals 2025 Season 1,Spirit,Mirage,2 - 13,3,555
+flyquest,2025-04-30,BLAST Rivals 2025 Season 1,Spirit,Nuke,9 - 13,3,555
+flyquest,2025-04-23,IEM Melbourne 2025,Natus Vincere,Ancient,8 - 13,6,347
+flyquest,2025-04-23,IEM Melbourne 2025,Natus Vincere,Inferno,7 - 13,6,347
+flyquest,2025-04-23,IEM Melbourne 2025,Natus Vincere,Mirage,13 - 9,6,347
+flyquest,2025-04-22,IEM Melbourne 2025,Virtus.Pro,Dust2,13 - 6,12,157
+flyquest,2025-04-22,IEM Melbourne 2025,Virtus.Pro,Inferno,13 - 11,12,157
+flyquest,2025-04-21,IEM Melbourne 2025,Vitality,Anubis,2 - 13,1,1000
+flyquest,2025-04-21,IEM Melbourne 2025,Vitality,Nuke,8 - 13,1,1000
+furia,2025-05-13,PGL Astana 2025,Oddik,Anubis,13 - 7,31,29
+furia,2025-05-13,PGL Astana 2025,Oddik,Train,13 - 6,31,29
+furia,2025-05-12,PGL Astana 2025,Mibr,Anubis,11 - 13,18,66
+furia,2025-05-12,PGL Astana 2025,Mibr,Inferno,13 - 8,18,66
+furia,2025-05-12,PGL Astana 2025,Mibr,Train,13 - 4,18,66
+furia,2025-05-11,PGL Astana 2025,Gamerlegion,Anubis,13 - 9,11,161
+furia,2025-05-11,PGL Astana 2025,Gamerlegion,Mirage,7 - 13,11,161
+furia,2025-05-11,PGL Astana 2025,Gamerlegion,Nuke,13 - 9,11,161
+furia,2025-05-10,PGL Astana 2025,The Mongolz,Anubis,13 - 7,7,343
+furia,2025-05-10,PGL Astana 2025,The Mongolz,Inferno,9 - 13,7,343
+furia,2025-05-10,PGL Astana 2025,The Mongolz,Mirage,4 - 13,7,343
+furia,2025-04-09,PGL Bucharest 2025,The Mongolz,Mirage,9 - 13,7,343
+furia,2025-04-09,PGL Bucharest 2025,The Mongolz,Nuke,11 - 13,7,343
+furia,2025-04-08,PGL Bucharest 2025,Virtus.Pro,Anubis,11 - 13,12,157
+furia,2025-04-08,PGL Bucharest 2025,Virtus.Pro,Dust2,8 - 13,12,157
+furia,2025-04-07,PGL Bucharest 2025,Complexity,Dust2,13 - 8,14,127
+furia,2025-04-07,PGL Bucharest 2025,Complexity,Inferno,4 - 13,14,127
+furia,2025-04-07,PGL Bucharest 2025,Complexity,Train,1 - 13,14,127
+furia,2025-04-06,PGL Bucharest 2025,Betclic,Dust2,13 - 6,28,32
+furia,2025-04-06,PGL Bucharest 2025,Betclic,Mirage,13 - 7,28,32
+furia,2025-03-22,BLAST Open Lisbon 2025,M80,Dust2,13 - 7,21,56
+furia,2025-03-22,BLAST Open Lisbon 2025,M80,Inferno,17 - 19,21,56
+furia,2025-03-22,BLAST Open Lisbon 2025,M80,Train,10 - 13,21,56
+furia,2025-03-20,BLAST Open Lisbon 2025,Natus Vincere,Anubis,12 - 16,6,347
+furia,2025-03-20,BLAST Open Lisbon 2025,Natus Vincere,Mirage,8 - 13,6,347
+g2,2025-05-13,PGL Astana 2025,Big,Dust2,13 - 7,20,57
+g2,2025-05-13,PGL Astana 2025,Big,Mirage,13 - 4,20,57
+g2,2025-05-12,PGL Astana 2025,M80,Ancient,9 - 13,21,56
+g2,2025-05-12,PGL Astana 2025,M80,Dust2,13 - 11,21,56
+g2,2025-05-12,PGL Astana 2025,M80,Inferno,13 - 10,21,56
+g2,2025-05-11,PGL Astana 2025,Oddik,Anubis,8 - 13,31,29
+g2,2025-05-11,PGL Astana 2025,Oddik,Dust2,13 - 3,31,29
+g2,2025-05-11,PGL Astana 2025,Oddik,Nuke,9 - 13,31,29
+g2,2025-05-10,PGL Astana 2025,Mibr,Ancient,13 - 8,18,66
+g2,2025-05-10,PGL Astana 2025,Mibr,Anubis,7 - 13,18,66
+g2,2025-05-10,PGL Astana 2025,Mibr,Nuke,11 - 13,18,66
+g2,2025-04-13,PGL Bucharest 2025,Falcons,Ancient,8 - 13,4,451
+g2,2025-04-13,PGL Bucharest 2025,Falcons,Mirage,5 - 13,4,451
+g2,2025-04-13,PGL Bucharest 2025,Falcons,Nuke,7 - 13,4,451
+g2,2025-04-12,PGL Bucharest 2025,Complexity,Anubis,13 - 8,14,127
+g2,2025-04-12,PGL Bucharest 2025,Complexity,Dust2,13 - 9,14,127
+g2,2025-04-11,PGL Bucharest 2025,Virtus.Pro,Dust2,13 - 11,12,157
+g2,2025-04-11,PGL Bucharest 2025,Virtus.Pro,Mirage,13 - 9,12,157
+g2,2025-04-08,PGL Bucharest 2025,Complexity,Ancient,13 - 10,14,127
+g2,2025-04-08,PGL Bucharest 2025,Complexity,Anubis,10 - 13,14,127
+g2,2025-04-08,PGL Bucharest 2025,Complexity,Dust2,16 - 12,14,127
+g2,2025-04-07,PGL Bucharest 2025,Rare Atom,Ancient,13 - 7,32,29
+g2,2025-04-07,PGL Bucharest 2025,Rare Atom,Dust2,13 - 5,32,29
+g2,2025-04-06,PGL Bucharest 2025,Gamerlegion,Inferno,16 - 12,11,161
+g2,2025-04-06,PGL Bucharest 2025,Gamerlegion,Mirage,13 - 8,11,161
+g2,2025-03-28,BLAST Open Lisbon 2025,Mouz,Inferno,8 - 13,2,568
+g2,2025-03-28,BLAST Open Lisbon 2025,Mouz,Nuke,3 - 13,2,568
+g2,2025-03-24,BLAST Open Lisbon 2025,The Mongolz,Ancient,13 - 11,7,343
+g2,2025-03-24,BLAST Open Lisbon 2025,The Mongolz,Dust2,13 - 4,7,343
+g2,2025-03-23,BLAST Open Lisbon 2025,M80,Ancient,13 - 9,21,56
+g2,2025-03-23,BLAST Open Lisbon 2025,M80,Inferno,13 - 11,21,56
+g2,2025-03-22,BLAST Open Lisbon 2025,Aurora,Anubis,10 - 13,262,0
+g2,2025-03-22,BLAST Open Lisbon 2025,Aurora,Inferno,10 - 13,262,0
+g2,2025-03-20,BLAST Open Lisbon 2025,Imperial,Inferno,13 - 11,34,28
+g2,2025-03-20,BLAST Open Lisbon 2025,Imperial,Mirage,13 - 8,34,28
+gamerlegion,2025-05-12,PGL Astana 2025,Hotu,Ancient,9 - 13,36,25
+gamerlegion,2025-05-12,PGL Astana 2025,Hotu,Mirage,6 - 13,36,25
+gamerlegion,2025-05-11,PGL Astana 2025,Furia,Anubis,9 - 13,19,62
+gamerlegion,2025-05-11,PGL Astana 2025,Furia,Mirage,13 - 7,19,62
+gamerlegion,2025-05-11,PGL Astana 2025,Furia,Nuke,9 - 13,19,62
+gamerlegion,2025-05-10,PGL Astana 2025,Spirit,Mirage,11 - 13,3,555
+gamerlegion,2025-05-10,PGL Astana 2025,Spirit,Nuke,11 - 13,3,555
+gamerlegion,2025-04-25,IEM Melbourne 2025,Falcons,Nuke,4 - 13,4,451
+gamerlegion,2025-04-25,IEM Melbourne 2025,Falcons,Train,3 - 13,4,451
+gamerlegion,2025-04-23,IEM Melbourne 2025,Faze,Mirage,19 - 16,9,209
+gamerlegion,2025-04-23,IEM Melbourne 2025,Faze,Nuke,13 - 11,9,209
+gamerlegion,2025-04-23,IEM Melbourne 2025,Complexity,Ancient,5 - 13,14,127
+gamerlegion,2025-04-23,IEM Melbourne 2025,Complexity,Nuke,13 - 4,14,127
+gamerlegion,2025-04-23,IEM Melbourne 2025,Complexity,Train,13 - 9,14,127
+gamerlegion,2025-04-22,IEM Melbourne 2025,Mouz,Inferno,6 - 13,2,568
+gamerlegion,2025-04-22,IEM Melbourne 2025,Mouz,Nuke,13 - 16,2,568
+gamerlegion,2025-04-21,IEM Melbourne 2025,3Dmax,Ancient,13 - 4,13,141
+gamerlegion,2025-04-21,IEM Melbourne 2025,3Dmax,Inferno,13 - 8,13,141
+gamerlegion,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Saw,Ancient,13 - 5,25,46
+gamerlegion,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Saw,Anubis,7 - 13,25,46
+gamerlegion,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Saw,Nuke,14 - 16,25,46
+gamerlegion,2025-04-15,BLAST.tv Austin Major 2025 Europe Regional Qualifier,500,Ancient,13 - 2,66,11
+gamerlegion,2025-04-15,BLAST.tv Austin Major 2025 Europe Regional Qualifier,500,Anubis,13 - 2,66,11
+gamerlegion,2025-04-11,PGL Bucharest 2025,Falcons,Ancient,7 - 13,4,451
+gamerlegion,2025-04-11,PGL Bucharest 2025,Falcons,Inferno,7 - 13,4,451
+gamerlegion,2025-04-11,PGL Bucharest 2025,Falcons,Train,13 - 7,4,451
+gamerlegion,2025-04-09,PGL Bucharest 2025,Virtus.Pro,Ancient,13 - 7,12,157
+gamerlegion,2025-04-09,PGL Bucharest 2025,Virtus.Pro,Mirage,13 - 8,12,157
+gamerlegion,2025-04-08,PGL Bucharest 2025,Legacy,Ancient,13 - 7,29,31
+gamerlegion,2025-04-08,PGL Bucharest 2025,Legacy,Anubis,13 - 11,29,31
+gamerlegion,2025-04-08,PGL Bucharest 2025,Legacy,Inferno,13 - 16,29,31
+gamerlegion,2025-04-07,PGL Bucharest 2025,Falcons,Inferno,13 - 2,4,451
+gamerlegion,2025-04-07,PGL Bucharest 2025,Falcons,Mirage,13 - 1,4,451
+gamerlegion,2025-04-06,PGL Bucharest 2025,G2,Inferno,12 - 16,8,309
+gamerlegion,2025-04-06,PGL Bucharest 2025,G2,Mirage,8 - 13,8,309
+heroic,2025-05-04,MESA Nomadic Masters Spring 2025,Big,Ancient,13 - 8,20,57
+heroic,2025-05-04,MESA Nomadic Masters Spring 2025,Big,Dust2,13 - 9,20,57
+heroic,2025-05-04,MESA Nomadic Masters Spring 2025,Big,Mirage,3 - 13,20,57
+heroic,2025-05-04,MESA Nomadic Masters Spring 2025,Big,Train,13 - 6,20,57
+heroic,2025-05-03,MESA Nomadic Masters Spring 2025,Chinggis Warriors,Ancient,13 - 10,37,25
+heroic,2025-05-03,MESA Nomadic Masters Spring 2025,Chinggis Warriors,Mirage,13 - 3,37,25
+heroic,2025-05-01,MESA Nomadic Masters Spring 2025,Jijiehao,Ancient,13 - 11,45,19
+heroic,2025-05-01,MESA Nomadic Masters Spring 2025,Jijiehao,Anubis,13 - 7,45,19
+heroic,2025-04-30,MESA Nomadic Masters Spring 2025,Chinggis Warriors,Dust2,13 - 5,37,25
+heroic,2025-04-30,MESA Nomadic Masters Spring 2025,Chinggis Warriors,Nuke,13 - 8,37,25
+heroic,2025-04-27,CCT Global Finals 2025,B8,Dust2,13 - 7,23,51
+heroic,2025-04-27,CCT Global Finals 2025,B8,Mirage,13 - 4,23,51
+heroic,2025-04-27,CCT Global Finals 2025,Betboom,Ancient,8 - 13,26,34
+heroic,2025-04-27,CCT Global Finals 2025,Betboom,Anubis,13 - 8,26,34
+heroic,2025-04-27,CCT Global Finals 2025,Betboom,Train,25 - 23,26,34
+heroic,2025-04-26,CCT Global Finals 2025,Wildcard,Anubis,13 - 10,22,54
+heroic,2025-04-26,CCT Global Finals 2025,Wildcard,Dust2,13 - 7,22,54
+heroic,2025-04-26,CCT Global Finals 2025,Wildcard,Nuke,14 - 16,22,54
+heroic,2025-04-25,CCT Global Finals 2025,B8,Ancient,13 - 8,23,51
+heroic,2025-04-25,CCT Global Finals 2025,B8,Anubis,11 - 13,23,51
+heroic,2025-04-25,CCT Global Finals 2025,B8,Mirage,3 - 13,23,51
+heroic,2025-04-24,CCT Global Finals 2025,Bc.Game,Anubis,13 - 6,75,9
+heroic,2025-04-24,CCT Global Finals 2025,Bc.Game,Train,13 - 5,75,9
+heroic,2025-04-15,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Nemiga,Dust2,13 - 8,40,22
+heroic,2025-04-15,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Nemiga,Mirage,16 - 13,40,22
+legacy,2025-05-10,ESL Challenger League Season 49 North America,Bluejays,Ancient,13 - 11,52,15
+legacy,2025-05-10,ESL Challenger League Season 49 North America,Bluejays,Mirage,13 - 10,52,15
+legacy,2025-05-09,ESL Challenger League Season 49 North America,Getting-Info,Ancient,16 - 14,265,0
+legacy,2025-05-09,ESL Challenger League Season 49 North America,Getting-Info,Mirage,13 - 8,265,0
+legacy,2025-04-17,BLAST.tv Austin Major 2025 South America Regional Qualifier,Oddik,Anubis,11 - 13,31,29
+legacy,2025-04-17,BLAST.tv Austin Major 2025 South America Regional Qualifier,Oddik,Inferno,13 - 11,31,29
+legacy,2025-04-17,BLAST.tv Austin Major 2025 South America Regional Qualifier,Oddik,Nuke,13 - 8,31,29
+legacy,2025-04-16,BLAST.tv Austin Major 2025 South America Regional Qualifier,Fluxo,Ancient,10 - 13,41,21
+legacy,2025-04-16,BLAST.tv Austin Major 2025 South America Regional Qualifier,Fluxo,Dust2,6 - 13,41,21
+legacy,2025-04-09,PGL Bucharest 2025,Astralis,Ancient,7 - 13,15,88
+legacy,2025-04-09,PGL Bucharest 2025,Astralis,Dust2,13 - 7,15,88
+legacy,2025-04-09,PGL Bucharest 2025,Astralis,Nuke,16 - 19,15,88
+legacy,2025-04-08,PGL Bucharest 2025,Gamerlegion,Ancient,7 - 13,11,161
+legacy,2025-04-08,PGL Bucharest 2025,Gamerlegion,Anubis,11 - 13,11,161
+legacy,2025-04-08,PGL Bucharest 2025,Gamerlegion,Inferno,16 - 13,11,161
+legacy,2025-04-07,PGL Bucharest 2025,Aurora,Anubis,7 - 13,262,0
+legacy,2025-04-07,PGL Bucharest 2025,Aurora,Mirage,10 - 13,262,0
+legacy,2025-04-06,PGL Bucharest 2025,Liquid,Anubis,13 - 10,10,172
+legacy,2025-04-06,PGL Bucharest 2025,Liquid,Nuke,13 - 4,10,172
+legacy,2025-04-02,ESL Challenger League Season 49 North America,Marsborne,Ancient,13 - 9,60,12
+legacy,2025-04-02,ESL Challenger League Season 49 North America,Marsborne,Anubis,13 - 8,60,12
+legacy,2025-03-19,ESL Challenger League Season 49 North America,Getting-Info,Ancient,13 - 8,265,0
+legacy,2025-03-19,ESL Challenger League Season 49 North America,Getting-Info,Nuke,5 - 13,265,0
+liquid,2025-04-25,IEM Melbourne 2025,The Mongolz,Ancient,6 - 13,7,343
+liquid,2025-04-25,IEM Melbourne 2025,The Mongolz,Anubis,13 - 5,7,343
+liquid,2025-04-25,IEM Melbourne 2025,The Mongolz,Inferno,10 - 13,7,343
+liquid,2025-04-23,IEM Melbourne 2025,Natus Vincere,Ancient,13 - 8,6,347
+liquid,2025-04-23,IEM Melbourne 2025,Natus Vincere,Anubis,13 - 6,6,347
+liquid,2025-04-23,IEM Melbourne 2025,Natus Vincere,Inferno,10 - 13,6,347
+liquid,2025-04-23,IEM Melbourne 2025,Mibr,Ancient,13 - 10,18,66
+liquid,2025-04-23,IEM Melbourne 2025,Mibr,Anubis,13 - 6,18,66
+liquid,2025-04-22,IEM Melbourne 2025,Vitality,Mirage,5 - 13,1,1000
+liquid,2025-04-22,IEM Melbourne 2025,Vitality,Nuke,8 - 13,1,1000
+liquid,2025-04-21,IEM Melbourne 2025,Virtus.Pro,Ancient,13 - 10,12,157
+liquid,2025-04-21,IEM Melbourne 2025,Virtus.Pro,Dust2,13 - 8,12,157
+liquid,2025-04-21,IEM Melbourne 2025,Virtus.Pro,Mirage,8 - 13,12,157
+liquid,2025-04-08,PGL Bucharest 2025,The Mongolz,Anubis,7 - 13,7,343
+liquid,2025-04-08,PGL Bucharest 2025,The Mongolz,Mirage,11 - 13,7,343
+liquid,2025-04-07,PGL Bucharest 2025,Virtus.Pro,Dust2,3 - 13,12,157
+liquid,2025-04-07,PGL Bucharest 2025,Virtus.Pro,Mirage,14 - 16,12,157
+liquid,2025-04-06,PGL Bucharest 2025,Legacy,Anubis,10 - 13,29,31
+liquid,2025-04-06,PGL Bucharest 2025,Legacy,Nuke,4 - 13,29,31
+liquid,2025-03-23,BLAST Open Lisbon 2025,The Mongolz,Ancient,8 - 13,7,343
+liquid,2025-03-23,BLAST Open Lisbon 2025,The Mongolz,Anubis,7 - 13,7,343
+liquid,2025-03-22,BLAST Open Lisbon 2025,Imperial,Anubis,13 - 5,34,28
+liquid,2025-03-22,BLAST Open Lisbon 2025,Imperial,Dust2,13 - 4,34,28
+liquid,2025-03-22,BLAST Open Lisbon 2025,Imperial,Nuke,11 - 13,34,28
+liquid,2025-03-20,BLAST Open Lisbon 2025,Aurora,Anubis,7 - 13,262,0
+liquid,2025-03-20,BLAST Open Lisbon 2025,Aurora,Dust2,7 - 13,262,0
+m80,2025-05-12,PGL Astana 2025,G2,Ancient,13 - 9,8,309
+m80,2025-05-12,PGL Astana 2025,G2,Dust2,11 - 13,8,309
+m80,2025-05-12,PGL Astana 2025,G2,Inferno,10 - 13,8,309
+m80,2025-05-11,PGL Astana 2025,Virtus.Pro,Ancient,13 - 9,12,157
+m80,2025-05-11,PGL Astana 2025,Virtus.Pro,Inferno,10 - 13,12,157
+m80,2025-05-11,PGL Astana 2025,Virtus.Pro,Mirage,8 - 13,12,157
+m80,2025-05-10,PGL Astana 2025,Natus Vincere,Dust2,4 - 13,6,347
+m80,2025-05-10,PGL Astana 2025,Natus Vincere,Mirage,7 - 13,6,347
+m80,2025-04-01,PGL Astana 2025 North America Closed Qualifier,Bluejays,Ancient,13 - 8,52,15
+m80,2025-04-01,PGL Astana 2025 North America Closed Qualifier,Bluejays,Dust2,16 - 13,52,15
+m80,2025-04-01,PGL Astana 2025 North America Closed Qualifier,Bluejays,Mirage,13 - 10,52,15
+m80,2025-04-01,PGL Astana 2025 North America Closed Qualifier,Bluejays,Train,10 - 13,52,15
+m80,2025-03-31,PGL Astana 2025 North America Closed Qualifier,Wildcard,Inferno,13 - 4,22,54
+m80,2025-03-31,PGL Astana 2025 North America Closed Qualifier,Wildcard,Mirage,19 - 15,22,54
+m80,2025-03-31,PGL Astana 2025 North America Closed Qualifier,Marsborne,Dust2,13 - 5,60,12
+m80,2025-03-31,PGL Astana 2025 North America Closed Qualifier,Marsborne,Train,13 - 11,60,12
+m80,2025-03-29,PGL Astana 2025 North America Closed Qualifier,Marsborne,Ancient,13 - 3,60,12
+m80,2025-03-29,PGL Astana 2025 North America Closed Qualifier,Marsborne,Dust2,13 - 3,60,12
+m80,2025-03-29,PGL Astana 2025 North America Closed Qualifier,Marsborne,Train,5 - 13,60,12
+m80,2025-03-23,BLAST Open Lisbon 2025,G2,Ancient,9 - 13,8,309
+m80,2025-03-23,BLAST Open Lisbon 2025,G2,Inferno,11 - 13,8,309
+m80,2025-03-22,BLAST Open Lisbon 2025,Furia,Dust2,7 - 13,19,62
+m80,2025-03-22,BLAST Open Lisbon 2025,Furia,Inferno,19 - 17,19,62
+m80,2025-03-22,BLAST Open Lisbon 2025,Furia,Train,13 - 10,19,62
+m80,2025-03-20,BLAST Open Lisbon 2025,The Mongolz,Ancient,13 - 11,7,343
+m80,2025-03-20,BLAST Open Lisbon 2025,The Mongolz,Dust2,11 - 13,7,343
+m80,2025-03-20,BLAST Open Lisbon 2025,The Mongolz,Inferno,3 - 13,7,343
+mibr,2025-05-13,PGL Astana 2025,Pain,Mirage,13 - 8,16,69
+mibr,2025-05-13,PGL Astana 2025,Pain,Train,13 - 7,16,69
+mibr,2025-05-12,PGL Astana 2025,Furia,Anubis,13 - 11,19,62
+mibr,2025-05-12,PGL Astana 2025,Furia,Inferno,8 - 13,19,62
+mibr,2025-05-12,PGL Astana 2025,Furia,Train,4 - 13,19,62
+mibr,2025-05-11,PGL Astana 2025,The Mongolz,Anubis,6 - 13,7,343
+mibr,2025-05-11,PGL Astana 2025,The Mongolz,Mirage,5 - 13,7,343
+mibr,2025-05-10,PGL Astana 2025,G2,Ancient,8 - 13,8,309
+mibr,2025-05-10,PGL Astana 2025,G2,Anubis,13 - 7,8,309
+mibr,2025-05-10,PGL Astana 2025,G2,Nuke,13 - 11,8,309
+mibr,2025-04-23,IEM Melbourne 2025,Liquid,Ancient,10 - 13,10,172
+mibr,2025-04-23,IEM Melbourne 2025,Liquid,Anubis,6 - 13,10,172
+mibr,2025-04-22,IEM Melbourne 2025,Saw,Anubis,13 - 10,25,46
+mibr,2025-04-22,IEM Melbourne 2025,Saw,Inferno,13 - 10,25,46
+mibr,2025-04-22,IEM Melbourne 2025,Saw,Nuke,5 - 13,25,46
+mibr,2025-04-21,IEM Melbourne 2025,Natus Vincere,Anubis,13 - 9,6,347
+mibr,2025-04-21,IEM Melbourne 2025,Natus Vincere,Inferno,9 - 13,6,347
+mibr,2025-04-21,IEM Melbourne 2025,Natus Vincere,Mirage,5 - 13,6,347
+mouz,2025-05-03,BLAST Rivals 2025 Season 1,Falcons,Dust2,6 - 13,4,451
+mouz,2025-05-03,BLAST Rivals 2025 Season 1,Falcons,Nuke,14 - 16,4,451
+mouz,2025-05-02,BLAST Rivals 2025 Season 1,Faze,Dust2,13 - 11,9,209
+mouz,2025-05-02,BLAST Rivals 2025 Season 1,Faze,Mirage,13 - 2,9,209
+mouz,2025-05-01,BLAST Rivals 2025 Season 1,Vitality,Inferno,9 - 13,1,1000
+mouz,2025-05-01,BLAST Rivals 2025 Season 1,Vitality,Mirage,13 - 9,1,1000
+mouz,2025-05-01,BLAST Rivals 2025 Season 1,Vitality,Train,8 - 13,1,1000
+mouz,2025-04-30,BLAST Rivals 2025 Season 1,Pain,Dust2,13 - 0,16,69
+mouz,2025-04-30,BLAST Rivals 2025 Season 1,Pain,Inferno,11 - 13,16,69
+mouz,2025-04-30,BLAST Rivals 2025 Season 1,Pain,Nuke,13 - 9,16,69
+mouz,2025-04-26,IEM Melbourne 2025,Falcons,Dust2,3 - 13,4,451
+mouz,2025-04-26,IEM Melbourne 2025,Falcons,Nuke,6 - 13,4,451
+mouz,2025-04-23,IEM Melbourne 2025,The Mongolz,Mirage,13 - 9,7,343
+mouz,2025-04-23,IEM Melbourne 2025,The Mongolz,Nuke,13 - 7,7,343
+mouz,2025-04-22,IEM Melbourne 2025,Gamerlegion,Inferno,13 - 6,11,161
+mouz,2025-04-22,IEM Melbourne 2025,Gamerlegion,Nuke,16 - 13,11,161
+mouz,2025-04-21,IEM Melbourne 2025,Big,Ancient,13 - 8,20,57
+mouz,2025-04-21,IEM Melbourne 2025,Big,Inferno,6 - 13,20,57
+mouz,2025-04-21,IEM Melbourne 2025,Big,Mirage,13 - 9,20,57
+mouz,2025-03-30,BLAST Open Lisbon 2025,Vitality,Dust2,13 - 11,1,1000
+mouz,2025-03-30,BLAST Open Lisbon 2025,Vitality,Inferno,0 - 13,1,1000
+mouz,2025-03-30,BLAST Open Lisbon 2025,Vitality,Mirage,13 - 11,1,1000
+mouz,2025-03-30,BLAST Open Lisbon 2025,Vitality,Nuke,7 - 13,1,1000
+mouz,2025-03-30,BLAST Open Lisbon 2025,Vitality,Train,7 - 13,1,1000
+mouz,2025-03-29,BLAST Open Lisbon 2025,Aurora,Dust2,13 - 10,262,0
+mouz,2025-03-29,BLAST Open Lisbon 2025,Aurora,Nuke,13 - 11,262,0
+mouz,2025-03-28,BLAST Open Lisbon 2025,G2,Inferno,13 - 8,8,309
+mouz,2025-03-28,BLAST Open Lisbon 2025,G2,Nuke,13 - 3,8,309
+mouz,2025-03-24,BLAST Open Lisbon 2025,Vitality,Dust2,11 - 13,1,1000
+mouz,2025-03-24,BLAST Open Lisbon 2025,Vitality,Mirage,11 - 13,1,1000
+mouz,2025-03-21,BLAST Open Lisbon 2025,Spirit,Ancient,25 - 22,3,555
+mouz,2025-03-21,BLAST Open Lisbon 2025,Spirit,Dust2,3 - 13,3,555
+mouz,2025-03-21,BLAST Open Lisbon 2025,Spirit,Nuke,16 - 13,3,555
+mouz,2025-03-19,BLAST Open Lisbon 2025,Falcons,Ancient,13 - 10,4,451
+mouz,2025-03-19,BLAST Open Lisbon 2025,Falcons,Train,13 - 11,4,451
+mouz,2025-03-16,ESL Pro League Season 21,Vitality,Dust2,9 - 13,1,1000
+mouz,2025-03-16,ESL Pro League Season 21,Vitality,Inferno,5 - 13,1,1000
+mouz,2025-03-16,ESL Pro League Season 21,Vitality,Nuke,4 - 13,1,1000
+mouz,2025-03-15,ESL Pro League Season 21,Spirit,Ancient,13 - 10,3,555
+mouz,2025-03-15,ESL Pro League Season 21,Spirit,Dust2,7 - 13,3,555
+mouz,2025-03-15,ESL Pro League Season 21,Spirit,Nuke,16 - 14,3,555
+natus-vincere,2025-05-13,PGL Astana 2025,Aurora,Inferno,13 - 10,5,351
+natus-vincere,2025-05-13,PGL Astana 2025,Aurora,Train,13 - 11,5,351
+natus-vincere,2025-05-12,PGL Astana 2025,The Mongolz,Inferno,11 - 13,7,343
+natus-vincere,2025-05-12,PGL Astana 2025,The Mongolz,Mirage,11 - 13,7,343
+natus-vincere,2025-05-11,PGL Astana 2025,Big,Inferno,13 - 8,20,57
+natus-vincere,2025-05-11,PGL Astana 2025,Big,Mirage,13 - 10,20,57
+natus-vincere,2025-05-10,PGL Astana 2025,M80,Dust2,13 - 4,21,56
+natus-vincere,2025-05-10,PGL Astana 2025,M80,Mirage,13 - 7,21,56
+natus-vincere,2025-04-23,IEM Melbourne 2025,Liquid,Ancient,8 - 13,10,172
+natus-vincere,2025-04-23,IEM Melbourne 2025,Liquid,Anubis,6 - 13,10,172
+natus-vincere,2025-04-23,IEM Melbourne 2025,Liquid,Inferno,13 - 10,10,172
+natus-vincere,2025-04-23,IEM Melbourne 2025,Flyquest,Ancient,13 - 8,24,49
+natus-vincere,2025-04-23,IEM Melbourne 2025,Flyquest,Inferno,13 - 7,24,49
+natus-vincere,2025-04-23,IEM Melbourne 2025,Flyquest,Mirage,9 - 13,24,49
+natus-vincere,2025-04-22,IEM Melbourne 2025,Falcons,Dust2,4 - 13,4,451
+natus-vincere,2025-04-22,IEM Melbourne 2025,Falcons,Inferno,13 - 9,4,451
+natus-vincere,2025-04-22,IEM Melbourne 2025,Falcons,Mirage,11 - 13,4,451
+natus-vincere,2025-04-21,IEM Melbourne 2025,Mibr,Anubis,9 - 13,18,66
+natus-vincere,2025-04-21,IEM Melbourne 2025,Mibr,Inferno,13 - 9,18,66
+natus-vincere,2025-04-21,IEM Melbourne 2025,Mibr,Mirage,13 - 5,18,66
+natus-vincere,2025-03-28,BLAST Open Lisbon 2025,Spirit,Anubis,6 - 13,3,555
+natus-vincere,2025-03-28,BLAST Open Lisbon 2025,Spirit,Dust2,7 - 13,3,555
+natus-vincere,2025-03-24,BLAST Open Lisbon 2025,Aurora,Dust2,5 - 13,262,0
+natus-vincere,2025-03-24,BLAST Open Lisbon 2025,Aurora,Inferno,9 - 13,262,0
+natus-vincere,2025-03-22,BLAST Open Lisbon 2025,The Mongolz,Dust2,13 - 7,7,343
+natus-vincere,2025-03-22,BLAST Open Lisbon 2025,The Mongolz,Inferno,1 - 13,7,343
+natus-vincere,2025-03-22,BLAST Open Lisbon 2025,The Mongolz,Mirage,16 - 13,7,343
+natus-vincere,2025-03-20,BLAST Open Lisbon 2025,Furia,Anubis,16 - 12,19,62
+natus-vincere,2025-03-20,BLAST Open Lisbon 2025,Furia,Mirage,13 - 8,19,62
+ninjas-in-pyjamas,2025-05-13,PGL Astana 2025,Hotu,Ancient,13 - 10,36,25
+ninjas-in-pyjamas,2025-05-13,PGL Astana 2025,Hotu,Nuke,13 - 7,36,25
+ninjas-in-pyjamas,2025-05-12,PGL Astana 2025,Aurora,Anubis,10 - 13,5,351
+ninjas-in-pyjamas,2025-05-12,PGL Astana 2025,Aurora,Inferno,8 - 13,5,351
+ninjas-in-pyjamas,2025-05-12,PGL Astana 2025,Aurora,Train,13 - 9,5,351
+ninjas-in-pyjamas,2025-05-11,PGL Astana 2025,Spirit,Dust2,4 - 13,3,555
+ninjas-in-pyjamas,2025-05-11,PGL Astana 2025,Spirit,Train,13 - 16,3,555
+ninjas-in-pyjamas,2025-05-10,PGL Astana 2025,Virtus.Pro,Ancient,13 - 9,12,157
+ninjas-in-pyjamas,2025-05-10,PGL Astana 2025,Virtus.Pro,Dust2,11 - 13,12,157
+ninjas-in-pyjamas,2025-05-10,PGL Astana 2025,Virtus.Pro,Train,13 - 6,12,157
+ninjas-in-pyjamas,2025-04-27,Fragadelphia Las Vegas 2025,Nrg,Dust2,10 - 13,38,24
+ninjas-in-pyjamas,2025-04-27,Fragadelphia Las Vegas 2025,Nrg,Nuke,13 - 9,38,24
+ninjas-in-pyjamas,2025-04-27,Fragadelphia Las Vegas 2025,Nrg,Train,22 - 18,38,24
+ninjas-in-pyjamas,2025-04-13,Level Up LUND! 2025,Tnl,Ancient,10 - 13,47,19
+ninjas-in-pyjamas,2025-04-13,Level Up LUND! 2025,Tnl,Dust2,13 - 9,47,19
+ninjas-in-pyjamas,2025-04-13,Level Up LUND! 2025,Tnl,Nuke,6 - 13,47,19
+ninjas-in-pyjamas,2025-04-01,PGL Astana 2025 Europe Closed Qualifier,Metizport,Ancient,9 - 13,43,20
+ninjas-in-pyjamas,2025-04-01,PGL Astana 2025 Europe Closed Qualifier,Metizport,Anubis,13 - 11,43,20
+ninjas-in-pyjamas,2025-04-01,PGL Astana 2025 Europe Closed Qualifier,Metizport,Dust2,16 - 12,43,20
+ninjas-in-pyjamas,2025-04-01,PGL Astana 2025 Europe Closed Qualifier,Metizport,Inferno,13 - 8,43,20
+ninjas-in-pyjamas,2025-04-01,PGL Astana 2025 Europe Closed Qualifier,Metizport,Nuke,4 - 13,43,20
+ninjas-in-pyjamas,2025-03-31,PGL Astana 2025 Europe Closed Qualifier,B8,Inferno,13 - 9,23,51
+ninjas-in-pyjamas,2025-03-31,PGL Astana 2025 Europe Closed Qualifier,B8,Train,13 - 10,23,51
+ninjas-in-pyjamas,2025-03-30,PGL Astana 2025 Europe Closed Qualifier,Fnatic,Ancient,13 - 9,49,16
+ninjas-in-pyjamas,2025-03-30,PGL Astana 2025 Europe Closed Qualifier,Fnatic,Inferno,13 - 8,49,16
+ninjas-in-pyjamas,2025-03-29,PGL Astana 2025 Europe Closed Qualifier,Fnatic,Inferno,5 - 13,49,16
+ninjas-in-pyjamas,2025-03-29,PGL Astana 2025 Europe Closed Qualifier,Fnatic,Train,11 - 13,49,16
+ninjas-in-pyjamas,2025-03-27,PGL Astana 2025 Europe Closed Qualifier,Passion Ua,Anubis,16 - 12,58,12
+ninjas-in-pyjamas,2025-03-27,PGL Astana 2025 Europe Closed Qualifier,Passion Ua,Train,13 - 2,58,12
+oddik,2025-05-13,PGL Astana 2025,Furia,Anubis,7 - 13,19,62
+oddik,2025-05-13,PGL Astana 2025,Furia,Train,6 - 13,19,62
+oddik,2025-05-12,PGL Astana 2025,Pain,Anubis,13 - 10,16,69
+oddik,2025-05-12,PGL Astana 2025,Pain,Nuke,13 - 11,16,69
+oddik,2025-05-11,PGL Astana 2025,G2,Anubis,13 - 8,8,309
+oddik,2025-05-11,PGL Astana 2025,G2,Dust2,3 - 13,8,309
+oddik,2025-05-11,PGL Astana 2025,G2,Nuke,13 - 9,8,309
+oddik,2025-05-10,PGL Astana 2025,Astralis,Ancient,13 - 2,15,88
+oddik,2025-05-10,PGL Astana 2025,Astralis,Dust2,9 - 13,15,88
+oddik,2025-05-10,PGL Astana 2025,Astralis,Inferno,7 - 13,15,88
+oddik,2025-04-17,BLAST.tv Austin Major 2025 South America Regional Qualifier,Legacy,Anubis,13 - 11,29,31
+oddik,2025-04-17,BLAST.tv Austin Major 2025 South America Regional Qualifier,Legacy,Inferno,11 - 13,29,31
+oddik,2025-04-17,BLAST.tv Austin Major 2025 South America Regional Qualifier,Legacy,Nuke,8 - 13,29,31
+oddik,2025-04-15,BLAST.tv Austin Major 2025 South America Regional Qualifier,Imperial,Anubis,8 - 13,34,28
+oddik,2025-04-15,BLAST.tv Austin Major 2025 South America Regional Qualifier,Imperial,Dust2,9 - 13,34,28
+pain,2025-05-13,PGL Astana 2025,Mibr,Mirage,8 - 13,18,66
+pain,2025-05-13,PGL Astana 2025,Mibr,Train,7 - 13,18,66
+pain,2025-05-12,PGL Astana 2025,Oddik,Anubis,10 - 13,31,29
+pain,2025-05-12,PGL Astana 2025,Oddik,Nuke,11 - 13,31,29
+pain,2025-05-11,PGL Astana 2025,Astralis,Inferno,9 - 13,15,88
+pain,2025-05-11,PGL Astana 2025,Astralis,Nuke,4 - 13,15,88
+pain,2025-05-10,PGL Astana 2025,Hotu,Mirage,13 - 8,36,25
+pain,2025-05-10,PGL Astana 2025,Hotu,Nuke,13 - 4,36,25
+pain,2025-05-01,BLAST Rivals 2025 Season 1,Wildcard,Anubis,5 - 13,22,54
+pain,2025-05-01,BLAST Rivals 2025 Season 1,Wildcard,Inferno,10 - 13,22,54
+pain,2025-04-30,BLAST Rivals 2025 Season 1,Mouz,Dust2,0 - 13,2,568
+pain,2025-04-30,BLAST Rivals 2025 Season 1,Mouz,Inferno,13 - 11,2,568
+pain,2025-04-30,BLAST Rivals 2025 Season 1,Mouz,Nuke,9 - 13,2,568
+pain,2025-04-22,IEM Melbourne 2025,Complexity,Anubis,6 - 13,14,127
+pain,2025-04-22,IEM Melbourne 2025,Complexity,Train,2 - 13,14,127
+pain,2025-04-21,IEM Melbourne 2025,Faze,Anubis,11 - 13,9,209
+pain,2025-04-21,IEM Melbourne 2025,Faze,Inferno,11 - 13,9,209
+pain,2025-04-08,PGL Bucharest 2025,Falcons,Inferno,9 - 13,4,451
+pain,2025-04-08,PGL Bucharest 2025,Falcons,Nuke,13 - 6,4,451
+pain,2025-04-08,PGL Bucharest 2025,Falcons,Train,8 - 13,4,451
+pain,2025-04-07,PGL Bucharest 2025,Faze,Dust2,7 - 13,9,209
+pain,2025-04-07,PGL Bucharest 2025,Faze,Inferno,11 - 13,9,209
+pain,2025-04-06,PGL Bucharest 2025,Aurora,Dust2,17 - 19,262,0
+pain,2025-04-06,PGL Bucharest 2025,Aurora,Inferno,16 - 14,262,0
+pain,2025-04-06,PGL Bucharest 2025,Aurora,Nuke,8 - 13,262,0
+saw,2025-05-01,MESA Nomadic Masters Spring 2025,Chinggis Warriors,Ancient,10 - 13,37,25
+saw,2025-05-01,MESA Nomadic Masters Spring 2025,Chinggis Warriors,Inferno,5 - 13,37,25
+saw,2025-05-01,MESA Nomadic Masters Spring 2025,Chinggis Warriors,Nuke,19 - 16,37,25
+saw,2025-04-30,MESA Nomadic Masters Spring 2025,Jijiehao,Dust2,6 - 13,45,19
+saw,2025-04-30,MESA Nomadic Masters Spring 2025,Jijiehao,Train,10 - 13,45,19
+saw,2025-04-22,IEM Melbourne 2025,Mibr,Anubis,10 - 13,18,66
+saw,2025-04-22,IEM Melbourne 2025,Mibr,Inferno,10 - 13,18,66
+saw,2025-04-22,IEM Melbourne 2025,Mibr,Nuke,13 - 5,18,66
+saw,2025-04-21,IEM Melbourne 2025,Falcons,Dust2,9 - 13,4,451
+saw,2025-04-21,IEM Melbourne 2025,Falcons,Nuke,8 - 13,4,451
+saw,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Ence,Ancient,14 - 16,35,26
+saw,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Ence,Train,10 - 13,35,26
+saw,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Gamerlegion,Ancient,5 - 13,11,161
+saw,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Gamerlegion,Anubis,13 - 7,11,161
+saw,2025-04-16,BLAST.tv Austin Major 2025 Europe Regional Qualifier,Gamerlegion,Nuke,16 - 14,11,161
+spirit,2025-05-12,PGL Astana 2025,Astralis,Ancient,13 - 5,15,88
+spirit,2025-05-12,PGL Astana 2025,Astralis,Dust2,13 - 7,15,88
+spirit,2025-05-11,PGL Astana 2025,Ninjas In Pyjamas,Dust2,13 - 4,30,30
+spirit,2025-05-11,PGL Astana 2025,Ninjas In Pyjamas,Train,16 - 13,30,30
+spirit,2025-05-10,PGL Astana 2025,Gamerlegion,Mirage,13 - 11,11,161
+spirit,2025-05-10,PGL Astana 2025,Gamerlegion,Nuke,13 - 11,11,161
+spirit,2025-05-03,BLAST Rivals 2025 Season 1,Vitality,Mirage,8 - 13,1,1000
+spirit,2025-05-03,BLAST Rivals 2025 Season 1,Vitality,Nuke,9 - 13,1,1000
+spirit,2025-05-02,BLAST Rivals 2025 Season 1,Wildcard,Anubis,13 - 7,22,54
+spirit,2025-05-02,BLAST Rivals 2025 Season 1,Wildcard,Dust2,13 - 2,22,54
+spirit,2025-05-01,BLAST Rivals 2025 Season 1,Falcons,Ancient,6 - 13,4,451
+spirit,2025-05-01,BLAST Rivals 2025 Season 1,Falcons,Dust2,12 - 16,4,451
+spirit,2025-05-01,BLAST Rivals 2025 Season 1,Falcons,Mirage,13 - 4,4,451
+spirit,2025-04-30,BLAST Rivals 2025 Season 1,Flyquest,Mirage,13 - 2,24,49
+spirit,2025-04-30,BLAST Rivals 2025 Season 1,Flyquest,Nuke,13 - 9,24,49
+spirit,2025-03-29,BLAST Open Lisbon 2025,Vitality,Anubis,6 - 13,1,1000
+spirit,2025-03-29,BLAST Open Lisbon 2025,Vitality,Mirage,10 - 13,1,1000
+spirit,2025-03-29,BLAST Open Lisbon 2025,Vitality,Nuke,13 - 5,1,1000
+spirit,2025-03-28,BLAST Open Lisbon 2025,Natus Vincere,Anubis,13 - 6,6,347
+spirit,2025-03-28,BLAST Open Lisbon 2025,Natus Vincere,Dust2,13 - 7,6,347
+spirit,2025-03-24,BLAST Open Lisbon 2025,Virtus.Pro,Ancient,13 - 9,12,157
+spirit,2025-03-24,BLAST Open Lisbon 2025,Virtus.Pro,Anubis,13 - 9,12,157
+spirit,2025-03-23,BLAST Open Lisbon 2025,Faze,Anubis,13 - 8,9,209
+spirit,2025-03-23,BLAST Open Lisbon 2025,Faze,Nuke,13 - 9,9,209
+spirit,2025-03-21,BLAST Open Lisbon 2025,Mouz,Ancient,22 - 25,2,568
+spirit,2025-03-21,BLAST Open Lisbon 2025,Mouz,Dust2,13 - 3,2,568
+spirit,2025-03-21,BLAST Open Lisbon 2025,Mouz,Nuke,13 - 16,2,568
+spirit,2025-03-19,BLAST Open Lisbon 2025,The Huns,Anubis,13 - 8,46,19
+spirit,2025-03-19,BLAST Open Lisbon 2025,The Huns,Dust2,13 - 4,46,19
+spirit,2025-03-15,ESL Pro League Season 21,Mouz,Ancient,10 - 13,2,568
+spirit,2025-03-15,ESL Pro League Season 21,Mouz,Dust2,13 - 7,2,568
+spirit,2025-03-15,ESL Pro League Season 21,Mouz,Nuke,14 - 16,2,568
+the-mongolz,2025-05-12,PGL Astana 2025,Natus Vincere,Inferno,13 - 11,6,347
+the-mongolz,2025-05-12,PGL Astana 2025,Natus Vincere,Mirage,13 - 11,6,347
+the-mongolz,2025-05-11,PGL Astana 2025,Mibr,Anubis,13 - 6,18,66
+the-mongolz,2025-05-11,PGL Astana 2025,Mibr,Mirage,13 - 5,18,66
+the-mongolz,2025-05-10,PGL Astana 2025,Furia,Anubis,7 - 13,19,62
+the-mongolz,2025-05-10,PGL Astana 2025,Furia,Inferno,13 - 9,19,62
+the-mongolz,2025-05-10,PGL Astana 2025,Furia,Mirage,13 - 4,19,62
+the-mongolz,2025-04-26,IEM Melbourne 2025,Vitality,Mirage,3 - 13,1,1000
+the-mongolz,2025-04-26,IEM Melbourne 2025,Vitality,Nuke,3 - 13,1,1000
+the-mongolz,2025-04-25,IEM Melbourne 2025,Liquid,Ancient,13 - 6,10,172
+the-mongolz,2025-04-25,IEM Melbourne 2025,Liquid,Anubis,5 - 13,10,172
+the-mongolz,2025-04-25,IEM Melbourne 2025,Liquid,Inferno,13 - 10,10,172
+the-mongolz,2025-04-23,IEM Melbourne 2025,Mouz,Mirage,9 - 13,2,568
+the-mongolz,2025-04-23,IEM Melbourne 2025,Mouz,Nuke,7 - 13,2,568
+the-mongolz,2025-04-22,IEM Melbourne 2025,Faze,Ancient,16 - 13,9,209
+the-mongolz,2025-04-22,IEM Melbourne 2025,Faze,Dust2,13 - 8,9,209
+the-mongolz,2025-04-21,IEM Melbourne 2025,Complexity,Ancient,16 - 13,14,127
+the-mongolz,2025-04-21,IEM Melbourne 2025,Complexity,Anubis,11 - 13,14,127
+the-mongolz,2025-04-21,IEM Melbourne 2025,Complexity,Inferno,13 - 10,14,127
+the-mongolz,2025-04-10,PGL Bucharest 2025,Falcons,Ancient,14 - 16,4,451
+the-mongolz,2025-04-10,PGL Bucharest 2025,Falcons,Dust2,6 - 13,4,451
+the-mongolz,2025-04-10,PGL Bucharest 2025,Falcons,Mirage,13 - 9,4,451
+the-mongolz,2025-04-09,PGL Bucharest 2025,Furia,Mirage,13 - 9,19,62
+the-mongolz,2025-04-09,PGL Bucharest 2025,Furia,Nuke,13 - 11,19,62
+the-mongolz,2025-04-08,PGL Bucharest 2025,Liquid,Anubis,13 - 7,10,172
+the-mongolz,2025-04-08,PGL Bucharest 2025,Liquid,Mirage,13 - 11,10,172
+the-mongolz,2025-04-07,PGL Bucharest 2025,Betclic,Ancient,8 - 13,28,32
+the-mongolz,2025-04-07,PGL Bucharest 2025,Betclic,Nuke,11 - 13,28,32
+the-mongolz,2025-04-06,PGL Bucharest 2025,3Dmax,Ancient,13 - 11,13,141
+the-mongolz,2025-04-06,PGL Bucharest 2025,3Dmax,Anubis,10 - 13,13,141
+the-mongolz,2025-04-06,PGL Bucharest 2025,3Dmax,Inferno,10 - 13,13,141
+the-mongolz,2025-03-24,BLAST Open Lisbon 2025,G2,Ancient,11 - 13,8,309
+the-mongolz,2025-03-24,BLAST Open Lisbon 2025,G2,Dust2,4 - 13,8,309
+the-mongolz,2025-03-23,BLAST Open Lisbon 2025,Liquid,Ancient,13 - 8,10,172
+the-mongolz,2025-03-23,BLAST Open Lisbon 2025,Liquid,Anubis,13 - 7,10,172
+the-mongolz,2025-03-22,BLAST Open Lisbon 2025,Natus Vincere,Dust2,7 - 13,6,347
+the-mongolz,2025-03-22,BLAST Open Lisbon 2025,Natus Vincere,Inferno,13 - 1,6,347
+the-mongolz,2025-03-22,BLAST Open Lisbon 2025,Natus Vincere,Mirage,13 - 16,6,347
+the-mongolz,2025-03-20,BLAST Open Lisbon 2025,M80,Ancient,11 - 13,21,56
+the-mongolz,2025-03-20,BLAST Open Lisbon 2025,M80,Dust2,13 - 11,21,56
+the-mongolz,2025-03-20,BLAST Open Lisbon 2025,M80,Inferno,13 - 3,21,56
+the-mongolz,2025-03-15,ESL Pro League Season 21,Vitality,Anubis,4 - 13,1,1000
+the-mongolz,2025-03-15,ESL Pro League Season 21,Vitality,Inferno,2 - 13,1,1000
+the-mongolz,2025-03-15,ESL Pro League Season 21,Vitality,Nuke,16 - 14,1,1000
+tyloo,2025-05-11,Hero Esports Asian Champions League 2025,Flyquest,Ancient,13 - 10,24,49
+tyloo,2025-05-11,Hero Esports Asian Champions League 2025,Flyquest,Inferno,13 - 7,24,49
+tyloo,2025-05-09,Hero Esports Asian Champions League 2025,Flyquest,Ancient,8 - 13,24,49
+tyloo,2025-05-09,Hero Esports Asian Champions League 2025,Flyquest,Inferno,13 - 11,24,49
+tyloo,2025-05-09,Hero Esports Asian Champions League 2025,Flyquest,Mirage,13 - 11,24,49
+tyloo,2025-05-07,Hero Esports Asian Champions League 2025,Rare Atom,Inferno,13 - 3,32,29
+tyloo,2025-05-07,Hero Esports Asian Champions League 2025,Rare Atom,Train,13 - 10,32,29
+tyloo,2025-05-04,ESL Challenger League Season 49 Asia-Pacific,Lynn-Vision,Ancient,10 - 13,33,29
+tyloo,2025-05-04,ESL Challenger League Season 49 Asia-Pacific,Lynn-Vision,Inferno,13 - 8,33,29
+tyloo,2025-05-04,ESL Challenger League Season 49 Asia-Pacific,Lynn-Vision,Nuke,9 - 13,33,29
+tyloo,2025-05-03,ESL Challenger League Season 49 Asia-Pacific,Lynn-Vision,Ancient,11 - 13,33,29
+tyloo,2025-05-03,ESL Challenger League Season 49 Asia-Pacific,Lynn-Vision,Inferno,13 - 9,33,29
+tyloo,2025-05-03,ESL Challenger League Season 49 Asia-Pacific,Lynn-Vision,Train,15 - 19,33,29
+tyloo,2025-04-30,ESL Challenger League Season 49 Asia-Pacific,Chinggis Warriors,Anubis,16 - 12,37,25
+tyloo,2025-04-30,ESL Challenger League Season 49 Asia-Pacific,Chinggis Warriors,Inferno,9 - 13,37,25
+tyloo,2025-04-30,ESL Challenger League Season 49 Asia-Pacific,Chinggis Warriors,Nuke,13 - 9,37,25
+tyloo,2025-04-17,BLAST.tv Austin Major 2025 China Regional Qualifier,Rare Atom,Anubis,16 - 12,32,29
+tyloo,2025-04-17,BLAST.tv Austin Major 2025 China Regional Qualifier,Rare Atom,Mirage,13 - 7,32,29
+tyloo,2025-04-16,BLAST.tv Austin Major 2025 China Regional Qualifier,Lynn-Vision,Inferno,19 - 15,33,29
+tyloo,2025-04-16,BLAST.tv Austin Major 2025 China Regional Qualifier,Lynn-Vision,Nuke,10 - 13,33,29
+tyloo,2025-04-16,BLAST.tv Austin Major 2025 China Regional Qualifier,Lynn-Vision,Train,8 - 13,33,29
+tyloo,2025-04-05,ESL Challenger League Season 49 Asia-Pacific,The Huns,Anubis,13 - 5,46,19
+tyloo,2025-04-05,ESL Challenger League Season 49 Asia-Pacific,The Huns,Inferno,16 - 14,46,19
+tyloo,2025-03-25,ESL Challenger League Season 49 Asia-Pacific,Rare Atom,Mirage,10 - 13,32,29
+tyloo,2025-03-25,ESL Challenger League Season 49 Asia-Pacific,Rare Atom,Train,13 - 5,32,29
+virtuspro,2025-05-13,PGL Astana 2025,Astralis,Ancient,9 - 13,15,88
+virtuspro,2025-05-13,PGL Astana 2025,Astralis,Dust2,17 - 19,15,88
+virtuspro,2025-05-13,PGL Astana 2025,Astralis,Inferno,13 - 9,15,88
+virtuspro,2025-05-12,PGL Astana 2025,Big,Ancient,13 - 3,20,57
+virtuspro,2025-05-12,PGL Astana 2025,Big,Dust2,13 - 9,20,57
+virtuspro,2025-05-11,PGL Astana 2025,M80,Ancient,9 - 13,21,56
+virtuspro,2025-05-11,PGL Astana 2025,M80,Inferno,13 - 10,21,56
+virtuspro,2025-05-11,PGL Astana 2025,M80,Mirage,13 - 8,21,56
+virtuspro,2025-05-10,PGL Astana 2025,Ninjas In Pyjamas,Ancient,9 - 13,30,30
+virtuspro,2025-05-10,PGL Astana 2025,Ninjas In Pyjamas,Dust2,13 - 11,30,30
+virtuspro,2025-05-10,PGL Astana 2025,Ninjas In Pyjamas,Train,6 - 13,30,30
+virtuspro,2025-04-22,IEM Melbourne 2025,Flyquest,Dust2,6 - 13,24,49
+virtuspro,2025-04-22,IEM Melbourne 2025,Flyquest,Inferno,11 - 13,24,49
+virtuspro,2025-04-21,IEM Melbourne 2025,Liquid,Ancient,10 - 13,10,172
+virtuspro,2025-04-21,IEM Melbourne 2025,Liquid,Dust2,8 - 13,10,172
+virtuspro,2025-04-21,IEM Melbourne 2025,Liquid,Mirage,13 - 8,10,172
+virtuspro,2025-04-11,PGL Bucharest 2025,G2,Dust2,11 - 13,8,309
+virtuspro,2025-04-11,PGL Bucharest 2025,G2,Mirage,9 - 13,8,309
+virtuspro,2025-04-10,PGL Bucharest 2025,Astralis,Dust2,13 - 10,15,88
+virtuspro,2025-04-10,PGL Bucharest 2025,Astralis,Train,13 - 6,15,88
+virtuspro,2025-04-09,PGL Bucharest 2025,Gamerlegion,Ancient,7 - 13,11,161
+virtuspro,2025-04-09,PGL Bucharest 2025,Gamerlegion,Mirage,8 - 13,11,161
+virtuspro,2025-04-08,PGL Bucharest 2025,Furia,Anubis,13 - 11,19,62
+virtuspro,2025-04-08,PGL Bucharest 2025,Furia,Dust2,13 - 8,19,62
+virtuspro,2025-04-07,PGL Bucharest 2025,Liquid,Dust2,13 - 3,10,172
+virtuspro,2025-04-07,PGL Bucharest 2025,Liquid,Mirage,16 - 14,10,172
+virtuspro,2025-04-06,PGL Bucharest 2025,Rare Atom,Ancient,7 - 13,32,29
+virtuspro,2025-04-06,PGL Bucharest 2025,Rare Atom,Mirage,3 - 13,32,29
+virtuspro,2025-03-24,BLAST Open Lisbon 2025,Spirit,Ancient,9 - 13,3,555
+virtuspro,2025-03-24,BLAST Open Lisbon 2025,Spirit,Anubis,9 - 13,3,555
+virtuspro,2025-03-23,BLAST Open Lisbon 2025,Falcons,Ancient,19 - 16,4,451
+virtuspro,2025-03-23,BLAST Open Lisbon 2025,Falcons,Inferno,22 - 20,4,451
+virtuspro,2025-03-23,BLAST Open Lisbon 2025,Falcons,Mirage,11 - 13,4,451
+virtuspro,2025-03-21,BLAST Open Lisbon 2025,Vitality,Anubis,6 - 13,1,1000
+virtuspro,2025-03-21,BLAST Open Lisbon 2025,Vitality,Inferno,5 - 13,1,1000
+virtuspro,2025-03-19,BLAST Open Lisbon 2025,Faze,Ancient,16 - 13,9,209
+virtuspro,2025-03-19,BLAST Open Lisbon 2025,Faze,Anubis,12 - 16,9,209
+virtuspro,2025-03-19,BLAST Open Lisbon 2025,Faze,Dust2,13 - 0,9,209
+vitality,2025-05-04,BLAST Rivals 2025 Season 1,Falcons,Dust2,13 - 6,4,451
+vitality,2025-05-04,BLAST Rivals 2025 Season 1,Falcons,Inferno,9 - 13,4,451
+vitality,2025-05-04,BLAST Rivals 2025 Season 1,Falcons,Mirage,14 - 16,4,451
+vitality,2025-05-04,BLAST Rivals 2025 Season 1,Falcons,Nuke,13 - 8,4,451
+vitality,2025-05-04,BLAST Rivals 2025 Season 1,Falcons,Train,13 - 6,4,451
+vitality,2025-05-03,BLAST Rivals 2025 Season 1,Spirit,Mirage,13 - 8,3,555
+vitality,2025-05-03,BLAST Rivals 2025 Season 1,Spirit,Nuke,13 - 9,3,555
+vitality,2025-05-01,BLAST Rivals 2025 Season 1,Mouz,Inferno,13 - 9,2,568
+vitality,2025-05-01,BLAST Rivals 2025 Season 1,Mouz,Mirage,9 - 13,2,568
+vitality,2025-05-01,BLAST Rivals 2025 Season 1,Mouz,Train,13 - 8,2,568
+vitality,2025-04-30,BLAST Rivals 2025 Season 1,Wildcard,Dust2,13 - 6,22,54
+vitality,2025-04-30,BLAST Rivals 2025 Season 1,Wildcard,Inferno,13 - 7,22,54
+vitality,2025-04-27,IEM Melbourne 2025,Falcons,Dust2,12 - 16,4,451
+vitality,2025-04-27,IEM Melbourne 2025,Falcons,Inferno,13 - 2,4,451
+vitality,2025-04-27,IEM Melbourne 2025,Falcons,Mirage,10 - 13,4,451
+vitality,2025-04-27,IEM Melbourne 2025,Falcons,Nuke,22 - 20,4,451
+vitality,2025-04-27,IEM Melbourne 2025,Falcons,Train,13 - 9,4,451
+vitality,2025-04-26,IEM Melbourne 2025,The Mongolz,Mirage,13 - 3,7,343
+vitality,2025-04-26,IEM Melbourne 2025,The Mongolz,Nuke,13 - 3,7,343
+vitality,2025-04-23,IEM Melbourne 2025,Falcons,Inferno,13 - 8,4,451
+vitality,2025-04-23,IEM Melbourne 2025,Falcons,Mirage,16 - 13,4,451
+vitality,2025-04-22,IEM Melbourne 2025,Liquid,Mirage,13 - 5,10,172
+vitality,2025-04-22,IEM Melbourne 2025,Liquid,Nuke,13 - 8,10,172
+vitality,2025-04-21,IEM Melbourne 2025,Flyquest,Anubis,13 - 2,24,49
+vitality,2025-04-21,IEM Melbourne 2025,Flyquest,Nuke,13 - 8,24,49
+vitality,2025-03-30,BLAST Open Lisbon 2025,Mouz,Dust2,11 - 13,2,568
+vitality,2025-03-30,BLAST Open Lisbon 2025,Mouz,Inferno,13 - 0,2,568
+vitality,2025-03-30,BLAST Open Lisbon 2025,Mouz,Mirage,11 - 13,2,568
+vitality,2025-03-30,BLAST Open Lisbon 2025,Mouz,Nuke,13 - 7,2,568
+vitality,2025-03-30,BLAST Open Lisbon 2025,Mouz,Train,13 - 7,2,568
+vitality,2025-03-29,BLAST Open Lisbon 2025,Spirit,Anubis,13 - 6,3,555
+vitality,2025-03-29,BLAST Open Lisbon 2025,Spirit,Mirage,13 - 10,3,555
+vitality,2025-03-29,BLAST Open Lisbon 2025,Spirit,Nuke,5 - 13,3,555
+vitality,2025-03-24,BLAST Open Lisbon 2025,Mouz,Dust2,13 - 11,2,568
+vitality,2025-03-24,BLAST Open Lisbon 2025,Mouz,Mirage,13 - 11,2,568
+vitality,2025-03-21,BLAST Open Lisbon 2025,Virtus.Pro,Anubis,13 - 6,12,157
+vitality,2025-03-21,BLAST Open Lisbon 2025,Virtus.Pro,Inferno,13 - 5,12,157
+vitality,2025-03-19,BLAST Open Lisbon 2025,Astralis,Dust2,13 - 6,15,88
+vitality,2025-03-19,BLAST Open Lisbon 2025,Astralis,Inferno,13 - 4,15,88
+vitality,2025-03-16,ESL Pro League Season 21,Mouz,Dust2,13 - 9,2,568
+vitality,2025-03-16,ESL Pro League Season 21,Mouz,Inferno,13 - 5,2,568
+vitality,2025-03-16,ESL Pro League Season 21,Mouz,Nuke,13 - 4,2,568
+vitality,2025-03-15,ESL Pro League Season 21,The Mongolz,Anubis,13 - 4,7,343
+vitality,2025-03-15,ESL Pro League Season 21,The Mongolz,Inferno,13 - 2,7,343
+vitality,2025-03-15,ESL Pro League Season 21,The Mongolz,Nuke,14 - 16,7,343
+wildcard,2025-05-02,BLAST Rivals 2025 Season 1,Spirit,Anubis,7 - 13,3,555
+wildcard,2025-05-02,BLAST Rivals 2025 Season 1,Spirit,Dust2,2 - 13,3,555
+wildcard,2025-05-01,BLAST Rivals 2025 Season 1,Pain,Anubis,13 - 5,16,69
+wildcard,2025-05-01,BLAST Rivals 2025 Season 1,Pain,Inferno,13 - 10,16,69
+wildcard,2025-04-30,BLAST Rivals 2025 Season 1,Vitality,Dust2,6 - 13,1,1000
+wildcard,2025-04-30,BLAST Rivals 2025 Season 1,Vitality,Inferno,7 - 13,1,1000
+wildcard,2025-04-26,CCT Global Finals 2025,Heroic,Anubis,10 - 13,17,68
+wildcard,2025-04-26,CCT Global Finals 2025,Heroic,Dust2,7 - 13,17,68
+wildcard,2025-04-26,CCT Global Finals 2025,Heroic,Nuke,16 - 14,17,68
+wildcard,2025-04-25,CCT Global Finals 2025,500,Anubis,13 - 2,66,11
+wildcard,2025-04-25,CCT Global Finals 2025,500,Nuke,13 - 11,66,11
+wildcard,2025-04-24,CCT Global Finals 2025,Betboom,Anubis,10 - 13,26,34
+wildcard,2025-04-24,CCT Global Finals 2025,Betboom,Dust2,0 - 13,26,34
+wildcard,2025-04-16,BLAST.tv Austin Major 2025 North America Regional Qualifier,Nrg,Anubis,13 - 11,38,24
+wildcard,2025-04-16,BLAST.tv Austin Major 2025 North America Regional Qualifier,Nrg,Dust2,10 - 13,38,24
+wildcard,2025-04-16,BLAST.tv Austin Major 2025 North America Regional Qualifier,Nrg,Inferno,13 - 9,38,24
+wildcard,2025-03-31,PGL Astana 2025 North America Closed Qualifier,M80,Inferno,4 - 13,21,56
+wildcard,2025-03-31,PGL Astana 2025 North America Closed Qualifier,M80,Mirage,15 - 19,21,56
