@@ -1,0 +1,655 @@
+{
+  "team_id": 9928,
+  "team_name": "gamerlegion",
+  "date_range": [
+    "2025-03-15",
+    "2025-05-14"
+  ],
+  "self_ranking": {
+    "rank": 11,
+    "points": 161
+  },
+  "recent_matches": [
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-12",
+        "event": "PGL Astana 2025",
+        "opponent": "Hotu",
+        "team": "gamerlegion",
+        "map": "Ancient",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199486/gamerlegion-vs-hotu?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 36,
+          "points": 25
+        }
+      },
+      {
+        "date": "2025-05-12",
+        "event": "PGL Astana 2025",
+        "opponent": "Hotu",
+        "team": "gamerlegion",
+        "map": "Mirage",
+        "result": "6 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199490/hotu-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 36,
+          "points": 25
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-11",
+        "event": "PGL Astana 2025",
+        "opponent": "Furia",
+        "team": "gamerlegion",
+        "map": "Anubis",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199407/furia-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 19,
+          "points": 62
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "event": "PGL Astana 2025",
+        "opponent": "Furia",
+        "team": "gamerlegion",
+        "map": "Mirage",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199412/furia-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 19,
+          "points": 62
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "event": "PGL Astana 2025",
+        "opponent": "Furia",
+        "team": "gamerlegion",
+        "map": "Nuke",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199415/gamerlegion-vs-furia?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 19,
+          "points": 62
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-10",
+        "event": "PGL Astana 2025",
+        "opponent": "Spirit",
+        "team": "gamerlegion",
+        "map": "Mirage",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199359/spirit-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 3,
+          "points": 555
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "event": "PGL Astana 2025",
+        "opponent": "Spirit",
+        "team": "gamerlegion",
+        "map": "Nuke",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199367/gamerlegion-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 3,
+          "points": 555
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-25",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Falcons",
+        "team": "gamerlegion",
+        "map": "Nuke",
+        "result": "4 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198219/gamerlegion-vs-falcons?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        }
+      },
+      {
+        "date": "2025-04-25",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Falcons",
+        "team": "gamerlegion",
+        "map": "Train",
+        "result": "3 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198218/falcons-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-23",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Faze",
+        "team": "gamerlegion",
+        "map": "Mirage",
+        "result": "19 - 16",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198146/faze-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 9,
+          "points": 209
+        }
+      },
+      {
+        "date": "2025-04-23",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Faze",
+        "team": "gamerlegion",
+        "map": "Nuke",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198152/gamerlegion-vs-faze?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 9,
+          "points": 209
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-23",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Complexity",
+        "team": "gamerlegion",
+        "map": "Ancient",
+        "result": "5 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198139/gamerlegion-vs-complexity?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 14,
+          "points": 127
+        }
+      },
+      {
+        "date": "2025-04-23",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Complexity",
+        "team": "gamerlegion",
+        "map": "Nuke",
+        "result": "13 - 4",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198140/gamerlegion-vs-complexity?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 14,
+          "points": 127
+        }
+      },
+      {
+        "date": "2025-04-23",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Complexity",
+        "team": "gamerlegion",
+        "map": "Train",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198137/gamerlegion-vs-complexity?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 14,
+          "points": 127
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-22",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Mouz",
+        "team": "gamerlegion",
+        "map": "Inferno",
+        "result": "6 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198084/mouz-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 2,
+          "points": 568
+        }
+      },
+      {
+        "date": "2025-04-22",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Mouz",
+        "team": "gamerlegion",
+        "map": "Nuke",
+        "result": "13 - 16",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198089/gamerlegion-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 2,
+          "points": 568
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-21",
+        "event": "IEM Melbourne 2025",
+        "opponent": "3Dmax",
+        "team": "gamerlegion",
+        "map": "Ancient",
+        "result": "13 - 4",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198033/3dmax-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 13,
+          "points": 141
+        }
+      },
+      {
+        "date": "2025-04-21",
+        "event": "IEM Melbourne 2025",
+        "opponent": "3Dmax",
+        "team": "gamerlegion",
+        "map": "Inferno",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198035/gamerlegion-vs-3dmax?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 13,
+          "points": 141
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-16",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Saw",
+        "team": "gamerlegion",
+        "map": "Ancient",
+        "result": "13 - 5",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197777/saw-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 25,
+          "points": 46
+        }
+      },
+      {
+        "date": "2025-04-16",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Saw",
+        "team": "gamerlegion",
+        "map": "Anubis",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197789/gamerlegion-vs-saw?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 25,
+          "points": 46
+        }
+      },
+      {
+        "date": "2025-04-16",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Saw",
+        "team": "gamerlegion",
+        "map": "Nuke",
+        "result": "14 - 16",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197785/gamerlegion-vs-saw?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 25,
+          "points": 46
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-15",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "500",
+        "team": "gamerlegion",
+        "map": "Ancient",
+        "result": "13 - 2",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197724/500-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 66,
+          "points": 11
+        }
+      },
+      {
+        "date": "2025-04-15",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "500",
+        "team": "gamerlegion",
+        "map": "Anubis",
+        "result": "13 - 2",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197720/500-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 66,
+          "points": 11
+        },
+        "series_score": "2-0"
+      }
+    ],
+    {
+      "date": "2025-04-14",
+      "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+      "opponent": "Fnatic",
+      "team": "gamerlegion",
+      "map": "Anubis",
+      "result": "8 - 13",
+      "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197713/fnatic-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+      "opponent_ranking": {
+        "rank": 49,
+        "points": 16
+      }
+    },
+    {
+      "date": "2025-04-14",
+      "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+      "opponent": "Nemiga",
+      "team": "gamerlegion",
+      "map": "Mirage",
+      "result": "7 - 13",
+      "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197692/nemiga-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+      "opponent_ranking": {
+        "rank": 40,
+        "points": 22
+      }
+    },
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-11",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Falcons",
+        "team": "gamerlegion",
+        "map": "Ancient",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197511/gamerlegion-vs-falcons?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        }
+      },
+      {
+        "date": "2025-04-11",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Falcons",
+        "team": "gamerlegion",
+        "map": "Inferno",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197508/falcons-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        }
+      },
+      {
+        "date": "2025-04-11",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Falcons",
+        "team": "gamerlegion",
+        "map": "Train",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197506/gamerlegion-vs-falcons?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-09",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Virtus.Pro",
+        "team": "gamerlegion",
+        "map": "Ancient",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197408/gamerlegion-vs-virtuspro?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 12,
+          "points": 157
+        }
+      },
+      {
+        "date": "2025-04-09",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Virtus.Pro",
+        "team": "gamerlegion",
+        "map": "Mirage",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197410/virtuspro-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 12,
+          "points": 157
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-08",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Legacy",
+        "team": "gamerlegion",
+        "map": "Ancient",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197332/gamerlegion-vs-legacy?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 29,
+          "points": 31
+        }
+      },
+      {
+        "date": "2025-04-08",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Legacy",
+        "team": "gamerlegion",
+        "map": "Anubis",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197319/legacy-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 29,
+          "points": 31
+        }
+      },
+      {
+        "date": "2025-04-08",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Legacy",
+        "team": "gamerlegion",
+        "map": "Inferno",
+        "result": "13 - 16",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197324/legacy-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 29,
+          "points": 31
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-07",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Falcons",
+        "team": "gamerlegion",
+        "map": "Inferno",
+        "result": "13 - 2",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197279/falcons-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        }
+      },
+      {
+        "date": "2025-04-07",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Falcons",
+        "team": "gamerlegion",
+        "map": "Mirage",
+        "result": "13 - 1",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197280/falcons-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-06",
+        "event": "PGL Bucharest 2025",
+        "opponent": "G2",
+        "team": "gamerlegion",
+        "map": "Inferno",
+        "result": "12 - 16",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197236/gamerlegion-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 8,
+          "points": 309
+        }
+      },
+      {
+        "date": "2025-04-06",
+        "event": "PGL Bucharest 2025",
+        "opponent": "G2",
+        "team": "gamerlegion",
+        "map": "Mirage",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197230/g2-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=9928&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 8,
+          "points": 309
+        },
+        "series_score": "0-2"
+      }
+    ]
+  ],
+  "map_stats": {
+    "Mirage": {
+      "winrate": 0.5,
+      "pick_pct": 0.5,
+      "ban_pct": 0.14300000000000002,
+      "maps_played": 8
+    },
+    "Ancient": {
+      "winrate": 0.625,
+      "pick_pct": 0.33299999999999996,
+      "ban_pct": 0.043,
+      "maps_played": 8
+    },
+    "Nuke": {
+      "winrate": 0.28600000000000003,
+      "pick_pct": 0.0,
+      "ban_pct": 0.217,
+      "maps_played": 7
+    },
+    "Inferno": {
+      "winrate": 0.33299999999999996,
+      "pick_pct": 0.308,
+      "ban_pct": 0.0,
+      "maps_played": 6
+    },
+    "Anubis": {
+      "winrate": 0.4,
+      "pick_pct": 0.0,
+      "ban_pct": 0.22699999999999998,
+      "maps_played": 5
+    },
+    "Train": {
+      "winrate": 0.667,
+      "pick_pct": 0.111,
+      "ban_pct": 0.217,
+      "maps_played": 3
+    }
+  },
+  "player_stats": [
+    {
+      "name": "REZ",
+      "maps": 37,
+      "kd": 1.07,
+      "rating": 1.11
+    },
+    {
+      "name": "PR",
+      "maps": 37,
+      "kd": 1.01,
+      "rating": 1.07
+    },
+    {
+      "name": "Tauson",
+      "maps": 37,
+      "kd": 1.03,
+      "rating": 1.03
+    },
+    {
+      "name": "sl3nd",
+      "maps": 37,
+      "kd": 0.97,
+      "rating": 0.97
+    },
+    {
+      "name": "ztr",
+      "maps": 37,
+      "kd": 0.85,
+      "rating": 0.89
+    }
+  ]
+}

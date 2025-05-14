@@ -1,0 +1,976 @@
+{
+  "team_id": 11241,
+  "team_name": "b8",
+  "date_range": [
+    "2025-03-15",
+    "2025-05-14"
+  ],
+  "self_ranking": {
+    "rank": 23,
+    "points": 51
+  },
+  "recent_matches": [
+    [
+      {
+        "format": "bo5"
+      },
+      {
+        "date": "2025-05-11",
+        "event": "ESL Challenger League Season 49 Europe",
+        "opponent": "Parivision",
+        "team": "b8",
+        "map": "Ancient",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199461/b8-vs-parivision?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 48,
+          "points": 18
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "event": "ESL Challenger League Season 49 Europe",
+        "opponent": "Parivision",
+        "team": "b8",
+        "map": "Dust2",
+        "result": "5 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199455/b8-vs-parivision?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 48,
+          "points": 18
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "event": "ESL Challenger League Season 49 Europe",
+        "opponent": "Parivision",
+        "team": "b8",
+        "map": "Inferno",
+        "result": "13 - 3",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199463/parivision-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 48,
+          "points": 18
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "event": "ESL Challenger League Season 49 Europe",
+        "opponent": "Parivision",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199458/parivision-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 48,
+          "points": 18
+        },
+        "series_score": "2-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-08",
+        "event": "ESL Challenger League Season 49 Europe",
+        "opponent": "Sinners",
+        "team": "b8",
+        "map": "Inferno",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199230/b8-vs-sinners?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 61,
+          "points": 12
+        }
+      },
+      {
+        "date": "2025-05-08",
+        "event": "ESL Challenger League Season 49 Europe",
+        "opponent": "Sinners",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199223/sinners-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 61,
+          "points": 12
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-04",
+        "event": "MESA Nomadic Masters Spring 2025",
+        "opponent": "Chinggis Warriors",
+        "team": "b8",
+        "map": "Dust2",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198833/chinggis-warriors-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 37,
+          "points": 25
+        }
+      },
+      {
+        "date": "2025-05-04",
+        "event": "MESA Nomadic Masters Spring 2025",
+        "opponent": "Chinggis Warriors",
+        "team": "b8",
+        "map": "Inferno",
+        "result": "13 - 6",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198832/b8-vs-chinggis-warriors?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 37,
+          "points": 25
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-03",
+        "event": "MESA Nomadic Masters Spring 2025",
+        "opponent": "Big",
+        "team": "b8",
+        "map": "Dust2",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198771/big-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 20,
+          "points": 57
+        }
+      },
+      {
+        "date": "2025-05-03",
+        "event": "MESA Nomadic Masters Spring 2025",
+        "opponent": "Big",
+        "team": "b8",
+        "map": "Inferno",
+        "result": "13 - 3",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198778/b8-vs-big?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 20,
+          "points": 57
+        }
+      },
+      {
+        "date": "2025-05-03",
+        "event": "MESA Nomadic Masters Spring 2025",
+        "opponent": "Big",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198787/b8-vs-big?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 20,
+          "points": 57
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-02",
+        "event": "MESA Nomadic Masters Spring 2025",
+        "opponent": "Jijiehao",
+        "team": "b8",
+        "map": "Ancient",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198694/jijiehao-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 45,
+          "points": 19
+        }
+      },
+      {
+        "date": "2025-05-02",
+        "event": "MESA Nomadic Masters Spring 2025",
+        "opponent": "Jijiehao",
+        "team": "b8",
+        "map": "Inferno",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198693/b8-vs-jijiehao?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 45,
+          "points": 19
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-01",
+        "event": "MESA Nomadic Masters Spring 2025",
+        "opponent": "Big",
+        "team": "b8",
+        "map": "Inferno",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198673/b8-vs-big?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 20,
+          "points": 57
+        }
+      },
+      {
+        "date": "2025-05-01",
+        "event": "MESA Nomadic Masters Spring 2025",
+        "opponent": "Big",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "4 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198671/big-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 20,
+          "points": 57
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-30",
+        "event": "MESA Nomadic Masters Spring 2025",
+        "opponent": "The Huns",
+        "team": "b8",
+        "map": "Dust2",
+        "result": "13 - 6",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198577/b8-vs-the-huns?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 46,
+          "points": 19
+        }
+      },
+      {
+        "date": "2025-04-30",
+        "event": "MESA Nomadic Masters Spring 2025",
+        "opponent": "The Huns",
+        "team": "b8",
+        "map": "Inferno",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198563/b8-vs-the-huns?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 46,
+          "points": 19
+        }
+      },
+      {
+        "date": "2025-04-30",
+        "event": "MESA Nomadic Masters Spring 2025",
+        "opponent": "The Huns",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198572/the-huns-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 46,
+          "points": 19
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-27",
+        "event": "CCT Global Finals 2025",
+        "opponent": "Heroic",
+        "team": "b8",
+        "map": "Dust2",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198431/b8-vs-heroic?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 17,
+          "points": 68
+        }
+      },
+      {
+        "date": "2025-04-27",
+        "event": "CCT Global Finals 2025",
+        "opponent": "Heroic",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "4 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198425/heroic-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 17,
+          "points": 68
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-26",
+        "event": "CCT Global Finals 2025",
+        "opponent": "Betboom",
+        "team": "b8",
+        "map": "Ancient",
+        "result": "25 - 22",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198305/b8-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 26,
+          "points": 34
+        }
+      },
+      {
+        "date": "2025-04-26",
+        "event": "CCT Global Finals 2025",
+        "opponent": "Betboom",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198327/betboom-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 26,
+          "points": 34
+        }
+      },
+      {
+        "date": "2025-04-26",
+        "event": "CCT Global Finals 2025",
+        "opponent": "Betboom",
+        "team": "b8",
+        "map": "Train",
+        "result": "12 - 16",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198318/b8-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 26,
+          "points": 34
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-25",
+        "event": "CCT Global Finals 2025",
+        "opponent": "Heroic",
+        "team": "b8",
+        "map": "Ancient",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198240/heroic-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 17,
+          "points": 68
+        }
+      },
+      {
+        "date": "2025-04-25",
+        "event": "CCT Global Finals 2025",
+        "opponent": "Heroic",
+        "team": "b8",
+        "map": "Anubis",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198237/heroic-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 17,
+          "points": 68
+        }
+      },
+      {
+        "date": "2025-04-25",
+        "event": "CCT Global Finals 2025",
+        "opponent": "Heroic",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "13 - 3",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198245/heroic-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 17,
+          "points": 68
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-17",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Astralis",
+        "team": "b8",
+        "map": "Ancient",
+        "result": "16 - 14",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197902/astralis-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 15,
+          "points": 88
+        }
+      },
+      {
+        "date": "2025-04-17",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Astralis",
+        "team": "b8",
+        "map": "Inferno",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197895/b8-vs-astralis?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 15,
+          "points": 88
+        }
+      },
+      {
+        "date": "2025-04-17",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Astralis",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197890/astralis-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 15,
+          "points": 88
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-17",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Ence",
+        "team": "b8",
+        "map": "Ancient",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197879/ence-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 35,
+          "points": 26
+        }
+      },
+      {
+        "date": "2025-04-17",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Ence",
+        "team": "b8",
+        "map": "Anubis",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197871/ence-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 35,
+          "points": 26
+        }
+      },
+      {
+        "date": "2025-04-17",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Ence",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197863/ence-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 35,
+          "points": 26
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-16",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "9-Pandas",
+        "team": "b8",
+        "map": "Dust2",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197814/b8-vs-9-pandas?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 265,
+          "points": 0
+        }
+      },
+      {
+        "date": "2025-04-16",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "9-Pandas",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197821/9-pandas-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 265,
+          "points": 0
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-16",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Bc.Game",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "13 - 5",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197778/bcgame-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 75,
+          "points": 9
+        }
+      },
+      {
+        "date": "2025-04-16",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Bc.Game",
+        "team": "b8",
+        "map": "Train",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197781/b8-vs-bcgame?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 75,
+          "points": 9
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-15",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Parivision",
+        "team": "b8",
+        "map": "Ancient",
+        "result": "16 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197730/b8-vs-parivision?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 48,
+          "points": 18
+        }
+      },
+      {
+        "date": "2025-04-15",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Parivision",
+        "team": "b8",
+        "map": "Dust2",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197721/b8-vs-parivision?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 48,
+          "points": 18
+        }
+      },
+      {
+        "date": "2025-04-15",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Parivision",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197726/parivision-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 48,
+          "points": 18
+        },
+        "series_score": "2-1"
+      }
+    ],
+    {
+      "date": "2025-04-14",
+      "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+      "opponent": "Saw",
+      "team": "b8",
+      "map": "Anubis",
+      "result": "17 - 19",
+      "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197705/saw-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+      "opponent_ranking": {
+        "rank": 25,
+        "points": 46
+      }
+    },
+    {
+      "date": "2025-04-14",
+      "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+      "opponent": "Metizport",
+      "team": "b8",
+      "map": "Inferno",
+      "result": "7 - 13",
+      "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197682/b8-vs-metizport?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+      "opponent_ranking": {
+        "rank": 43,
+        "points": 20
+      }
+    },
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-31",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Ninjas In Pyjamas",
+        "team": "b8",
+        "map": "Inferno",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196783/b8-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 30,
+          "points": 30
+        }
+      },
+      {
+        "date": "2025-03-31",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Ninjas In Pyjamas",
+        "team": "b8",
+        "map": "Train",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196784/b8-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 30,
+          "points": 30
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-30",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Cybershoke",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "13 - 6",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196683/cybershoke-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 78,
+          "points": 9
+        }
+      },
+      {
+        "date": "2025-03-30",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Cybershoke",
+        "team": "b8",
+        "map": "Train",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196677/b8-vs-cybershoke?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 78,
+          "points": 9
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-29",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Parivision",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196598/b8-vs-parivision?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 48,
+          "points": 18
+        }
+      },
+      {
+        "date": "2025-03-29",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Parivision",
+        "team": "b8",
+        "map": "Train",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196587/b8-vs-parivision?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 48,
+          "points": 18
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-29",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Ence",
+        "team": "b8",
+        "map": "Ancient",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196516/ence-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 35,
+          "points": 26
+        }
+      },
+      {
+        "date": "2025-03-29",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Ence",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196503/ence-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 35,
+          "points": 26
+        }
+      },
+      {
+        "date": "2025-03-29",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Ence",
+        "team": "b8",
+        "map": "Nuke",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196509/b8-vs-ence?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 35,
+          "points": 26
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-28",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Cybershoke",
+        "team": "b8",
+        "map": "Ancient",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196396/b8-vs-cybershoke?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 78,
+          "points": 9
+        }
+      },
+      {
+        "date": "2025-03-28",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Cybershoke",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "13 - 5",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196386/cybershoke-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 78,
+          "points": 9
+        }
+      },
+      {
+        "date": "2025-03-28",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Cybershoke",
+        "team": "b8",
+        "map": "Train",
+        "result": "16 - 19",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196378/b8-vs-cybershoke?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 78,
+          "points": 9
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-25",
+        "event": "ESL Challenger League Season 49 Europe",
+        "opponent": "Nemiga",
+        "team": "b8",
+        "map": "Dust2",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196014/b8-vs-nemiga?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 40,
+          "points": 22
+        }
+      },
+      {
+        "date": "2025-03-25",
+        "event": "ESL Challenger League Season 49 Europe",
+        "opponent": "Nemiga",
+        "team": "b8",
+        "map": "Inferno",
+        "result": "13 - 6",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196021/b8-vs-nemiga?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 40,
+          "points": 22
+        }
+      },
+      {
+        "date": "2025-03-25",
+        "event": "ESL Challenger League Season 49 Europe",
+        "opponent": "Nemiga",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "13 - 5",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196017/nemiga-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 40,
+          "points": 22
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-18",
+        "event": "ESL Challenger League Season 49 Europe",
+        "opponent": "Zero Tenacity",
+        "team": "b8",
+        "map": "Mirage",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195586/zero-tenacity-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 69,
+          "points": 11
+        }
+      },
+      {
+        "date": "2025-03-18",
+        "event": "ESL Challenger League Season 49 Europe",
+        "opponent": "Zero Tenacity",
+        "team": "b8",
+        "map": "Nuke",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195580/b8-vs-zero-tenacity?startDate=2025-03-15&endDate=2025-05-14&contextIds=11241&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 69,
+          "points": 11
+        },
+        "series_score": "0-2"
+      }
+    ]
+  ],
+  "map_stats": {
+    "Mirage": {
+      "winrate": 0.684,
+      "pick_pct": 0.8420000000000001,
+      "ban_pct": 0.0,
+      "maps_played": 19
+    },
+    "Inferno": {
+      "winrate": 0.636,
+      "pick_pct": 0.154,
+      "ban_pct": 0.115,
+      "maps_played": 11
+    },
+    "Ancient": {
+      "winrate": 0.778,
+      "pick_pct": 0.14300000000000002,
+      "ban_pct": 0.10300000000000001,
+      "maps_played": 9
+    },
+    "Dust2": {
+      "winrate": 0.375,
+      "pick_pct": 0.133,
+      "ban_pct": 0.1,
+      "maps_played": 8
+    },
+    "Train": {
+      "winrate": 0.5,
+      "pick_pct": 0.0,
+      "ban_pct": 0.379,
+      "maps_played": 6
+    },
+    "Anubis": {
+      "winrate": 0.33299999999999996,
+      "pick_pct": 0.0,
+      "ban_pct": 0.33299999999999996,
+      "maps_played": 3
+    },
+    "Nuke": {
+      "winrate": 0.0,
+      "pick_pct": 0.0,
+      "ban_pct": 0.773,
+      "maps_played": 2
+    }
+  },
+  "player_stats": [
+    {
+      "name": "npl",
+      "maps": 58,
+      "kd": 1.11,
+      "rating": 1.14
+    },
+    {
+      "name": "headtr1ck",
+      "maps": 58,
+      "kd": 1.18,
+      "rating": 1.08
+    },
+    {
+      "name": "alex666",
+      "maps": 58,
+      "kd": 1.02,
+      "rating": 1.03
+    },
+    {
+      "name": "kensizor",
+      "maps": 58,
+      "kd": 0.89,
+      "rating": 1.03
+    },
+    {
+      "name": "esenthial",
+      "maps": 58,
+      "kd": 1.04,
+      "rating": 1.02
+    }
+  ]
+}

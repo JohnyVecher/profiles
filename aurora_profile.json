@@ -1,0 +1,456 @@
+{
+  "team_id": 11861,
+  "team_name": "aurora",
+  "date_range": [
+    "2025-03-15",
+    "2025-05-14"
+  ],
+  "self_ranking": {
+    "rank": 5,
+    "points": 351
+  },
+  "recent_matches": [
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-13",
+        "event": "PGL Astana 2025",
+        "opponent": "Natus Vincere",
+        "team": "aurora",
+        "map": "Inferno",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199581/aurora-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 6,
+          "points": 347
+        }
+      },
+      {
+        "date": "2025-05-13",
+        "event": "PGL Astana 2025",
+        "opponent": "Natus Vincere",
+        "team": "aurora",
+        "map": "Train",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199576/aurora-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 6,
+          "points": 347
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-12",
+        "event": "PGL Astana 2025",
+        "opponent": "Ninjas In Pyjamas",
+        "team": "aurora",
+        "map": "Anubis",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199482/aurora-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 30,
+          "points": 30
+        }
+      },
+      {
+        "date": "2025-05-12",
+        "event": "PGL Astana 2025",
+        "opponent": "Ninjas In Pyjamas",
+        "team": "aurora",
+        "map": "Inferno",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199493/aurora-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 30,
+          "points": 30
+        }
+      },
+      {
+        "date": "2025-05-12",
+        "event": "PGL Astana 2025",
+        "opponent": "Ninjas In Pyjamas",
+        "team": "aurora",
+        "map": "Train",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199487/aurora-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 30,
+          "points": 30
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-11",
+        "event": "PGL Astana 2025",
+        "opponent": "Hotu",
+        "team": "aurora",
+        "map": "Anubis",
+        "result": "13 - 16",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199434/aurora-vs-hotu?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 36,
+          "points": 25
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "event": "PGL Astana 2025",
+        "opponent": "Hotu",
+        "team": "aurora",
+        "map": "Mirage",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199423/aurora-vs-hotu?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 36,
+          "points": 25
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "event": "PGL Astana 2025",
+        "opponent": "Hotu",
+        "team": "aurora",
+        "map": "Nuke",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199438/aurora-vs-hotu?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 36,
+          "points": 25
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-10",
+        "event": "PGL Astana 2025",
+        "opponent": "Big",
+        "team": "aurora",
+        "map": "Dust2",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199324/aurora-vs-big?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 20,
+          "points": 57
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "event": "PGL Astana 2025",
+        "opponent": "Big",
+        "team": "aurora",
+        "map": "Inferno",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199321/big-vs-aurora?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 20,
+          "points": 57
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "event": "PGL Astana 2025",
+        "opponent": "Big",
+        "team": "aurora",
+        "map": "Mirage",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199319/aurora-vs-big?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 20,
+          "points": 57
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-11",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Complexity",
+        "team": "aurora",
+        "map": "Anubis",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197519/aurora-vs-complexity?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 14,
+          "points": 127
+        }
+      },
+      {
+        "date": "2025-04-11",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Complexity",
+        "team": "aurora",
+        "map": "Nuke",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197523/complexity-vs-aurora?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 14,
+          "points": 127
+        }
+      },
+      {
+        "date": "2025-04-11",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Complexity",
+        "team": "aurora",
+        "map": "Train",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197522/aurora-vs-complexity?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 14,
+          "points": 127
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-09",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Betclic",
+        "team": "aurora",
+        "map": "Anubis",
+        "result": "16 - 12",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197429/aurora-vs-betclic?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 28,
+          "points": 32
+        }
+      },
+      {
+        "date": "2025-04-09",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Betclic",
+        "team": "aurora",
+        "map": "Mirage",
+        "result": "13 - 6",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197426/aurora-vs-betclic?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 28,
+          "points": 32
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-08",
+        "event": "PGL Bucharest 2025",
+        "opponent": "3Dmax",
+        "team": "aurora",
+        "map": "Anubis",
+        "result": "13 - 5",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197366/aurora-vs-3dmax?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 13,
+          "points": 141
+        }
+      },
+      {
+        "date": "2025-04-08",
+        "event": "PGL Bucharest 2025",
+        "opponent": "3Dmax",
+        "team": "aurora",
+        "map": "Dust2",
+        "result": "14 - 16",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197368/aurora-vs-3dmax?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 13,
+          "points": 141
+        }
+      },
+      {
+        "date": "2025-04-08",
+        "event": "PGL Bucharest 2025",
+        "opponent": "3Dmax",
+        "team": "aurora",
+        "map": "Inferno",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197364/aurora-vs-3dmax?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 13,
+          "points": 141
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-07",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Legacy",
+        "team": "aurora",
+        "map": "Anubis",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197285/aurora-vs-legacy?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 29,
+          "points": 31
+        }
+      },
+      {
+        "date": "2025-04-07",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Legacy",
+        "team": "aurora",
+        "map": "Mirage",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197282/aurora-vs-legacy?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 29,
+          "points": 31
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-06",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Pain",
+        "team": "aurora",
+        "map": "Dust2",
+        "result": "19 - 17",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197257/aurora-vs-pain?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 16,
+          "points": 69
+        }
+      },
+      {
+        "date": "2025-04-06",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Pain",
+        "team": "aurora",
+        "map": "Inferno",
+        "result": "14 - 16",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197250/pain-vs-aurora?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 16,
+          "points": 69
+        }
+      },
+      {
+        "date": "2025-04-06",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Pain",
+        "team": "aurora",
+        "map": "Nuke",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197245/aurora-vs-pain?startDate=2025-03-15&endDate=2025-05-14&contextIds=11861&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 16,
+          "points": 69
+        },
+        "series_score": "2-1"
+      }
+    ]
+  ],
+  "map_stats": {
+    "Mirage": {
+      "winrate": 0.6920000000000001,
+      "pick_pct": 0.364,
+      "ban_pct": 0.07400000000000001,
+      "maps_played": 13
+    },
+    "Nuke": {
+      "winrate": 0.7,
+      "pick_pct": 0.2,
+      "ban_pct": 0.091,
+      "maps_played": 10
+    },
+    "Anubis": {
+      "winrate": 0.7,
+      "pick_pct": 0.43799999999999994,
+      "ban_pct": 0.28,
+      "maps_played": 10
+    },
+    "Inferno": {
+      "winrate": 0.25,
+      "pick_pct": 0.33299999999999996,
+      "ban_pct": 0.043,
+      "maps_played": 8
+    },
+    "Train": {
+      "winrate": 0.429,
+      "pick_pct": 0.2,
+      "ban_pct": 0.12,
+      "maps_played": 7
+    },
+    "Ancient": {
+      "winrate": 0.5710000000000001,
+      "pick_pct": 0.0,
+      "ban_pct": 0.522,
+      "maps_played": 7
+    },
+    "Dust2": {
+      "winrate": 0.33299999999999996,
+      "pick_pct": 0.0,
+      "ban_pct": 0.429,
+      "maps_played": 3
+    }
+  },
+  "player_stats": [
+    {
+      "name": "XANTARES",
+      "maps": 24,
+      "kd": 1.15,
+      "rating": 1.17
+    },
+    {
+      "name": "woxic",
+      "maps": 24,
+      "kd": 1.14,
+      "rating": 1.06
+    },
+    {
+      "name": "Wicadia",
+      "maps": 24,
+      "kd": 0.99,
+      "rating": 1.05
+    },
+    {
+      "name": "jottAAA",
+      "maps": 24,
+      "kd": 1.03,
+      "rating": 1.0
+    },
+    {
+      "name": "MAJ3R",
+      "maps": 24,
+      "kd": 0.8,
+      "rating": 0.87
+    }
+  ]
+}

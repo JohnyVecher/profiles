@@ -1,0 +1,753 @@
+{
+  "team_id": 12394,
+  "team_name": "betboom",
+  "date_range": [
+    "2025-03-15",
+    "2025-05-14"
+  ],
+  "self_ranking": {
+    "rank": 26,
+    "points": 34
+  },
+  "recent_matches": [
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-10",
+        "event": "A1 Gaming League Season 10",
+        "opponent": "Ecstatic",
+        "team": "betboom",
+        "map": "Dust2",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199375/ecstatic-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 39,
+          "points": 23
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "event": "A1 Gaming League Season 10",
+        "opponent": "Ecstatic",
+        "team": "betboom",
+        "map": "Nuke",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199371/betboom-vs-ecstatic?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 39,
+          "points": 23
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "event": "A1 Gaming League Season 10",
+        "opponent": "Ecstatic",
+        "team": "betboom",
+        "map": "Train",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199379/betboom-vs-ecstatic?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 39,
+          "points": 23
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-27",
+        "event": "CCT Global Finals 2025",
+        "opponent": "Heroic",
+        "team": "betboom",
+        "map": "Ancient",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198411/heroic-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 17,
+          "points": 68
+        }
+      },
+      {
+        "date": "2025-04-27",
+        "event": "CCT Global Finals 2025",
+        "opponent": "Heroic",
+        "team": "betboom",
+        "map": "Anubis",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198419/heroic-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 17,
+          "points": 68
+        }
+      },
+      {
+        "date": "2025-04-27",
+        "event": "CCT Global Finals 2025",
+        "opponent": "Heroic",
+        "team": "betboom",
+        "map": "Train",
+        "result": "23 - 25",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198391/heroic-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 17,
+          "points": 68
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-26",
+        "event": "CCT Global Finals 2025",
+        "opponent": "B8",
+        "team": "betboom",
+        "map": "Ancient",
+        "result": "22 - 25",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198305/b8-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 23,
+          "points": 51
+        }
+      },
+      {
+        "date": "2025-04-26",
+        "event": "CCT Global Finals 2025",
+        "opponent": "B8",
+        "team": "betboom",
+        "map": "Mirage",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198327/betboom-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 23,
+          "points": 51
+        }
+      },
+      {
+        "date": "2025-04-26",
+        "event": "CCT Global Finals 2025",
+        "opponent": "B8",
+        "team": "betboom",
+        "map": "Train",
+        "result": "16 - 12",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198318/b8-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 23,
+          "points": 51
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-25",
+        "event": "CCT Global Finals 2025",
+        "opponent": "Imperial",
+        "team": "betboom",
+        "map": "Dust2",
+        "result": "16 - 12",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198252/betboom-vs-imperial?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 34,
+          "points": 28
+        }
+      },
+      {
+        "date": "2025-04-25",
+        "event": "CCT Global Finals 2025",
+        "opponent": "Imperial",
+        "team": "betboom",
+        "map": "Train",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198248/imperial-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 34,
+          "points": 28
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-24",
+        "event": "CCT Global Finals 2025",
+        "opponent": "Wildcard",
+        "team": "betboom",
+        "map": "Anubis",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198191/betboom-vs-wildcard?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 22,
+          "points": 54
+        }
+      },
+      {
+        "date": "2025-04-24",
+        "event": "CCT Global Finals 2025",
+        "opponent": "Wildcard",
+        "team": "betboom",
+        "map": "Dust2",
+        "result": "13 - 0",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198192/betboom-vs-wildcard?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 22,
+          "points": 54
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-20",
+        "event": "YaLLa Compass Spring 2025",
+        "opponent": "Ence",
+        "team": "betboom",
+        "map": "Anubis",
+        "result": "20 - 22",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198009/ence-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 35,
+          "points": 26
+        }
+      },
+      {
+        "date": "2025-04-20",
+        "event": "YaLLa Compass Spring 2025",
+        "opponent": "Ence",
+        "team": "betboom",
+        "map": "Mirage",
+        "result": "4 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198006/ence-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 35,
+          "points": 26
+        }
+      },
+      {
+        "date": "2025-04-20",
+        "event": "YaLLa Compass Spring 2025",
+        "opponent": "Ence",
+        "team": "betboom",
+        "map": "Nuke",
+        "result": "19 - 17",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198001/betboom-vs-ence?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 35,
+          "points": 26
+        },
+        "series_score": "1-2"
+      }
+    ],
+    {
+      "date": "2025-04-18",
+      "event": "YaLLa Compass Spring 2025",
+      "opponent": "Ence",
+      "team": "betboom",
+      "map": "Anubis",
+      "result": "13 - 11",
+      "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197945/ence-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+      "opponent_ranking": {
+        "rank": 35,
+        "points": 26
+      }
+    },
+    {
+      "date": "2025-04-17",
+      "event": "YaLLa Compass Spring 2025",
+      "opponent": "Spirit Academy",
+      "team": "betboom",
+      "map": "Inferno",
+      "result": "13 - 10",
+      "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197901/spirit-academy-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+      "opponent_ranking": {
+        "rank": 50,
+        "points": 16
+      }
+    },
+    {
+      "date": "2025-04-17",
+      "event": "YaLLa Compass Spring 2025",
+      "opponent": "Metizport",
+      "team": "betboom",
+      "map": "Nuke",
+      "result": "13 - 10",
+      "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197891/betboom-vs-metizport?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+      "opponent_ranking": {
+        "rank": 43,
+        "points": 20
+      }
+    },
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-16",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "9-Pandas",
+        "team": "betboom",
+        "map": "Anubis",
+        "result": "13 - 3",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197792/betboom-vs-9-pandas?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 265,
+          "points": 0
+        }
+      },
+      {
+        "date": "2025-04-16",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "9-Pandas",
+        "team": "betboom",
+        "map": "Dust2",
+        "result": "5 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197798/9-pandas-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 265,
+          "points": 0
+        }
+      },
+      {
+        "date": "2025-04-16",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "9-Pandas",
+        "team": "betboom",
+        "map": "Nuke",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197805/9-pandas-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 265,
+          "points": 0
+        },
+        "series_score": "2-1"
+      }
+    ],
+    {
+      "date": "2025-04-15",
+      "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+      "opponent": "Fnatic",
+      "team": "betboom",
+      "map": "Mirage",
+      "result": "16 - 13",
+      "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197737/betboom-vs-fnatic?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+      "opponent_ranking": {
+        "rank": 49,
+        "points": 16
+      }
+    },
+    {
+      "date": "2025-04-14",
+      "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+      "opponent": "Nemiga",
+      "team": "betboom",
+      "map": "Ancient",
+      "result": "4 - 13",
+      "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197712/betboom-vs-nemiga?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+      "opponent_ranking": {
+        "rank": 40,
+        "points": 22
+      }
+    },
+    {
+      "date": "2025-04-14",
+      "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+      "opponent": "Saw",
+      "team": "betboom",
+      "map": "Train",
+      "result": "13 - 3",
+      "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197688/saw-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+      "opponent_ranking": {
+        "rank": 25,
+        "points": 46
+      }
+    },
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-12",
+        "event": "A1 Gaming League Season 10",
+        "opponent": "Bc.Game",
+        "team": "betboom",
+        "map": "Anubis",
+        "result": "13 - 4",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197577/betboom-vs-bcgame?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 75,
+          "points": 9
+        }
+      },
+      {
+        "date": "2025-04-12",
+        "event": "A1 Gaming League Season 10",
+        "opponent": "Bc.Game",
+        "team": "betboom",
+        "map": "Dust2",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197575/betboom-vs-bcgame?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 75,
+          "points": 9
+        }
+      },
+      {
+        "date": "2025-04-12",
+        "event": "A1 Gaming League Season 10",
+        "opponent": "Bc.Game",
+        "team": "betboom",
+        "map": "Mirage",
+        "result": "13 - 3",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197576/bcgame-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 75,
+          "points": 9
+        },
+        "series_score": "2-1"
+      }
+    ],
+    {
+      "date": "2025-04-02",
+      "event": "YaLLa Compass Spring 2025 Closed Qualifier",
+      "opponent": "Eclot",
+      "team": "betboom",
+      "map": "Mirage",
+      "result": "13 - 5",
+      "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196934/eclot-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+      "opponent_ranking": {
+        "rank": 63,
+        "points": 12
+      }
+    },
+    {
+      "date": "2025-04-02",
+      "event": "YaLLa Compass Spring 2025 Closed Qualifier",
+      "opponent": "Ence",
+      "team": "betboom",
+      "map": "Ancient",
+      "result": "13 - 3",
+      "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196895/betboom-vs-ence?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+      "opponent_ranking": {
+        "rank": 35,
+        "points": 26
+      }
+    },
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-30",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Metizport",
+        "team": "betboom",
+        "map": "Anubis",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196706/metizport-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 43,
+          "points": 20
+        }
+      },
+      {
+        "date": "2025-03-30",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Metizport",
+        "team": "betboom",
+        "map": "Mirage",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196695/metizport-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 43,
+          "points": 20
+        }
+      },
+      {
+        "date": "2025-03-30",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Metizport",
+        "team": "betboom",
+        "map": "Nuke",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196711/metizport-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 43,
+          "points": 20
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-30",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Tnl",
+        "team": "betboom",
+        "map": "Dust2",
+        "result": "5 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196672/betboom-vs-tnl?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 47,
+          "points": 19
+        }
+      },
+      {
+        "date": "2025-03-30",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Tnl",
+        "team": "betboom",
+        "map": "Mirage",
+        "result": "13 - 4",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196679/tnl-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 47,
+          "points": 19
+        }
+      },
+      {
+        "date": "2025-03-30",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Tnl",
+        "team": "betboom",
+        "map": "Nuke",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196686/betboom-vs-tnl?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 47,
+          "points": 19
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-29",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Monte",
+        "team": "betboom",
+        "map": "Ancient",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196585/monte-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 73,
+          "points": 10
+        }
+      },
+      {
+        "date": "2025-03-29",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Monte",
+        "team": "betboom",
+        "map": "Anubis",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196600/monte-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 73,
+          "points": 10
+        }
+      },
+      {
+        "date": "2025-03-29",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Monte",
+        "team": "betboom",
+        "map": "Train",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196575/betboom-vs-monte?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 73,
+          "points": 10
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-29",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "9-Pandas",
+        "team": "betboom",
+        "map": "Ancient",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196535/9-pandas-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 265,
+          "points": 0
+        }
+      },
+      {
+        "date": "2025-03-29",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "9-Pandas",
+        "team": "betboom",
+        "map": "Dust2",
+        "result": "16 - 19",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196525/betboom-vs-9-pandas?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 265,
+          "points": 0
+        }
+      },
+      {
+        "date": "2025-03-29",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "9-Pandas",
+        "team": "betboom",
+        "map": "Mirage",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196547/betboom-vs-9-pandas?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 265,
+          "points": 0
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-28",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Og",
+        "team": "betboom",
+        "map": "Ancient",
+        "result": "13 - 5",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196330/betboom-vs-og?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 42,
+          "points": 21
+        }
+      },
+      {
+        "date": "2025-03-28",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Og",
+        "team": "betboom",
+        "map": "Dust2",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196337/betboom-vs-og?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 42,
+          "points": 21
+        }
+      },
+      {
+        "date": "2025-03-28",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Og",
+        "team": "betboom",
+        "map": "Nuke",
+        "result": "4 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196321/og-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12394&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 42,
+          "points": 21
+        },
+        "series_score": "2-1"
+      }
+    ]
+  ],
+  "map_stats": {
+    "Dust2": {
+      "winrate": 0.375,
+      "pick_pct": 0.125,
+      "ban_pct": 0.52,
+      "maps_played": 8
+    },
+    "Mirage": {
+      "winrate": 0.625,
+      "pick_pct": 0.364,
+      "ban_pct": 0.045,
+      "maps_played": 8
+    },
+    "Anubis": {
+      "winrate": 0.75,
+      "pick_pct": 0.16699999999999998,
+      "ban_pct": 0.125,
+      "maps_played": 8
+    },
+    "Nuke": {
+      "winrate": 0.7140000000000001,
+      "pick_pct": 0.125,
+      "ban_pct": 0.24,
+      "maps_played": 7
+    },
+    "Ancient": {
+      "winrate": 0.5710000000000001,
+      "pick_pct": 0.2,
+      "ban_pct": 0.348,
+      "maps_played": 7
+    },
+    "Train": {
+      "winrate": 0.667,
+      "pick_pct": 0.375,
+      "ban_pct": 0.15,
+      "maps_played": 6
+    },
+    "Inferno": {
+      "winrate": 1.0,
+      "pick_pct": 0.0,
+      "ban_pct": 0.8,
+      "maps_played": 1
+    }
+  },
+  "player_stats": [
+    {
+      "name": "Magnojez",
+      "maps": 45,
+      "kd": 1.08,
+      "rating": 1.17
+    },
+    {
+      "name": "zorte",
+      "maps": 45,
+      "kd": 1.25,
+      "rating": 1.16
+    },
+    {
+      "name": "S1ren",
+      "maps": 45,
+      "kd": 1.07,
+      "rating": 1.07
+    },
+    {
+      "name": "Ax1Le",
+      "maps": 45,
+      "kd": 0.97,
+      "rating": 1.02
+    },
+    {
+      "name": "Boombl4",
+      "maps": 45,
+      "kd": 0.83,
+      "rating": 0.94
+    }
+  ]
+}

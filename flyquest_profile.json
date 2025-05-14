@@ -1,0 +1,379 @@
+{
+  "team_id": 12774,
+  "team_name": "flyquest",
+  "date_range": [
+    "2025-03-15",
+    "2025-05-14"
+  ],
+  "self_ranking": {
+    "rank": 24,
+    "points": 49
+  },
+  "recent_matches": [
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-11",
+        "event": "Hero Esports Asian Champions League 2025",
+        "opponent": "Tyloo",
+        "team": "flyquest",
+        "map": "Ancient",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199419/tyloo-vs-flyquest?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 27,
+          "points": 33
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "event": "Hero Esports Asian Champions League 2025",
+        "opponent": "Tyloo",
+        "team": "flyquest",
+        "map": "Inferno",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199414/tyloo-vs-flyquest?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 27,
+          "points": 33
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-10",
+        "event": "Hero Esports Asian Champions League 2025",
+        "opponent": "Rare Atom",
+        "team": "flyquest",
+        "map": "Ancient",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199339/flyquest-vs-rare-atom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 32,
+          "points": 29
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "event": "Hero Esports Asian Champions League 2025",
+        "opponent": "Rare Atom",
+        "team": "flyquest",
+        "map": "Dust2",
+        "result": "13 - 4",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199334/rare-atom-vs-flyquest?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 32,
+          "points": 29
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "event": "Hero Esports Asian Champions League 2025",
+        "opponent": "Rare Atom",
+        "team": "flyquest",
+        "map": "Inferno",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199347/flyquest-vs-rare-atom?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 32,
+          "points": 29
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-09",
+        "event": "Hero Esports Asian Champions League 2025",
+        "opponent": "Tyloo",
+        "team": "flyquest",
+        "map": "Ancient",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199255/tyloo-vs-flyquest?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 27,
+          "points": 33
+        }
+      },
+      {
+        "date": "2025-05-09",
+        "event": "Hero Esports Asian Champions League 2025",
+        "opponent": "Tyloo",
+        "team": "flyquest",
+        "map": "Inferno",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199252/flyquest-vs-tyloo?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 27,
+          "points": 33
+        }
+      },
+      {
+        "date": "2025-05-09",
+        "event": "Hero Esports Asian Champions League 2025",
+        "opponent": "Tyloo",
+        "team": "flyquest",
+        "map": "Mirage",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199260/flyquest-vs-tyloo?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 27,
+          "points": 33
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-01",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Faze",
+        "team": "flyquest",
+        "map": "Inferno",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198669/faze-vs-flyquest?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 9,
+          "points": 209
+        }
+      },
+      {
+        "date": "2025-05-01",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Faze",
+        "team": "flyquest",
+        "map": "Nuke",
+        "result": "18 - 22",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198679/flyquest-vs-faze?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 9,
+          "points": 209
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-30",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Spirit",
+        "team": "flyquest",
+        "map": "Mirage",
+        "result": "2 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198551/spirit-vs-flyquest?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 3,
+          "points": 555
+        }
+      },
+      {
+        "date": "2025-04-30",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Spirit",
+        "team": "flyquest",
+        "map": "Nuke",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198557/flyquest-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 3,
+          "points": 555
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-23",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Natus Vincere",
+        "team": "flyquest",
+        "map": "Ancient",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198145/natus-vincere-vs-flyquest?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 6,
+          "points": 347
+        }
+      },
+      {
+        "date": "2025-04-23",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Natus Vincere",
+        "team": "flyquest",
+        "map": "Inferno",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198141/flyquest-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 6,
+          "points": 347
+        }
+      },
+      {
+        "date": "2025-04-23",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Natus Vincere",
+        "team": "flyquest",
+        "map": "Mirage",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198143/natus-vincere-vs-flyquest?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 6,
+          "points": 347
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-22",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Virtus.Pro",
+        "team": "flyquest",
+        "map": "Dust2",
+        "result": "13 - 6",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198101/virtuspro-vs-flyquest?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 12,
+          "points": 157
+        }
+      },
+      {
+        "date": "2025-04-22",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Virtus.Pro",
+        "team": "flyquest",
+        "map": "Inferno",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198099/virtuspro-vs-flyquest?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 12,
+          "points": 157
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-21",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Vitality",
+        "team": "flyquest",
+        "map": "Anubis",
+        "result": "2 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198041/flyquest-vs-vitality?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        }
+      },
+      {
+        "date": "2025-04-21",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Vitality",
+        "team": "flyquest",
+        "map": "Nuke",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198048/flyquest-vs-vitality?startDate=2025-03-15&endDate=2025-05-14&contextIds=12774&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        },
+        "series_score": "0-2"
+      }
+    ]
+  ],
+  "map_stats": {
+    "Inferno": {
+      "winrate": 0.33299999999999996,
+      "pick_pct": 0.6,
+      "ban_pct": 0.1,
+      "maps_played": 6
+    },
+    "Ancient": {
+      "winrate": 0.25,
+      "pick_pct": 0.28600000000000003,
+      "ban_pct": 0.083,
+      "maps_played": 4
+    },
+    "Mirage": {
+      "winrate": 0.33299999999999996,
+      "pick_pct": 0.14300000000000002,
+      "ban_pct": 0.077,
+      "maps_played": 3
+    },
+    "Nuke": {
+      "winrate": 0.0,
+      "pick_pct": 0.0,
+      "ban_pct": 0.1,
+      "maps_played": 3
+    },
+    "Dust2": {
+      "winrate": 1.0,
+      "pick_pct": 0.2,
+      "ban_pct": 0.0,
+      "maps_played": 2
+    },
+    "Anubis": {
+      "winrate": 0.0,
+      "pick_pct": 0.125,
+      "ban_pct": 0.267,
+      "maps_played": 1
+    }
+  },
+  "player_stats": [
+    {
+      "name": "regali",
+      "maps": 19,
+      "kd": 1.19,
+      "rating": 1.1
+    },
+    {
+      "name": "nettik",
+      "maps": 19,
+      "kd": 1.0,
+      "rating": 1.06
+    },
+    {
+      "name": "Vexite",
+      "maps": 19,
+      "kd": 0.87,
+      "rating": 0.93
+    },
+    {
+      "name": "INS",
+      "maps": 19,
+      "kd": 0.78,
+      "rating": 0.91
+    },
+    {
+      "name": "Liazz",
+      "maps": 19,
+      "kd": 0.81,
+      "rating": 0.86
+    }
+  ]
+}

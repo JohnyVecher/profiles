@@ -1,0 +1,629 @@
+{
+  "team_id": 5995,
+  "team_name": "g2",
+  "date_range": [
+    "2025-03-15",
+    "2025-05-14"
+  ],
+  "self_ranking": {
+    "rank": 8,
+    "points": 309
+  },
+  "recent_matches": [
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-13",
+        "event": "PGL Astana 2025",
+        "opponent": "Big",
+        "team": "g2",
+        "map": "Dust2",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199556/big-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 20,
+          "points": 57
+        }
+      },
+      {
+        "date": "2025-05-13",
+        "event": "PGL Astana 2025",
+        "opponent": "Big",
+        "team": "g2",
+        "map": "Mirage",
+        "result": "13 - 4",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199560/g2-vs-big?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 20,
+          "points": 57
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-12",
+        "event": "PGL Astana 2025",
+        "opponent": "M80",
+        "team": "g2",
+        "map": "Ancient",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199504/g2-vs-m80?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 21,
+          "points": 56
+        }
+      },
+      {
+        "date": "2025-05-12",
+        "event": "PGL Astana 2025",
+        "opponent": "M80",
+        "team": "g2",
+        "map": "Dust2",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199501/m80-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 21,
+          "points": 56
+        }
+      },
+      {
+        "date": "2025-05-12",
+        "event": "PGL Astana 2025",
+        "opponent": "M80",
+        "team": "g2",
+        "map": "Inferno",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199511/m80-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 21,
+          "points": 56
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-11",
+        "event": "PGL Astana 2025",
+        "opponent": "Oddik",
+        "team": "g2",
+        "map": "Anubis",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199444/oddik-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 31,
+          "points": 29
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "event": "PGL Astana 2025",
+        "opponent": "Oddik",
+        "team": "g2",
+        "map": "Dust2",
+        "result": "13 - 3",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199447/oddik-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 31,
+          "points": 29
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "event": "PGL Astana 2025",
+        "opponent": "Oddik",
+        "team": "g2",
+        "map": "Nuke",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199451/g2-vs-oddik?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 31,
+          "points": 29
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-10",
+        "event": "PGL Astana 2025",
+        "opponent": "Mibr",
+        "team": "g2",
+        "map": "Ancient",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199329/mibr-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 18,
+          "points": 66
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "event": "PGL Astana 2025",
+        "opponent": "Mibr",
+        "team": "g2",
+        "map": "Anubis",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199325/mibr-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 18,
+          "points": 66
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "event": "PGL Astana 2025",
+        "opponent": "Mibr",
+        "team": "g2",
+        "map": "Nuke",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199335/g2-vs-mibr?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 18,
+          "points": 66
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-13",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Falcons",
+        "team": "g2",
+        "map": "Ancient",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197643/falcons-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        }
+      },
+      {
+        "date": "2025-04-13",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Falcons",
+        "team": "g2",
+        "map": "Mirage",
+        "result": "5 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197638/falcons-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        }
+      },
+      {
+        "date": "2025-04-13",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Falcons",
+        "team": "g2",
+        "map": "Nuke",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197642/g2-vs-falcons?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        },
+        "series_score": "0-3"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-12",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Complexity",
+        "team": "g2",
+        "map": "Anubis",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197597/complexity-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 14,
+          "points": 127
+        }
+      },
+      {
+        "date": "2025-04-12",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Complexity",
+        "team": "g2",
+        "map": "Dust2",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197603/g2-vs-complexity?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 14,
+          "points": 127
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-11",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Virtus.Pro",
+        "team": "g2",
+        "map": "Dust2",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197524/virtuspro-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 12,
+          "points": 157
+        }
+      },
+      {
+        "date": "2025-04-11",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Virtus.Pro",
+        "team": "g2",
+        "map": "Mirage",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197528/virtuspro-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 12,
+          "points": 157
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-08",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Complexity",
+        "team": "g2",
+        "map": "Ancient",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197361/complexity-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 14,
+          "points": 127
+        }
+      },
+      {
+        "date": "2025-04-08",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Complexity",
+        "team": "g2",
+        "map": "Anubis",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197353/complexity-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 14,
+          "points": 127
+        }
+      },
+      {
+        "date": "2025-04-08",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Complexity",
+        "team": "g2",
+        "map": "Dust2",
+        "result": "16 - 12",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197342/complexity-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 14,
+          "points": 127
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-07",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Rare Atom",
+        "team": "g2",
+        "map": "Ancient",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197281/g2-vs-rare-atom?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 32,
+          "points": 29
+        }
+      },
+      {
+        "date": "2025-04-07",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Rare Atom",
+        "team": "g2",
+        "map": "Dust2",
+        "result": "13 - 5",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197278/rare-atom-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 32,
+          "points": 29
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-06",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Gamerlegion",
+        "team": "g2",
+        "map": "Inferno",
+        "result": "16 - 12",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197236/gamerlegion-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 11,
+          "points": 161
+        }
+      },
+      {
+        "date": "2025-04-06",
+        "event": "PGL Bucharest 2025",
+        "opponent": "Gamerlegion",
+        "team": "g2",
+        "map": "Mirage",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197230/g2-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 11,
+          "points": 161
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-28",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Mouz",
+        "team": "g2",
+        "map": "Inferno",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196387/mouz-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 2,
+          "points": 568
+        }
+      },
+      {
+        "date": "2025-03-28",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Mouz",
+        "team": "g2",
+        "map": "Nuke",
+        "result": "3 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196397/g2-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 2,
+          "points": 568
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-24",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "The Mongolz",
+        "team": "g2",
+        "map": "Ancient",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195978/g2-vs-the-mongolz?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 7,
+          "points": 343
+        }
+      },
+      {
+        "date": "2025-03-24",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "The Mongolz",
+        "team": "g2",
+        "map": "Dust2",
+        "result": "13 - 4",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195980/g2-vs-the-mongolz?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 7,
+          "points": 343
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-23",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "M80",
+        "team": "g2",
+        "map": "Ancient",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195939/g2-vs-m80?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 21,
+          "points": 56
+        }
+      },
+      {
+        "date": "2025-03-23",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "M80",
+        "team": "g2",
+        "map": "Inferno",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195940/m80-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 21,
+          "points": 56
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-22",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Aurora",
+        "team": "g2",
+        "map": "Anubis",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195875/eternal-fire-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 262,
+          "points": 0
+        }
+      },
+      {
+        "date": "2025-03-22",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Aurora",
+        "team": "g2",
+        "map": "Inferno",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195880/eternal-fire-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 262,
+          "points": 0
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-20",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Imperial",
+        "team": "g2",
+        "map": "Inferno",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195732/imperial-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 34,
+          "points": 28
+        }
+      },
+      {
+        "date": "2025-03-20",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Imperial",
+        "team": "g2",
+        "map": "Mirage",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195730/g2-vs-imperial?startDate=2025-03-15&endDate=2025-05-14&contextIds=5995&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 34,
+          "points": 28
+        },
+        "series_score": "2-0"
+      }
+    ]
+  ],
+  "map_stats": {
+    "Dust2": {
+      "winrate": 1.0,
+      "pick_pct": 0.5379999999999999,
+      "ban_pct": 0.062,
+      "maps_played": 8
+    },
+    "Ancient": {
+      "winrate": 0.7140000000000001,
+      "pick_pct": 0.16699999999999998,
+      "ban_pct": 0.053,
+      "maps_played": 7
+    },
+    "Inferno": {
+      "winrate": 0.667,
+      "pick_pct": 0.312,
+      "ban_pct": 0.0,
+      "maps_played": 6
+    },
+    "Mirage": {
+      "winrate": 0.8,
+      "pick_pct": 0.222,
+      "ban_pct": 0.25,
+      "maps_played": 5
+    },
+    "Anubis": {
+      "winrate": 0.2,
+      "pick_pct": 0.0,
+      "ban_pct": 0.273,
+      "maps_played": 5
+    },
+    "Nuke": {
+      "winrate": 0.0,
+      "pick_pct": 0.0,
+      "ban_pct": 0.15,
+      "maps_played": 4
+    }
+  },
+  "player_stats": [
+    {
+      "name": "HeavyGod",
+      "maps": 35,
+      "kd": 1.26,
+      "rating": 1.15
+    },
+    {
+      "name": "malbsMd",
+      "maps": 35,
+      "kd": 0.97,
+      "rating": 1.07
+    },
+    {
+      "name": "huNter-",
+      "maps": 24,
+      "kd": 1.11,
+      "rating": 1.05
+    },
+    {
+      "name": "hades",
+      "maps": 11,
+      "kd": 1.14,
+      "rating": 1.03
+    },
+    {
+      "name": "Snax",
+      "maps": 35,
+      "kd": 0.9,
+      "rating": 0.94
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+  "team_id": 4608,
+  "team_name": "natus-vincere",
+  "date_range": [
+    "2025-03-15",
+    "2025-05-14"
+  ],
+  "self_ranking": {
+    "rank": 6,
+    "points": 347
+  },
+  "recent_matches": [
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-13",
+        "event": "PGL Astana 2025",
+        "opponent": "Aurora",
+        "team": "natus-vincere",
+        "map": "Inferno",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199581/aurora-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 5,
+          "points": 351
+        }
+      },
+      {
+        "date": "2025-05-13",
+        "event": "PGL Astana 2025",
+        "opponent": "Aurora",
+        "team": "natus-vincere",
+        "map": "Train",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199576/aurora-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 5,
+          "points": 351
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-12",
+        "event": "PGL Astana 2025",
+        "opponent": "The Mongolz",
+        "team": "natus-vincere",
+        "map": "Inferno",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199499/the-mongolz-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 7,
+          "points": 343
+        }
+      },
+      {
+        "date": "2025-05-12",
+        "event": "PGL Astana 2025",
+        "opponent": "The Mongolz",
+        "team": "natus-vincere",
+        "map": "Mirage",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199507/natus-vincere-vs-the-mongolz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 7,
+          "points": 343
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-11",
+        "event": "PGL Astana 2025",
+        "opponent": "Big",
+        "team": "natus-vincere",
+        "map": "Inferno",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199410/big-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 20,
+          "points": 57
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "event": "PGL Astana 2025",
+        "opponent": "Big",
+        "team": "natus-vincere",
+        "map": "Mirage",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199413/big-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 20,
+          "points": 57
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-10",
+        "event": "PGL Astana 2025",
+        "opponent": "M80",
+        "team": "natus-vincere",
+        "map": "Dust2",
+        "result": "13 - 4",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199344/natus-vincere-vs-m80?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 21,
+          "points": 56
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "event": "PGL Astana 2025",
+        "opponent": "M80",
+        "team": "natus-vincere",
+        "map": "Mirage",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199349/m80-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 21,
+          "points": 56
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-23",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Liquid",
+        "team": "natus-vincere",
+        "map": "Ancient",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198164/liquid-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 10,
+          "points": 172
+        }
+      },
+      {
+        "date": "2025-04-23",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Liquid",
+        "team": "natus-vincere",
+        "map": "Anubis",
+        "result": "6 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198156/liquid-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 10,
+          "points": 172
+        }
+      },
+      {
+        "date": "2025-04-23",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Liquid",
+        "team": "natus-vincere",
+        "map": "Inferno",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198159/liquid-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 10,
+          "points": 172
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-23",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Flyquest",
+        "team": "natus-vincere",
+        "map": "Ancient",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198145/natus-vincere-vs-flyquest?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 24,
+          "points": 49
+        }
+      },
+      {
+        "date": "2025-04-23",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Flyquest",
+        "team": "natus-vincere",
+        "map": "Inferno",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198141/flyquest-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 24,
+          "points": 49
+        }
+      },
+      {
+        "date": "2025-04-23",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Flyquest",
+        "team": "natus-vincere",
+        "map": "Mirage",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198143/natus-vincere-vs-flyquest?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 24,
+          "points": 49
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-22",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Falcons",
+        "team": "natus-vincere",
+        "map": "Dust2",
+        "result": "4 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198114/falcons-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        }
+      },
+      {
+        "date": "2025-04-22",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Falcons",
+        "team": "natus-vincere",
+        "map": "Inferno",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198104/falcons-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        }
+      },
+      {
+        "date": "2025-04-22",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Falcons",
+        "team": "natus-vincere",
+        "map": "Mirage",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198108/falcons-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-21",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Mibr",
+        "team": "natus-vincere",
+        "map": "Anubis",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198052/mibr-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 18,
+          "points": 66
+        }
+      },
+      {
+        "date": "2025-04-21",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Mibr",
+        "team": "natus-vincere",
+        "map": "Inferno",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198060/mibr-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 18,
+          "points": 66
+        }
+      },
+      {
+        "date": "2025-04-21",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Mibr",
+        "team": "natus-vincere",
+        "map": "Mirage",
+        "result": "13 - 5",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198056/mibr-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 18,
+          "points": 66
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-28",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Spirit",
+        "team": "natus-vincere",
+        "map": "Anubis",
+        "result": "6 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196417/spirit-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 3,
+          "points": 555
+        }
+      },
+      {
+        "date": "2025-03-28",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Spirit",
+        "team": "natus-vincere",
+        "map": "Dust2",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196413/natus-vincere-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 3,
+          "points": 555
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-24",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Aurora",
+        "team": "natus-vincere",
+        "map": "Dust2",
+        "result": "5 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195970/eternal-fire-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 262,
+          "points": 0
+        }
+      },
+      {
+        "date": "2025-03-24",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Aurora",
+        "team": "natus-vincere",
+        "map": "Inferno",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195965/natus-vincere-vs-eternal-fire?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 262,
+          "points": 0
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-22",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "The Mongolz",
+        "team": "natus-vincere",
+        "map": "Dust2",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195884/the-mongolz-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 7,
+          "points": 343
+        }
+      },
+      {
+        "date": "2025-03-22",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "The Mongolz",
+        "team": "natus-vincere",
+        "map": "Inferno",
+        "result": "1 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195887/the-mongolz-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 7,
+          "points": 343
+        }
+      },
+      {
+        "date": "2025-03-22",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "The Mongolz",
+        "team": "natus-vincere",
+        "map": "Mirage",
+        "result": "16 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195889/natus-vincere-vs-the-mongolz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 7,
+          "points": 343
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-20",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Furia",
+        "team": "natus-vincere",
+        "map": "Anubis",
+        "result": "16 - 12",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195750/furia-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 19,
+          "points": 62
+        }
+      },
+      {
+        "date": "2025-03-20",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Furia",
+        "team": "natus-vincere",
+        "map": "Mirage",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195752/furia-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=4608&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 19,
+          "points": 62
+        },
+        "series_score": "2-0"
+      }
+    ]
+  ],
+  "map_stats": {
+    "Inferno": {
+      "winrate": 0.667,
+      "pick_pct": 0.16699999999999998,
+      "ban_pct": 0.071,
+      "maps_played": 9
+    },
+    "Mirage": {
+      "winrate": 0.625,
+      "pick_pct": 0.636,
+      "ban_pct": 0.077,
+      "maps_played": 8
+    },
+    "Dust2": {
+      "winrate": 0.4,
+      "pick_pct": 0.28600000000000003,
+      "ban_pct": 0.2,
+      "maps_played": 5
+    },
+    "Anubis": {
+      "winrate": 0.25,
+      "pick_pct": 0.2,
+      "ban_pct": 0.429,
+      "maps_played": 4
+    },
+    "Ancient": {
+      "winrate": 0.5,
+      "pick_pct": 0.0,
+      "ban_pct": 0.28600000000000003,
+      "maps_played": 2
+    },
+    "Train": {
+      "winrate": 1.0,
+      "pick_pct": 0.14300000000000002,
+      "ban_pct": 0.33299999999999996,
+      "maps_played": 1
+    }
+  },
+  "player_stats": [
+    {
+      "name": "jL",
+      "maps": 29,
+      "kd": 0.94,
+      "rating": 1.03
+    },
+    {
+      "name": "w0nderful",
+      "maps": 29,
+      "kd": 1.06,
+      "rating": 1.03
+    },
+    {
+      "name": "iM",
+      "maps": 29,
+      "kd": 0.98,
+      "rating": 1.02
+    },
+    {
+      "name": "b1t",
+      "maps": 29,
+      "kd": 0.96,
+      "rating": 1.0
+    },
+    {
+      "name": "Aleksib",
+      "maps": 29,
+      "kd": 0.9,
+      "rating": 0.95
+    }
+  ]
+}

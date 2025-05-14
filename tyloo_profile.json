@@ -1,0 +1,495 @@
+{
+  "team_id": 4863,
+  "team_name": "tyloo",
+  "date_range": [
+    "2025-03-15",
+    "2025-05-14"
+  ],
+  "self_ranking": {
+    "rank": 27,
+    "points": 33
+  },
+  "recent_matches": [
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-11",
+        "event": "Hero Esports Asian Champions League 2025",
+        "opponent": "Flyquest",
+        "team": "tyloo",
+        "map": "Ancient",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199419/tyloo-vs-flyquest?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 24,
+          "points": 49
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "event": "Hero Esports Asian Champions League 2025",
+        "opponent": "Flyquest",
+        "team": "tyloo",
+        "map": "Inferno",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199414/tyloo-vs-flyquest?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 24,
+          "points": 49
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-09",
+        "event": "Hero Esports Asian Champions League 2025",
+        "opponent": "Flyquest",
+        "team": "tyloo",
+        "map": "Ancient",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199255/tyloo-vs-flyquest?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 24,
+          "points": 49
+        }
+      },
+      {
+        "date": "2025-05-09",
+        "event": "Hero Esports Asian Champions League 2025",
+        "opponent": "Flyquest",
+        "team": "tyloo",
+        "map": "Inferno",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199252/flyquest-vs-tyloo?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 24,
+          "points": 49
+        }
+      },
+      {
+        "date": "2025-05-09",
+        "event": "Hero Esports Asian Champions League 2025",
+        "opponent": "Flyquest",
+        "team": "tyloo",
+        "map": "Mirage",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199260/flyquest-vs-tyloo?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 24,
+          "points": 49
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-07",
+        "event": "Hero Esports Asian Champions League 2025",
+        "opponent": "Rare Atom",
+        "team": "tyloo",
+        "map": "Inferno",
+        "result": "13 - 3",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199070/tyloo-vs-rare-atom?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 32,
+          "points": 29
+        }
+      },
+      {
+        "date": "2025-05-07",
+        "event": "Hero Esports Asian Champions League 2025",
+        "opponent": "Rare Atom",
+        "team": "tyloo",
+        "map": "Train",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199069/rare-atom-vs-tyloo?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 32,
+          "points": 29
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-04",
+        "event": "ESL Challenger League Season 49 Asia-Pacific",
+        "opponent": "Lynn-Vision",
+        "team": "tyloo",
+        "map": "Ancient",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198853/lynn-vision-vs-tyloo?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 33,
+          "points": 29
+        }
+      },
+      {
+        "date": "2025-05-04",
+        "event": "ESL Challenger League Season 49 Asia-Pacific",
+        "opponent": "Lynn-Vision",
+        "team": "tyloo",
+        "map": "Inferno",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198843/lynn-vision-vs-tyloo?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 33,
+          "points": 29
+        }
+      },
+      {
+        "date": "2025-05-04",
+        "event": "ESL Challenger League Season 49 Asia-Pacific",
+        "opponent": "Lynn-Vision",
+        "team": "tyloo",
+        "map": "Nuke",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198849/tyloo-vs-lynn-vision?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 33,
+          "points": 29
+        },
+        "series_score": "1-2"
+      }
+    ],
+    {
+      "date": "2025-05-04",
+      "event": "ESL Challenger League Season 49 Asia-Pacific",
+      "opponent": "The Huns",
+      "team": "tyloo",
+      "map": "Inferno",
+      "result": "13 - 9",
+      "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198834/the-huns-vs-tyloo?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+      "opponent_ranking": {
+        "rank": 46,
+        "points": 19
+      }
+    },
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-03",
+        "event": "ESL Challenger League Season 49 Asia-Pacific",
+        "opponent": "Lynn-Vision",
+        "team": "tyloo",
+        "map": "Ancient",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198754/tyloo-vs-lynn-vision?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 33,
+          "points": 29
+        }
+      },
+      {
+        "date": "2025-05-03",
+        "event": "ESL Challenger League Season 49 Asia-Pacific",
+        "opponent": "Lynn-Vision",
+        "team": "tyloo",
+        "map": "Inferno",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198747/lynn-vision-vs-tyloo?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 33,
+          "points": 29
+        }
+      },
+      {
+        "date": "2025-05-03",
+        "event": "ESL Challenger League Season 49 Asia-Pacific",
+        "opponent": "Lynn-Vision",
+        "team": "tyloo",
+        "map": "Train",
+        "result": "15 - 19",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198766/lynn-vision-vs-tyloo?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 33,
+          "points": 29
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-30",
+        "event": "ESL Challenger League Season 49 Asia-Pacific",
+        "opponent": "Chinggis Warriors",
+        "team": "tyloo",
+        "map": "Anubis",
+        "result": "16 - 12",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198586/tyloo-vs-chinggis-warriors?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 37,
+          "points": 25
+        }
+      },
+      {
+        "date": "2025-04-30",
+        "event": "ESL Challenger League Season 49 Asia-Pacific",
+        "opponent": "Chinggis Warriors",
+        "team": "tyloo",
+        "map": "Inferno",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198579/tyloo-vs-chinggis-warriors?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 37,
+          "points": 25
+        }
+      },
+      {
+        "date": "2025-04-30",
+        "event": "ESL Challenger League Season 49 Asia-Pacific",
+        "opponent": "Chinggis Warriors",
+        "team": "tyloo",
+        "map": "Nuke",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198571/tyloo-vs-chinggis-warriors?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 37,
+          "points": 25
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-17",
+        "event": "BLAST.tv Austin Major 2025 China Regional Qualifier",
+        "opponent": "Rare Atom",
+        "team": "tyloo",
+        "map": "Anubis",
+        "result": "16 - 12",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197853/tyloo-vs-rare-atom?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 32,
+          "points": 29
+        }
+      },
+      {
+        "date": "2025-04-17",
+        "event": "BLAST.tv Austin Major 2025 China Regional Qualifier",
+        "opponent": "Rare Atom",
+        "team": "tyloo",
+        "map": "Mirage",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197860/tyloo-vs-rare-atom?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 32,
+          "points": 29
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-16",
+        "event": "BLAST.tv Austin Major 2025 China Regional Qualifier",
+        "opponent": "Lynn-Vision",
+        "team": "tyloo",
+        "map": "Inferno",
+        "result": "19 - 15",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197793/lynn-vision-vs-tyloo?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 33,
+          "points": 29
+        }
+      },
+      {
+        "date": "2025-04-16",
+        "event": "BLAST.tv Austin Major 2025 China Regional Qualifier",
+        "opponent": "Lynn-Vision",
+        "team": "tyloo",
+        "map": "Nuke",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197784/tyloo-vs-lynn-vision?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 33,
+          "points": 29
+        }
+      },
+      {
+        "date": "2025-04-16",
+        "event": "BLAST.tv Austin Major 2025 China Regional Qualifier",
+        "opponent": "Lynn-Vision",
+        "team": "tyloo",
+        "map": "Train",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197803/tyloo-vs-lynn-vision?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 33,
+          "points": 29
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-05",
+        "event": "ESL Challenger League Season 49 Asia-Pacific",
+        "opponent": "The Huns",
+        "team": "tyloo",
+        "map": "Anubis",
+        "result": "13 - 5",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197177/the-huns-vs-tyloo?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 46,
+          "points": 19
+        }
+      },
+      {
+        "date": "2025-04-05",
+        "event": "ESL Challenger League Season 49 Asia-Pacific",
+        "opponent": "The Huns",
+        "team": "tyloo",
+        "map": "Inferno",
+        "result": "16 - 14",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197173/the-huns-vs-tyloo?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 46,
+          "points": 19
+        },
+        "series_score": "2-0"
+      }
+    ],
+    {
+      "date": "2025-03-28",
+      "event": "PGL Astana 2025 China Closed Qualifier",
+      "opponent": "Lynn-Vision",
+      "team": "tyloo",
+      "map": "Ancient",
+      "result": "11 - 13",
+      "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196339/tyloo-vs-lynn-vision?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+      "opponent_ranking": {
+        "rank": 33,
+         "points": 29
+      }
+    },
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-25",
+        "event": "ESL Challenger League Season 49 Asia-Pacific",
+        "opponent": "Rare Atom",
+        "team": "tyloo",
+        "map": "Mirage",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196000/rare-atom-vs-tyloo?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 32,
+          "points": 29
+        }
+      },
+      {
+        "date": "2025-03-25",
+        "event": "ESL Challenger League Season 49 Asia-Pacific",
+        "opponent": "Rare Atom",
+        "team": "tyloo",
+        "map": "Train",
+        "result": "13 - 5",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196008/tyloo-vs-rare-atom?startDate=2025-03-15&endDate=2025-05-14&contextIds=4863&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 32,
+          "points": 29
+        },
+        "series_score": "1-1"
+      }
+    ]
+  ],
+  "map_stats": {
+    "Inferno": {
+      "winrate": 0.889,
+      "pick_pct": 0.8,
+      "ban_pct": 0.071,
+      "maps_played": 9
+    },
+    "Ancient": {
+      "winrate": 0.2,
+      "pick_pct": 0.1,
+      "ban_pct": 0.368,
+      "maps_played": 5
+    },
+    "Train": {
+      "winrate": 0.5,
+      "pick_pct": 0.14300000000000002,
+      "ban_pct": 0.062,
+      "maps_played": 4
+    },
+    "Mirage": {
+      "winrate": 0.667,
+      "pick_pct": 0.0,
+      "ban_pct": 0.154,
+      "maps_played": 3
+    },
+    "Nuke": {
+      "winrate": 0.33299999999999996,
+      "pick_pct": 0.0,
+      "ban_pct": 0.263,
+      "maps_played": 3
+    },
+    "Anubis": {
+      "winrate": 1.0,
+      "pick_pct": 0.111,
+      "ban_pct": 0.053,
+      "maps_played": 3
+    }
+  },
+  "player_stats": [
+    {
+      "name": "JamYoung",
+      "maps": 27,
+      "kd": 1.13,
+      "rating": 1.18
+    },
+    {
+      "name": "Mercury",
+      "maps": 27,
+      "kd": 1.18,
+      "rating": 1.17
+    },
+    {
+      "name": "Moseyuh",
+      "maps": 27,
+      "kd": 1.1,
+      "rating": 1.11
+    },
+    {
+      "name": "Jee",
+      "maps": 27,
+      "kd": 1.16,
+      "rating": 1.06
+    },
+    {
+      "name": "Attacker",
+      "maps": 27,
+      "kd": 0.95,
+      "rating": 0.99
+    }
+  ]
+}

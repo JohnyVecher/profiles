@@ -1,0 +1,713 @@
+{
+  "team_id": 4494,
+  "team_name": "mouz",
+  "date_range": [
+    "2025-03-15",
+    "2025-05-14"
+  ],
+  "self_ranking": {
+    "rank": 2,
+    "points": 568
+  },
+  "recent_matches": [
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-03",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Falcons",
+        "team": "mouz",
+        "map": "Dust2",
+        "result": "6 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198800/mouz-vs-falcons?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        }
+      },
+      {
+        "date": "2025-05-03",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Falcons",
+        "team": "mouz",
+        "map": "Nuke",
+        "result": "14 - 16",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198790/falcons-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-02",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Faze",
+        "team": "mouz",
+        "map": "Dust2",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198713/mouz-vs-faze?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 9,
+          "points": 209
+        }
+      },
+      {
+        "date": "2025-05-02",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Faze",
+        "team": "mouz",
+        "map": "Mirage",
+        "result": "13 - 2",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198717/faze-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 9,
+          "points": 209
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-01",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Vitality",
+        "team": "mouz",
+        "map": "Inferno",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198658/mouz-vs-vitality?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        }
+      },
+      {
+        "date": "2025-05-01",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Vitality",
+        "team": "mouz",
+        "map": "Mirage",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198651/vitality-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        }
+      },
+      {
+        "date": "2025-05-01",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Vitality",
+        "team": "mouz",
+        "map": "Train",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198663/mouz-vs-vitality?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-30",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Pain",
+        "team": "mouz",
+        "map": "Dust2",
+        "result": "13 - 0",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198578/pain-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 16,
+          "points": 69
+        }
+      },
+      {
+        "date": "2025-04-30",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Pain",
+        "team": "mouz",
+        "map": "Inferno",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198575/pain-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 16,
+          "points": 69
+        }
+      },
+      {
+        "date": "2025-04-30",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Pain",
+        "team": "mouz",
+        "map": "Nuke",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198564/mouz-vs-pain?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 16,
+          "points": 69
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-26",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Falcons",
+        "team": "mouz",
+        "map": "Dust2",
+        "result": "3 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198260/mouz-vs-falcons?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        }
+      },
+      {
+        "date": "2025-04-26",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Falcons",
+        "team": "mouz",
+        "map": "Nuke",
+        "result": "6 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198261/falcons-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-23",
+        "event": "IEM Melbourne 2025",
+        "opponent": "The Mongolz",
+        "team": "mouz",
+        "map": "Mirage",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198148/mouz-vs-the-mongolz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 7,
+          "points": 343
+        }
+      },
+      {
+        "date": "2025-04-23",
+        "event": "IEM Melbourne 2025",
+        "opponent": "The Mongolz",
+        "team": "mouz",
+        "map": "Nuke",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198150/the-mongolz-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 7,
+          "points": 343
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-22",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Gamerlegion",
+        "team": "mouz",
+        "map": "Inferno",
+        "result": "13 - 6",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198084/mouz-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 11,
+          "points": 161
+        }
+      },
+      {
+        "date": "2025-04-22",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Gamerlegion",
+        "team": "mouz",
+        "map": "Nuke",
+        "result": "16 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198089/gamerlegion-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 11,
+          "points": 161
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-21",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Big",
+        "team": "mouz",
+        "map": "Ancient",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198039/mouz-vs-big?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 20,
+          "points": 57
+        }
+      },
+      {
+        "date": "2025-04-21",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Big",
+        "team": "mouz",
+        "map": "Inferno",
+        "result": "6 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198036/mouz-vs-big?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 20,
+          "points": 57
+        }
+      },
+      {
+        "date": "2025-04-21",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Big",
+        "team": "mouz",
+        "map": "Mirage",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198037/big-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 20,
+          "points": 57
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo5"
+      },
+      {
+        "date": "2025-03-30",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Vitality",
+        "team": "mouz",
+        "map": "Dust2",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196717/mouz-vs-vitality?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        }
+      },
+      {
+        "date": "2025-03-30",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Vitality",
+        "team": "mouz",
+        "map": "Inferno",
+        "result": "0 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196700/mouz-vs-vitality?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        }
+      },
+      {
+        "date": "2025-03-30",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Vitality",
+        "team": "mouz",
+        "map": "Mirage",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196707/vitality-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        }
+      },
+      {
+        "date": "2025-03-30",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Vitality",
+        "team": "mouz",
+        "map": "Nuke",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196723/vitality-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        }
+      },
+      {
+        "date": "2025-03-30",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Vitality",
+        "team": "mouz",
+        "map": "Train",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196726/mouz-vs-vitality?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        },
+        "series_score": "2-3"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-29",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Aurora",
+        "team": "mouz",
+        "map": "Dust2",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196572/mouz-vs-eternal-fire?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 262,
+          "points": 0
+        }
+      },
+      {
+        "date": "2025-03-29",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Aurora",
+        "team": "mouz",
+        "map": "Nuke",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196561/eternal-fire-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 262,
+          "points": 0
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-28",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "G2",
+        "team": "mouz",
+        "map": "Inferno",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196387/mouz-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 8,
+          "points": 309
+        }
+      },
+      {
+        "date": "2025-03-28",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "G2",
+        "team": "mouz",
+        "map": "Nuke",
+        "result": "13 - 3",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196397/g2-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 8,
+          "points": 309
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-24",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Vitality",
+        "team": "mouz",
+        "map": "Dust2",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195950/mouz-vs-vitality?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        }
+      },
+      {
+        "date": "2025-03-24",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Vitality",
+        "team": "mouz",
+        "map": "Mirage",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195948/vitality-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-21",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Spirit",
+        "team": "mouz",
+        "map": "Ancient",
+        "result": "25 - 22",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195800/mouz-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 3,
+          "points": 555
+        }
+      },
+      {
+        "date": "2025-03-21",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Spirit",
+        "team": "mouz",
+        "map": "Dust2",
+        "result": "3 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195792/mouz-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 3,
+          "points": 555
+        }
+      },
+      {
+        "date": "2025-03-21",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Spirit",
+        "team": "mouz",
+        "map": "Nuke",
+        "result": "16 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195795/spirit-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 3,
+          "points": 555
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-19",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Falcons",
+        "team": "mouz",
+        "map": "Ancient",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195645/falcons-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        }
+      },
+      {
+        "date": "2025-03-19",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Falcons",
+        "team": "mouz",
+        "map": "Train",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195638/mouz-vs-falcons?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-16",
+        "event": "ESL Pro League Season 21",
+        "opponent": "Vitality",
+        "team": "mouz",
+        "map": "Dust2",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195462/mouz-vs-vitality?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        }
+      },
+      {
+        "date": "2025-03-16",
+        "event": "ESL Pro League Season 21",
+        "opponent": "Vitality",
+        "team": "mouz",
+        "map": "Inferno",
+        "result": "5 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195473/mouz-vs-vitality?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        }
+      },
+      {
+        "date": "2025-03-16",
+        "event": "ESL Pro League Season 21",
+        "opponent": "Vitality",
+        "team": "mouz",
+        "map": "Nuke",
+        "result": "4 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195467/vitality-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        },
+        "series_score": "0-3"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-15",
+        "event": "ESL Pro League Season 21",
+        "opponent": "Spirit",
+        "team": "mouz",
+        "map": "Ancient",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195397/mouz-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 3,
+          "points": 555
+        }
+      },
+      {
+        "date": "2025-03-15",
+        "event": "ESL Pro League Season 21",
+        "opponent": "Spirit",
+        "team": "mouz",
+        "map": "Dust2",
+        "result": "7 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195386/mouz-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 3,
+          "points": 555
+        }
+      },
+      {
+        "date": "2025-03-15",
+        "event": "ESL Pro League Season 21",
+        "opponent": "Spirit",
+        "team": "mouz",
+        "map": "Nuke",
+        "result": "16 - 14",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195371/spirit-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=4494&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 3,
+          "points": 555
+        },
+        "series_score": "2-1"
+      }
+    ]
+  ],
+  "map_stats": {
+    "Nuke": {
+      "winrate": 0.636,
+      "pick_pct": 0.769,
+      "ban_pct": 0.0,
+      "maps_played": 11
+    },
+    "Dust2": {
+      "winrate": 0.4,
+      "pick_pct": 0.0,
+      "ban_pct": 0.2,
+      "maps_played": 10
+    },
+    "Inferno": {
+      "winrate": 0.28600000000000003,
+      "pick_pct": 0.1,
+      "ban_pct": 0.23800000000000002,
+      "maps_played": 7
+    },
+    "Mirage": {
+      "winrate": 0.833,
+      "pick_pct": 0.375,
+      "ban_pct": 0.13,
+      "maps_played": 6
+    },
+    "Ancient": {
+      "winrate": 1.0,
+      "pick_pct": 0.125,
+      "ban_pct": 0.053,
+      "maps_played": 4
+    },
+    "Train": {
+      "winrate": 0.33299999999999996,
+      "pick_pct": 0.0,
+      "ban_pct": 0.05,
+      "maps_played": 3
+    }
+  },
+  "player_stats": [
+    {
+      "name": "xertioN",
+      "maps": 41,
+      "kd": 1.0,
+      "rating": 1.12
+    },
+    {
+      "name": "torzsi",
+      "maps": 41,
+      "kd": 1.26,
+      "rating": 1.07
+    },
+    {
+      "name": "Spinx",
+      "maps": 41,
+      "kd": 1.06,
+      "rating": 1.06
+    },
+    {
+      "name": "Jimpphat",
+      "maps": 41,
+      "kd": 1.11,
+      "rating": 1.03
+    },
+    {
+      "name": "Brollan",
+      "maps": 41,
+      "kd": 0.82,
+      "rating": 0.9
+    }
+  ]
+}

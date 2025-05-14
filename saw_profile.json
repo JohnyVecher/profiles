@@ -1,0 +1,354 @@
+{
+  "team_id": 10567,
+  "team_name": "saw",
+  "date_range": [
+    "2025-03-15",
+    "2025-05-14"
+  ],
+  "self_ranking": {
+    "rank": 25,
+    "points": 46
+  },
+  "recent_matches": [
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-01",
+        "event": "MESA Nomadic Masters Spring 2025",
+        "opponent": "Chinggis Warriors",
+        "team": "saw",
+        "map": "Ancient",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198626/saw-vs-chinggis-warriors?startDate=2025-03-15&endDate=2025-05-14&contextIds=10567&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 37,
+          "points": 25
+        }
+      },
+      {
+        "date": "2025-05-01",
+        "event": "MESA Nomadic Masters Spring 2025",
+        "opponent": "Chinggis Warriors",
+        "team": "saw",
+        "map": "Inferno",
+        "result": "5 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198640/saw-vs-chinggis-warriors?startDate=2025-03-15&endDate=2025-05-14&contextIds=10567&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 37,
+          "points": 25
+        }
+      },
+      {
+        "date": "2025-05-01",
+        "event": "MESA Nomadic Masters Spring 2025",
+        "opponent": "Chinggis Warriors",
+        "team": "saw",
+        "map": "Nuke",
+        "result": "19 - 16",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198631/saw-vs-chinggis-warriors?startDate=2025-03-15&endDate=2025-05-14&contextIds=10567&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 37,
+          "points": 25
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-30",
+        "event": "MESA Nomadic Masters Spring 2025",
+        "opponent": "Jijiehao",
+        "team": "saw",
+        "map": "Dust2",
+        "result": "6 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198546/saw-vs-jijiehao?startDate=2025-03-15&endDate=2025-05-14&contextIds=10567&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 45,
+          "points": 19
+        }
+      },
+      {
+        "date": "2025-04-30",
+        "event": "MESA Nomadic Masters Spring 2025",
+        "opponent": "Jijiehao",
+        "team": "saw",
+        "map": "Train",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198545/jijiehao-vs-saw?startDate=2025-03-15&endDate=2025-05-14&contextIds=10567&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 45,
+          "points": 19
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-22",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Mibr",
+        "team": "saw",
+        "map": "Anubis",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198106/mibr-vs-saw?startDate=2025-03-15&endDate=2025-05-14&contextIds=10567&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 18,
+          "points": 66
+        }
+      },
+      {
+        "date": "2025-04-22",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Mibr",
+        "team": "saw",
+        "map": "Inferno",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198115/saw-vs-mibr?startDate=2025-03-15&endDate=2025-05-14&contextIds=10567&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 18,
+          "points": 66
+        }
+      },
+      {
+        "date": "2025-04-22",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Mibr",
+        "team": "saw",
+        "map": "Nuke",
+        "result": "13 - 5",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198109/mibr-vs-saw?startDate=2025-03-15&endDate=2025-05-14&contextIds=10567&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 18,
+          "points": 66
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-21",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Falcons",
+        "team": "saw",
+        "map": "Dust2",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198057/saw-vs-falcons?startDate=2025-03-15&endDate=2025-05-14&contextIds=10567&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        }
+      },
+      {
+        "date": "2025-04-21",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Falcons",
+        "team": "saw",
+        "map": "Nuke",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198053/falcons-vs-saw?startDate=2025-03-15&endDate=2025-05-14&contextIds=10567&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-16",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Ence",
+        "team": "saw",
+        "map": "Ancient",
+        "result": "14 - 16",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197818/saw-vs-ence?startDate=2025-03-15&endDate=2025-05-14&contextIds=10567&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 35,
+          "points": 26
+        }
+      },
+      {
+        "date": "2025-04-16",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Ence",
+        "team": "saw",
+        "map": "Train",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197826/ence-vs-saw?startDate=2025-03-15&endDate=2025-05-14&contextIds=10567&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 35,
+          "points": 26
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-16",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Gamerlegion",
+        "team": "saw",
+        "map": "Ancient",
+        "result": "5 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197777/saw-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=10567&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 11,
+          "points": 161
+        }
+      },
+      {
+        "date": "2025-04-16",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Gamerlegion",
+        "team": "saw",
+        "map": "Anubis",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197789/gamerlegion-vs-saw?startDate=2025-03-15&endDate=2025-05-14&contextIds=10567&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 11,
+          "points": 161
+        }
+      },
+      {
+        "date": "2025-04-16",
+        "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+        "opponent": "Gamerlegion",
+        "team": "saw",
+        "map": "Nuke",
+        "result": "16 - 14",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197785/gamerlegion-vs-saw?startDate=2025-03-15&endDate=2025-05-14&contextIds=10567&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 11,
+          "points": 161
+        },
+        "series_score": "2-1"
+      }
+    ],
+    {
+      "date": "2025-04-15",
+      "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+      "opponent": "9-Pandas",
+      "team": "saw",
+      "map": "Ancient",
+      "result": "11 - 13",
+      "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197742/9-pandas-vs-saw?startDate=2025-03-15&endDate=2025-05-14&contextIds=10567&contextTypes=team&rankingFilter=Top50",
+      "opponent_ranking": {
+        "rank": 265,
+          "points": 0
+      }
+    },
+    {
+      "date": "2025-04-14",
+      "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+      "opponent": "B8",
+      "team": "saw",
+      "map": "Anubis",
+      "result": "19 - 17",
+      "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197705/saw-vs-b8?startDate=2025-03-15&endDate=2025-05-14&contextIds=10567&contextTypes=team&rankingFilter=Top50",
+      "opponent_ranking": {
+        "rank": 23,
+        "points": 51
+      }
+    },
+    {
+      "date": "2025-04-14",
+      "event": "BLAST.tv Austin Major 2025 Europe Regional Qualifier",
+      "opponent": "Betboom",
+      "team": "saw",
+      "map": "Train",
+      "result": "3 - 13",
+      "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197688/saw-vs-betboom?startDate=2025-03-15&endDate=2025-05-14&contextIds=10567&contextTypes=team&rankingFilter=Top50",
+      "opponent_ranking": {
+        "rank": 26,
+        "points": 34
+      }
+    }
+  ],
+  "map_stats": {
+    "Nuke": {
+      "winrate": 0.75,
+      "pick_pct": 0.8,
+      "ban_pct": 0.1,
+      "maps_played": 4
+    },
+    "Ancient": {
+      "winrate": 0.0,
+      "pick_pct": 0.0,
+      "ban_pct": 0.33299999999999996,
+      "maps_played": 4
+    },
+    "Train": {
+      "winrate": 0.0,
+      "pick_pct": 0.4,
+      "ban_pct": 0.0,
+      "maps_played": 3
+    },
+    "Anubis": {
+      "winrate": 0.667,
+      "pick_pct": 0.0,
+      "ban_pct": 0.083,
+      "maps_played": 3
+    },
+    "Dust2": {
+      "winrate": 0.0,
+      "pick_pct": 0.0,
+      "ban_pct": 0.5,
+      "maps_played": 2
+    },
+    "Inferno": {
+      "winrate": 0.0,
+      "pick_pct": 0.0,
+      "ban_pct": 0.2,
+      "maps_played": 2
+    }
+  },
+  "player_stats": [
+    {
+      "name": "story",
+      "maps": 18,
+      "kd": 1.03,
+      "rating": 1.01
+    },
+    {
+      "name": "Ag1l",
+      "maps": 18,
+      "kd": 0.95,
+      "rating": 0.96
+    },
+    {
+      "name": "cej0t",
+      "maps": 18,
+      "kd": 0.88,
+      "rating": 0.96
+    },
+    {
+      "name": "AZUWU",
+      "maps": 18,
+      "kd": 0.94,
+      "rating": 0.93
+    },
+    {
+      "name": "MUTiRiS",
+      "maps": 18,
+      "kd": 0.74,
+      "rating": 0.85
+    }
+  ]
+}

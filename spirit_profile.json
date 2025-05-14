@@ -1,0 +1,584 @@
+{
+  "team_id": 7020,
+  "team_name": "spirit",
+  "date_range": [
+    "2025-03-15",
+    "2025-05-14"
+  ],
+  "self_ranking": {
+    "rank": 3,
+    "points": 555
+  },
+  "recent_matches": [
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-12",
+        "event": "PGL Astana 2025",
+        "opponent": "Astralis",
+        "team": "spirit",
+        "map": "Ancient",
+        "result": "13 - 5",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199520/spirit-vs-astralis?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 15,
+          "points": 88
+        }
+      },
+      {
+        "date": "2025-05-12",
+        "event": "PGL Astana 2025",
+        "opponent": "Astralis",
+        "team": "spirit",
+        "map": "Dust2",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199513/astralis-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 15,
+          "points": 88
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-11",
+        "event": "PGL Astana 2025",
+        "opponent": "Ninjas In Pyjamas",
+        "team": "spirit",
+        "map": "Dust2",
+        "result": "13 - 4",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199427/ninjas-in-pyjamas-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 30,
+          "points": 30
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "event": "PGL Astana 2025",
+        "opponent": "Ninjas In Pyjamas",
+        "team": "spirit",
+        "map": "Train",
+        "result": "16 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199421/spirit-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 30,
+          "points": 30
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-10",
+        "event": "PGL Astana 2025",
+        "opponent": "Gamerlegion",
+        "team": "spirit",
+        "map": "Mirage",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199359/spirit-vs-gamerlegion?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 11,
+          "points": 161
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "event": "PGL Astana 2025",
+        "opponent": "Gamerlegion",
+        "team": "spirit",
+        "map": "Nuke",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199367/gamerlegion-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 11,
+          "points": 161
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-03",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Vitality",
+        "team": "spirit",
+        "map": "Mirage",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198810/vitality-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        }
+      },
+      {
+        "date": "2025-05-03",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Vitality",
+        "team": "spirit",
+        "map": "Nuke",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198816/spirit-vs-vitality?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-02",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Wildcard",
+        "team": "spirit",
+        "map": "Anubis",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198724/spirit-vs-wildcard?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 22,
+          "points": 54
+        }
+      },
+      {
+        "date": "2025-05-02",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Wildcard",
+        "team": "spirit",
+        "map": "Dust2",
+        "result": "13 - 2",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198727/wildcard-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 22,
+          "points": 54
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-01",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Falcons",
+        "team": "spirit",
+        "map": "Ancient",
+        "result": "6 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198687/falcons-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        }
+      },
+      {
+        "date": "2025-05-01",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Falcons",
+        "team": "spirit",
+        "map": "Dust2",
+        "result": "12 - 16",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198689/falcons-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        }
+      },
+      {
+        "date": "2025-05-01",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Falcons",
+        "team": "spirit",
+        "map": "Mirage",
+        "result": "13 - 4",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198686/spirit-vs-falcons?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 4,
+          "points": 451
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-30",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Flyquest",
+        "team": "spirit",
+        "map": "Mirage",
+        "result": "13 - 2",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198551/spirit-vs-flyquest?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 24,
+          "points": 49
+        }
+      },
+      {
+        "date": "2025-04-30",
+        "event": "BLAST Rivals 2025 Season 1",
+        "opponent": "Flyquest",
+        "team": "spirit",
+        "map": "Nuke",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198557/flyquest-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 24,
+          "points": 49
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-29",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Vitality",
+        "team": "spirit",
+        "map": "Anubis",
+        "result": "6 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196594/spirit-vs-vitality?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        }
+      },
+      {
+        "date": "2025-03-29",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Vitality",
+        "team": "spirit",
+        "map": "Mirage",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196609/spirit-vs-vitality?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        }
+      },
+      {
+        "date": "2025-03-29",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Vitality",
+        "team": "spirit",
+        "map": "Nuke",
+        "result": "13 - 5",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196605/spirit-vs-vitality?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 1,
+          "points": 1000
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-28",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Natus Vincere",
+        "team": "spirit",
+        "map": "Anubis",
+        "result": "13 - 6",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196417/spirit-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 6,
+          "points": 347
+        }
+      },
+      {
+        "date": "2025-03-28",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Natus Vincere",
+        "team": "spirit",
+        "map": "Dust2",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196413/natus-vincere-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 6,
+          "points": 347
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-24",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Virtus.Pro",
+        "team": "spirit",
+        "map": "Ancient",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195954/spirit-vs-virtuspro?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 12,
+          "points": 157
+        }
+      },
+      {
+        "date": "2025-03-24",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Virtus.Pro",
+        "team": "spirit",
+        "map": "Anubis",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195956/spirit-vs-virtuspro?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 12,
+          "points": 157
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-23",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Faze",
+        "team": "spirit",
+        "map": "Anubis",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195932/spirit-vs-faze?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 9,
+          "points": 209
+        }
+      },
+      {
+        "date": "2025-03-23",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Faze",
+        "team": "spirit",
+        "map": "Nuke",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195933/faze-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 9,
+          "points": 209
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-21",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Mouz",
+        "team": "spirit",
+        "map": "Ancient",
+        "result": "22 - 25",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195800/mouz-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 2,
+          "points": 568
+        }
+      },
+      {
+        "date": "2025-03-21",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Mouz",
+        "team": "spirit",
+        "map": "Dust2",
+        "result": "13 - 3",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195792/mouz-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 2,
+          "points": 568
+        }
+      },
+      {
+        "date": "2025-03-21",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "Mouz",
+        "team": "spirit",
+        "map": "Nuke",
+        "result": "13 - 16",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195795/spirit-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 2,
+          "points": 568
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-19",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "The Huns",
+        "team": "spirit",
+        "map": "Anubis",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195624/spirit-vs-the-huns?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 46,
+          "points": 19
+        }
+      },
+      {
+        "date": "2025-03-19",
+        "event": "BLAST Open Lisbon 2025",
+        "opponent": "The Huns",
+        "team": "spirit",
+        "map": "Dust2",
+        "result": "13 - 4",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195628/the-huns-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 46,
+          "points": 19
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-15",
+        "event": "ESL Pro League Season 21",
+        "opponent": "Mouz",
+        "team": "spirit",
+        "map": "Ancient",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195397/mouz-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 2,
+          "points": 568
+        }
+      },
+      {
+        "date": "2025-03-15",
+        "event": "ESL Pro League Season 21",
+        "opponent": "Mouz",
+        "team": "spirit",
+        "map": "Dust2",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195386/mouz-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 2,
+          "points": 568
+        }
+      },
+      {
+        "date": "2025-03-15",
+        "event": "ESL Pro League Season 21",
+        "opponent": "Mouz",
+        "team": "spirit",
+        "map": "Nuke",
+        "result": "14 - 16",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/195371/spirit-vs-mouz?startDate=2025-03-15&endDate=2025-05-14&contextIds=7020&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 2,
+          "points": 568
+        },
+        "series_score": "1-2"
+      }
+    ]
+  ],
+  "map_stats": {
+    "Dust2": {
+      "winrate": 0.875,
+      "pick_pct": 0.583,
+      "ban_pct": 0.0,
+      "maps_played": 8
+    },
+    "Nuke": {
+      "winrate": 0.5710000000000001,
+      "pick_pct": 0.273,
+      "ban_pct": 0.111,
+      "maps_played": 7
+    },
+    "Anubis": {
+      "winrate": 0.833,
+      "pick_pct": 0.28600000000000003,
+      "ban_pct": 0.188,
+      "maps_played": 6
+    },
+    "Mirage": {
+      "winrate": 0.6,
+      "pick_pct": 0.111,
+      "ban_pct": 0.125,
+      "maps_played": 5
+    },
+    "Ancient": {
+      "winrate": 0.4,
+      "pick_pct": 0.091,
+      "ban_pct": 0.048,
+      "maps_played": 5
+    },
+    "Train": {
+      "winrate": 1.0,
+      "pick_pct": 0.0,
+      "ban_pct": 0.28600000000000003,
+      "maps_played": 1
+    }
+  },
+  "player_stats": [
+    {
+      "name": "donk",
+      "maps": 32,
+      "kd": 1.5,
+      "rating": 1.47
+    },
+    {
+      "name": "sh1ro",
+      "maps": 32,
+      "kd": 1.56,
+      "rating": 1.29
+    },
+    {
+      "name": "zont1x",
+      "maps": 32,
+      "kd": 1.1,
+      "rating": 1.09
+    },
+    {
+      "name": "magixx",
+      "maps": 32,
+      "kd": 1.0,
+      "rating": 1.01
+    },
+    {
+      "name": "chopper",
+      "maps": 32,
+      "kd": 0.76,
+      "rating": 0.87
+    }
+  ]
+}

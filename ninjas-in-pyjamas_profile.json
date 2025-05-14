@@ -1,0 +1,527 @@
+{
+  "team_id": 4411,
+  "team_name": "ninjas-in-pyjamas",
+  "date_range": [
+    "2025-03-15",
+    "2025-05-14"
+  ],
+  "self_ranking": {
+    "rank": 30,
+    "points": 30
+  },
+  "recent_matches": [
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-13",
+        "event": "PGL Astana 2025",
+        "opponent": "Hotu",
+        "team": "ninjas-in-pyjamas",
+        "map": "Ancient",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199553/ninjas-in-pyjamas-vs-hotu?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 36,
+          "points": 25
+        }
+      },
+      {
+        "date": "2025-05-13",
+        "event": "PGL Astana 2025",
+        "opponent": "Hotu",
+        "team": "ninjas-in-pyjamas",
+        "map": "Nuke",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199555/hotu-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 36,
+          "points": 25
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-12",
+        "event": "PGL Astana 2025",
+        "opponent": "Aurora",
+        "team": "ninjas-in-pyjamas",
+        "map": "Anubis",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199482/aurora-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 5,
+          "points": 351
+        }
+      },
+      {
+        "date": "2025-05-12",
+        "event": "PGL Astana 2025",
+        "opponent": "Aurora",
+        "team": "ninjas-in-pyjamas",
+        "map": "Inferno",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199493/aurora-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 5,
+          "points": 351
+        }
+      },
+      {
+        "date": "2025-05-12",
+        "event": "PGL Astana 2025",
+        "opponent": "Aurora",
+        "team": "ninjas-in-pyjamas",
+        "map": "Train",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199487/aurora-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 5,
+          "points": 351
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-11",
+        "event": "PGL Astana 2025",
+        "opponent": "Spirit",
+        "team": "ninjas-in-pyjamas",
+        "map": "Dust2",
+        "result": "4 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199427/ninjas-in-pyjamas-vs-spirit?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 3,
+          "points": 555
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "event": "PGL Astana 2025",
+        "opponent": "Spirit",
+        "team": "ninjas-in-pyjamas",
+        "map": "Train",
+        "result": "13 - 16",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199421/spirit-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 3,
+          "points": 555
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-10",
+        "event": "PGL Astana 2025",
+        "opponent": "Virtus.Pro",
+        "team": "ninjas-in-pyjamas",
+        "map": "Ancient",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199356/virtuspro-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 12,
+          "points": 157
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "event": "PGL Astana 2025",
+        "opponent": "Virtus.Pro",
+        "team": "ninjas-in-pyjamas",
+        "map": "Dust2",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199351/ninjas-in-pyjamas-vs-virtuspro?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 12,
+          "points": 157
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "event": "PGL Astana 2025",
+        "opponent": "Virtus.Pro",
+        "team": "ninjas-in-pyjamas",
+        "map": "Train",
+        "result": "13 - 6",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199342/virtuspro-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 12,
+          "points": 157
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-27",
+        "event": "Fragadelphia Las Vegas 2025",
+        "opponent": "Nrg",
+        "team": "ninjas-in-pyjamas",
+        "map": "Dust2",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198439/ninjas-in-pyjamas-vs-nrg?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 38,
+          "points": 24
+        }
+      },
+      {
+        "date": "2025-04-27",
+        "event": "Fragadelphia Las Vegas 2025",
+        "opponent": "Nrg",
+        "team": "ninjas-in-pyjamas",
+        "map": "Nuke",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198437/nrg-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 38,
+          "points": 24
+        }
+      },
+      {
+        "date": "2025-04-27",
+        "event": "Fragadelphia Las Vegas 2025",
+        "opponent": "Nrg",
+        "team": "ninjas-in-pyjamas",
+        "map": "Train",
+        "result": "22 - 18",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198441/nrg-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 38,
+          "points": 24
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-13",
+        "event": "Level Up LUND! 2025",
+        "opponent": "Tnl",
+        "team": "ninjas-in-pyjamas",
+        "map": "Ancient",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197624/ninjas-in-pyjamas-vs-tnl?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 47,
+          "points": 19
+        }
+      },
+      {
+        "date": "2025-04-13",
+        "event": "Level Up LUND! 2025",
+        "opponent": "Tnl",
+        "team": "ninjas-in-pyjamas",
+        "map": "Dust2",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197618/ninjas-in-pyjamas-vs-tnl?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 47,
+          "points": 19
+        }
+      },
+      {
+        "date": "2025-04-13",
+        "event": "Level Up LUND! 2025",
+        "opponent": "Tnl",
+        "team": "ninjas-in-pyjamas",
+        "map": "Nuke",
+        "result": "6 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/197610/tnl-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 47,
+          "points": 19
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo5"
+      },
+      {
+        "date": "2025-04-01",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Metizport",
+        "team": "ninjas-in-pyjamas",
+        "map": "Ancient",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196842/metizport-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 43,
+          "points": 20
+        }
+      },
+      {
+        "date": "2025-04-01",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Metizport",
+        "team": "ninjas-in-pyjamas",
+        "map": "Anubis",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196831/metizport-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 43,
+          "points": 20
+        }
+      },
+      {
+        "date": "2025-04-01",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Metizport",
+        "team": "ninjas-in-pyjamas",
+        "map": "Dust2",
+        "result": "16 - 12",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196838/ninjas-in-pyjamas-vs-metizport?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 43,
+          "points": 20
+        }
+      },
+      {
+        "date": "2025-04-01",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Metizport",
+        "team": "ninjas-in-pyjamas",
+        "map": "Inferno",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196846/metizport-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 43,
+          "points": 20
+        }
+      },
+      {
+        "date": "2025-04-01",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Metizport",
+        "team": "ninjas-in-pyjamas",
+        "map": "Nuke",
+        "result": "4 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196835/metizport-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 43,
+          "points": 20
+        },
+        "series_score": "3-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-31",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "B8",
+        "team": "ninjas-in-pyjamas",
+        "map": "Inferno",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196783/b8-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 23,
+          "points": 51
+        }
+      },
+      {
+        "date": "2025-03-31",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "B8",
+        "team": "ninjas-in-pyjamas",
+        "map": "Train",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196784/b8-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 23,
+          "points": 51
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-30",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Fnatic",
+        "team": "ninjas-in-pyjamas",
+        "map": "Ancient",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196690/ninjas-in-pyjamas-vs-fnatic?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 49,
+          "points": 16
+        }
+      },
+      {
+        "date": "2025-03-30",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Fnatic",
+        "team": "ninjas-in-pyjamas",
+        "map": "Inferno",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196697/fnatic-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 49,
+          "points": 16
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-29",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Fnatic",
+        "team": "ninjas-in-pyjamas",
+        "map": "Inferno",
+        "result": "5 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196556/ninjas-in-pyjamas-vs-fnatic?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 49,
+          "points": 16
+        }
+      },
+      {
+        "date": "2025-03-29",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Fnatic",
+        "team": "ninjas-in-pyjamas",
+        "map": "Train",
+        "result": "11 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196550/fnatic-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 49,
+          "points": 16
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-03-27",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Passion Ua",
+        "team": "ninjas-in-pyjamas",
+        "map": "Anubis",
+        "result": "16 - 12",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196138/passion-ua-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 58,
+          "points": 12
+        }
+      },
+      {
+        "date": "2025-03-27",
+        "event": "PGL Astana 2025 Europe Closed Qualifier",
+        "opponent": "Passion Ua",
+        "team": "ninjas-in-pyjamas",
+        "map": "Train",
+        "result": "13 - 2",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/196149/passion-ua-vs-ninjas-in-pyjamas?startDate=2025-03-15&endDate=2025-05-14&contextIds=4411&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 58,
+          "points": 12
+        },
+        "series_score": "2-0"
+      }
+    ]
+  ],
+  "map_stats": {
+    "Train": {
+      "winrate": 0.7140000000000001,
+      "pick_pct": 0.6,
+      "ban_pct": 0.0,
+      "maps_played": 7
+    },
+    "Dust2": {
+      "winrate": 0.4,
+      "pick_pct": 0.0,
+      "ban_pct": 0.235,
+      "maps_played": 5
+    },
+    "Inferno": {
+      "winrate": 0.6,
+      "pick_pct": 0.0,
+      "ban_pct": 0.154,
+      "maps_played": 5
+    },
+    "Ancient": {
+      "winrate": 0.6,
+      "pick_pct": 0.222,
+      "ban_pct": 0.0,
+      "maps_played": 5
+    },
+    "Nuke": {
+      "winrate": 0.5,
+      "pick_pct": 0.667,
+      "ban_pct": 0.0,
+      "maps_played": 4
+    },
+    "Anubis": {
+      "winrate": 0.667,
+      "pick_pct": 0.0,
+      "ban_pct": 0.21100000000000002,
+      "maps_played": 3
+    }
+  },
+  "player_stats": [
+    {
+      "name": "sjuush",
+      "maps": 29,
+      "kd": 1.2,
+      "rating": 1.18
+    },
+    {
+      "name": "r1nkle",
+      "maps": 29,
+      "kd": 1.3,
+      "rating": 1.17
+    },
+    {
+      "name": "ewjerkz",
+      "maps": 29,
+      "kd": 0.88,
+      "rating": 0.97
+    },
+    {
+      "name": "arrozdoce",
+      "maps": 29,
+      "kd": 0.89,
+      "rating": 0.96
+    },
+    {
+      "name": "Snappi",
+      "maps": 29,
+      "kd": 0.79,
+      "rating": 0.9
+    }
+  ]
+}

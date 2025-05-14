@@ -1,0 +1,360 @@
+{
+  "team_id": 9215,
+  "team_name": "mibr",
+  "date_range": [
+    "2025-03-15",
+    "2025-05-14"
+  ],
+  "self_ranking": {
+    "rank": 18,
+    "points": 66
+  },
+  "recent_matches": [
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-13",
+        "event": "PGL Astana 2025",
+        "opponent": "Pain",
+        "team": "mibr",
+        "map": "Mirage",
+        "result": "13 - 8",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199572/mibr-vs-pain?startDate=2025-03-15&endDate=2025-05-14&contextIds=9215&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 16,
+          "points": 69
+        }
+      },
+      {
+        "date": "2025-05-13",
+        "event": "PGL Astana 2025",
+        "opponent": "Pain",
+        "team": "mibr",
+        "map": "Train",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199566/pain-vs-mibr?startDate=2025-03-15&endDate=2025-05-14&contextIds=9215&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 16,
+          "points": 69
+        },
+        "series_score": "2-0"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-12",
+        "event": "PGL Astana 2025",
+        "opponent": "Furia",
+        "team": "mibr",
+        "map": "Anubis",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199475/furia-vs-mibr?startDate=2025-03-15&endDate=2025-05-14&contextIds=9215&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 19,
+          "points": 62
+        }
+      },
+      {
+        "date": "2025-05-12",
+        "event": "PGL Astana 2025",
+        "opponent": "Furia",
+        "team": "mibr",
+        "map": "Inferno",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199477/furia-vs-mibr?startDate=2025-03-15&endDate=2025-05-14&contextIds=9215&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 19,
+          "points": 62
+        }
+      },
+      {
+        "date": "2025-05-12",
+        "event": "PGL Astana 2025",
+        "opponent": "Furia",
+        "team": "mibr",
+        "map": "Train",
+        "result": "4 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199472/furia-vs-mibr?startDate=2025-03-15&endDate=2025-05-14&contextIds=9215&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 19,
+          "points": 62
+        },
+        "series_score": "1-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-11",
+        "event": "PGL Astana 2025",
+        "opponent": "The Mongolz",
+        "team": "mibr",
+        "map": "Anubis",
+        "result": "6 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199397/mibr-vs-the-mongolz?startDate=2025-03-15&endDate=2025-05-14&contextIds=9215&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 7,
+          "points": 343
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "event": "PGL Astana 2025",
+        "opponent": "The Mongolz",
+        "team": "mibr",
+        "map": "Mirage",
+        "result": "5 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199395/mibr-vs-the-mongolz?startDate=2025-03-15&endDate=2025-05-14&contextIds=9215&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 7,
+          "points": 343
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-05-10",
+        "event": "PGL Astana 2025",
+        "opponent": "G2",
+        "team": "mibr",
+        "map": "Ancient",
+        "result": "8 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199329/mibr-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=9215&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 8,
+          "points": 309
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "event": "PGL Astana 2025",
+        "opponent": "G2",
+        "team": "mibr",
+        "map": "Anubis",
+        "result": "13 - 7",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199325/mibr-vs-g2?startDate=2025-03-15&endDate=2025-05-14&contextIds=9215&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 8,
+          "points": 309
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "event": "PGL Astana 2025",
+        "opponent": "G2",
+        "team": "mibr",
+        "map": "Nuke",
+        "result": "13 - 11",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/199335/g2-vs-mibr?startDate=2025-03-15&endDate=2025-05-14&contextIds=9215&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 8,
+          "points": 309
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-23",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Liquid",
+        "team": "mibr",
+        "map": "Ancient",
+        "result": "10 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198144/mibr-vs-liquid?startDate=2025-03-15&endDate=2025-05-14&contextIds=9215&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 10,
+          "points": 172
+        }
+      },
+      {
+        "date": "2025-04-23",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Liquid",
+        "team": "mibr",
+        "map": "Anubis",
+        "result": "6 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198142/mibr-vs-liquid?startDate=2025-03-15&endDate=2025-05-14&contextIds=9215&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 10,
+          "points": 172
+        },
+        "series_score": "0-2"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-22",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Saw",
+        "team": "mibr",
+        "map": "Anubis",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198106/mibr-vs-saw?startDate=2025-03-15&endDate=2025-05-14&contextIds=9215&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 25,
+          "points": 46
+        }
+      },
+      {
+        "date": "2025-04-22",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Saw",
+        "team": "mibr",
+        "map": "Inferno",
+        "result": "13 - 10",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198115/saw-vs-mibr?startDate=2025-03-15&endDate=2025-05-14&contextIds=9215&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 25,
+          "points": 46
+        }
+      },
+      {
+        "date": "2025-04-22",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Saw",
+        "team": "mibr",
+        "map": "Nuke",
+        "result": "5 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198109/mibr-vs-saw?startDate=2025-03-15&endDate=2025-05-14&contextIds=9215&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 25,
+          "points": 46
+        },
+        "series_score": "2-1"
+      }
+    ],
+    [
+      {
+        "format": "bo3"
+      },
+      {
+        "date": "2025-04-21",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Natus Vincere",
+        "team": "mibr",
+        "map": "Anubis",
+        "result": "13 - 9",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198052/mibr-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=9215&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 6,
+          "points": 347
+        }
+      },
+      {
+        "date": "2025-04-21",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Natus Vincere",
+        "team": "mibr",
+        "map": "Inferno",
+        "result": "9 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198060/mibr-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=9215&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 6,
+          "points": 347
+        }
+      },
+      {
+        "date": "2025-04-21",
+        "event": "IEM Melbourne 2025",
+        "opponent": "Natus Vincere",
+        "team": "mibr",
+        "map": "Mirage",
+        "result": "5 - 13",
+        "match_url": "https://www.hltv.org/stats/matches/mapstatsid/198056/mibr-vs-natus-vincere?startDate=2025-03-15&endDate=2025-05-14&contextIds=9215&contextTypes=team&rankingFilter=Top50",
+        "opponent_ranking": {
+          "rank": 6,
+          "points": 347
+        },
+        "series_score": "1-2"
+      }
+    ]
+  ],
+  "map_stats": {
+    "Anubis": {
+      "winrate": 0.667,
+      "pick_pct": 0.7140000000000001,
+      "ban_pct": 0.0,
+      "maps_played": 6
+    },
+    "Mirage": {
+      "winrate": 0.33299999999999996,
+      "pick_pct": 0.0,
+      "ban_pct": 0.125,
+      "maps_played": 3
+    },
+    "Inferno": {
+      "winrate": 0.33299999999999996,
+      "pick_pct": 0.0,
+      "ban_pct": 0.071,
+      "maps_played": 3
+    },
+    "Nuke": {
+      "winrate": 0.5,
+      "pick_pct": 0.0,
+      "ban_pct": 0.231,
+      "maps_played": 2
+    },
+    "Train": {
+      "winrate": 0.5,
+      "pick_pct": 0.5,
+      "ban_pct": 0.125,
+      "maps_played": 2
+    },
+    "Ancient": {
+      "winrate": 0.0,
+      "pick_pct": 0.0,
+      "ban_pct": 0.111,
+      "maps_played": 2
+    }
+  },
+  "player_stats": [
+    {
+      "name": "insani",
+      "maps": 18,
+      "kd": 0.97,
+      "rating": 1.07
+    },
+    {
+      "name": "saffee",
+      "maps": 18,
+      "kd": 1.01,
+      "rating": 0.97
+    },
+    {
+      "name": "Lucaozy",
+      "maps": 18,
+      "kd": 0.89,
+      "rating": 0.91
+    },
+    {
+      "name": "brnz4n",
+      "maps": 18,
+      "kd": 0.88,
+      "rating": 0.9
+    },
+    {
+      "name": "exit",
+      "maps": 18,
+      "kd": 0.93,
+      "rating": 0.88
+    }
+  ]
+}
